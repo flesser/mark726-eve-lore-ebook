@@ -1098,8 +1098,8 @@ Republic: the
 ### History
 
 The deep history of the Minmatar is a bit more hidden than the Amarr's.
-We know that Pator, the Matari home system (â€˜Matari' and â€˜Minmatar,'
-like â€˜Amarr' and â€˜Amarrian,' are fairly interchangeable, with no
+We know that Pator, the Matari home system ('Matari' and 'Minmatar,'
+like 'Amarr' and 'Amarrian,' are fairly interchangeable, with no
 definitive usage rules coming out of the literature, although
 preferences do vary), was settled around 8017 AD and quickly developed
 due to Matar's (Pator IV's) hospitable climate. From there, we jump
@@ -1256,9 +1256,9 @@ as it is.
 Religion and spirituality play a large role in Minmatar life as well,
 though perhaps not as large of one as you might find in the Empire. As
 best as I can discern, Minmatar spirituality revolves around the idea
-that each Tribe has its own â€˜First Elder,' or spirit, that embodies
-the various traits that each Tribe is known for. Each tribe appoints its
-own tribal Elder that is supposed to be the living embodiment of that
+that each Tribe has its own 'First Elder,' or spirit, that embodies the
+various traits that each Tribe is known for. Each tribe appoints its own
+tribal Elder that is supposed to be the living embodiment of that
 Tribe's spirit, and maintain the knowledge accumulated by that Tribe
 over the mil ennia. It's important to note here that these elders are
 probably, but not definitively, the same Elders that led the Amarr
@@ -1444,7 +1444,7 @@ two groups of humans just HAPPENED to pop up on two planets in one star
 system, they were completely blindsided by the concept that humans would
 be found outside Luminaire: in this case, [the
 Intaki](http://wiki.eveonline.com/en/wiki/Nascent_Era_of_the_Gallente_Federation#Intaki_Discovery).
-In a brilliant display of ingenuity worthy of a clichÃ© â€˜80s film, the
+In a brilliant display of ingenuity worthy of a cliché '80s film, the
 crew of the *Sojourner* decided to go native for a year to learn about
 the Intaki. They liked what they saw, and eventually, the newly formed
 Office for Foreign Planetary Development sent a second ship to establish
@@ -1950,7 +1950,7 @@ existed in the first place (though, fittingly, the CDS did [introduce
 the concept of
 "corporations"](https://wiki.eveonline.com/en/wiki/Nascent_Era_of_the_Gallente_Federation#Cultural_Deliverance)
 to the Caldari in the first place... maybe Star Trek is something is on
-to something with that whole â€˜Prime Directive' nonsense...). Although
+to something with that whole 'Prime Directive' nonsense...). Although
 information on the Society is somewhat sparse, given the name it
 wouldn't be a stretch of the imagination to say that it probably had the
 purpose of "civilizing" the Caldari. From there, the situation continued
@@ -2109,7 +2109,7 @@ meritocratic in nature much of the time, an odd strain of racial purity
 runs through some aspects of the corporate Caldari culture; indeed, one
 of the factors that controls whom a Caldari may marry (as determined by
 the aforementioned corporate overlords) is similarity in physical
-appearance. The megacorps are trying to maintain the Caldari â€˜look'
+appearance. The megacorps are trying to maintain the Caldari 'look'
 across the generations. As such, a look at the various bloodlines is a
 necessity. First there is the
 [Deteis](http://wiki.eveonline.com/en/wiki/Deteis), who are seen as
@@ -2896,7 +2896,7 @@ Beyond its humanitarian mission, however, the Sisterhood is also a
 religious order. Another division of the Sisterhood, known as [the
 Sanctuary](http://wiki.eveonline.com/en/wiki/The_Sanctuary_%28Chronicle%29),
 [focuses its work](http://wiki.eveonline.com/en/wiki/The_Sanctuary) on
-the study of what it calls a [â€˜relic from
+the study of what it calls a ['relic from
 God'](http://wiki.eveonline.com/en/wiki/Sisters_of_EVE_%28Collective%29):
 the [EVE Gate](http://wiki.eveonline.com/en/wiki/EVE_Gate). Headed by
 the High Priestess [Harna
@@ -3348,7 +3348,7 @@ themselves to nearby systems without the use of stargates, though the
 use of a jump drive (this [jump
 drive](http://wiki.eveonline.com/en/wiki/Jump_drive) should NOT be
 confused with the jump drive mentioned in the interstel ar travelling
-article I've been linking. That â€˜jump drive' seems to be referring to
+article I've been linking. That 'jump drive' seems to be referring to
 what we now call the warp drive). The general principle of the jump
 drive seems to be the same as stargates, only now the use of cynosural
 beacons allows the forming wormhole to easily latch onto something in
@@ -3687,7 +3687,7 @@ learn the lore is to really dig into it yourself. I took pains while
 writing this to cross-reference to the bigger articles on the lore, but
 there's still so much out there that I just didn't have time or room to
 talk about. Dig into it, and you can see the kind of story CCP has built
-for Eve. At the risk of sounding clichÃ©, there's a universe worth of
+for Eve. At the risk of sounding cliché, there's a universe worth of
 stories out there to discover.
 
 I will say that EVE has a fantastic backstory though, and the best part
