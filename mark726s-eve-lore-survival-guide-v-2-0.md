@@ -1,9 +1,16 @@
 > **Mark726’s EVE Lore Survival Guide Version 2.0**  
 > *https://evetravel.wordpress.com/lore-survival-guide/*
+> Converted to Markdown
 
-# Foreword by Seismic Stan
+Mark726’s EVE Lore Survival Guide Version 2.0
+=============================================
 
-## EVE Online: The Greatest Story Still Being Told
+
+
+Foreword by Seismic Stan
+------------------------
+
+### EVE Online: The Greatest Story Still Being Told
 Science fiction literature has brought forth many mind-bending and society-changing
 stories. From the classic novels of Jules Verne, H.G. Wells and Aldous Huxley to the
 grand visions of Arthur C. Clarke, Robert Heinlein and Philip K. Dick. Entire universes
@@ -23,7 +30,7 @@ enduring original storytelling like Half Life and Mass Effect.
 
 But the future of storytelling is changing and EVE Online stands on the frontier.
 
-## When Science-Fiction and Science-Fact Collide
+### When Science-Fiction and Science-Fact Collide
 Every story mentioned above, no matter how engaging and wonderful, has one thing in
 common: They were all written to be enjoyed by the individual reader, viewer or player
 (or in the case of tabletop games, a small group). EVE Online is different.
@@ -33,7 +40,7 @@ enacted and recorded by and for its thousands of participants. The freeform univ
 engulfs the player as soon as a character is created, fusing him into the story by simply
 being present in a single-sharded science-fiction universe.
 
-## Everyone Plays a Role
+### Everyone Plays a Role
 Even those participants who choose to shun the lore are still woven into the tapestry as
 they select their race and bloodline, starship piloting skills and then head off into the
 player-populated organisation of their choice. Every player becomes the citizen of a
@@ -53,7 +60,7 @@ our pixellated victories. Those players who furiously claim that they are not
 "roleplayers" would be right in a sense; whether they are an e-sports combat pilot, a
 stoic fleet commander or the "King of Space", they aren't playing a role, they're living it.
 
-## No Wizard's Hat Required
+### No Wizard's Hat Required
 Yet the depth of fiction available for those who also choose a lore-driven path of
 immersion is immense. With a backstory that has grown organically over the last
 decade, the epic interplay of warring civilisations in a universe of amoral,
@@ -73,7 +80,7 @@ into something more. I suspect Mark was hoping I'd stop asking him stupid questi
 once he'd written it, but now I have a host of new stupid questions and after
 reading it, I'm sure you will too.
 
-## The Greatest Story Not Yet Told
+### The Greatest Story Not Yet Told
 As EVE Online continues to grow and its capsuleers live the story as it unfolds, we can
 only hope that the content developers at CCP have the vision to continue to push the
 narrative envelope, creating content that will ensnare and inspire.
@@ -89,7 +96,8 @@ Join us...
 
 
 
-# An Introduction
+An Introduction
+---------------
 
 Hi everyone. I'm Mark726. You might know me from [EVE Travel](http://evetravel.wordpress.com/),
 a blog dedicated to exploring and explaining the various landmarks (spacemarks?) in New Eden, to aid
@@ -140,7 +148,7 @@ items that don't quite fit anywhere else.
 So, let's get started, shall we?
 
 
-## In the Beginning
+### In the Beginning
 Let's start off with some very basic information. EVE Online takes place (as of the
 posting of this blog) in the year 23,350 AD, or YC 114 (brief sidenote: I'll return to the
 YC concept later on for timekeeping in the section on miscellanea; suffice it for now to
@@ -248,7 +256,7 @@ Eventually, some civilizations managed to climb back up into space... but that's
 ahead of myself.
 
 
-## A Sidenote (Ancient Civilizations)
+### A Sidenote (Ancient Civilizations)
 Even the lore that we as players know (compared to what we would know as characters
 in New Eden) isn't complete. The Dark Ages had some interesting happenings (of which
 I will describe as best as possible here), but exactly what happened after the collapse
@@ -393,7 +401,9 @@ four modern empires as well as the development of CONCORD.
 
 
 
-# The Empires
+The Empires
+-----------
+
 In the last part, we looked at some of the deeper history of New Eden, dating back to
 the discovery of New Eden itself. In this part, we're going to be looking at something a
 little nearer and dearer to all of our RPing hearts: the history of the modern day
@@ -405,7 +415,7 @@ some witty and charming dinnertime conversation. We'll be covering the four empi
 separate sections before turning our attentions to those lovable scamps in CONCORD.
 
 
-## The Amarr Empire: God Has a Plan
+### The Amarr Empire: God Has a Plan
 We start with the largest and, depending on who you talk to, most diabolical of the four
 nations of New Eden: the [Amarr Empire](http://wiki.eveonline.com/en/wiki/Amarr).
 Two parts theological empire, one part
@@ -425,7 +435,7 @@ for life in exchange for no pay and little hope of relief. Indeed, the Amarr's s
 technology is cluster-renowned, with only the Sansha having more effective techniques.
 
 
-## History
+### History
 The Amarr are notable not just for being the largest nation in New Eden and for being
 slavers: they also have the singular distinction of having the oldest recorded history,
 dating back almost back to the collapse of the EVE Gate.
@@ -773,7 +783,7 @@ million members of their workforce, and the Republic wasn't quite prepared to ha
 people so good for them" but a start is a start, I suppose.
 
 
-## Social Structure
+### Social Structure
 The [government of the Empire](http://wiki.eveonline.com/en/wiki/Government_of_the_Amarr_Empire)
 is delightfully complex, as you might have guessed, as it
 is essentially a modern day feudalist structure. Each governance layer can do whatever
@@ -850,7 +860,7 @@ majority are [True Amarr](http://wiki.eveonline.com/en/wiki/True_Amarr),
 the Minmatar tribes and others take up a significant chunk as well (and not just as slaves!).
 
 
-## Roleplaying Tips
+### Roleplaying Tips
 Before I dig in to a few tips for RPing the Amarr, I just want to mention something for
 the aspiring RPers out there. In these sections, I'll be mentioning some broad guidelines
 that MOST RPers try to adhere to in playing their characters in a respective background.
@@ -884,7 +894,8 @@ friend" type approach), solidified
 
 
 
-# The Minmatar Republic: 7 Tribes for 7 Brothers
+The Minmatar Republic: 7 Tribes for 7 Brothers
+----------------------------------------------
 
 It shouldn't be surprising that the history of the
 [Minmatar Republic](http://wiki.eveonline.com/en/wiki/Minmatar_Republic) is intimately
@@ -911,7 +922,7 @@ the [Krusual](http://wiki.eveonline.com/en/wiki/Krusual_tribe),
 and the [Vherokior](http://wiki.eveonline.com/en/wiki/Vherokior_tribe).
 
 
-## History
+### History
 The deep history of the Minmatar is a bit more hidden than the Amarr's. We know that
 Pator, the Matari home system (‘Matari' and ‘Minmatar,' like ‘Amarr' and ‘Amarrian,' are
 fairly interchangeable, with no definitive usage rules coming out of the literature,
@@ -996,7 +1007,7 @@ Gallente of Minmatar origin suffer discrimination inside Gallente space (BREAKIN
 humans generally dislike people who are different from them; details at 11).
 
 
-## Social Structure
+### Social Structure
 The loyalties of a Minmatar are first and foremost to a Matari's tribe. The tribe
 determines much of a person's beliefs and the rituals he or she adheres to. Within a
 tribe, organization can get a bit... jumbled. Tribes tend to break down into varieties of
@@ -1067,7 +1078,7 @@ anything the Parliament does. As I said, Parliament pissed someone off something
 fierce back in the day.
 
 
-## Roleplaying Tips
+### Roleplaying Tips
 As might be expected, the Matari are seen mainly as the rebels, especially against the
 Amarr. They're often played off as anti-establishment, sometimes just for the sake of
 being anti-establishment. Although many RPers these days choose to have some direct
@@ -1090,7 +1101,8 @@ rather strained in recent months.
 
 
 
-# The Gallente Federation: Or, How I Learned to Stop Worrying and Love the Sex, Drugs, and Rock and Roll
+The Gallente Federation: Or, How I Learned to Stop Worrying and Love the Sex, Drugs, and Rock and Roll
+------------------------------------------------------------------------------------------------------
 
 If the Amarr Empire fancies itself as the moral center of New Eden, the
 [Gallente Federation](http://wiki.eveonline.com/en/wiki/Gallente_Federation)
@@ -1120,7 +1132,7 @@ the regimental [Jin-Mei](http://wiki.eveonline.com/en/wiki/Jin-Mei),
 and the rather nationalistic [Mannar](http://wiki.eveonline.com/en/wiki/Mannar).
 
 
-## History
+### History
 
 Gallentean history (though not known by New Eden denizens, of course) dates back to
 well before the collapse of the EVE Gate.
@@ -1462,7 +1474,7 @@ secret ops branch of military intelligence. President Roden has seen no need to 
 with the Eagles since coming to office in YC 111.
 
 
-## Social Structure
+### Social Structure
 As you might have guessed from the introduction, the
 [Federation government](http://wiki.eveonline.com/en/wiki/Government_of_the_Gallente_Federation) should
 be familiar to any student of American government (I know I promised the poli sci
@@ -1528,7 +1540,7 @@ Oh, and then there's the Intaki. But they're special enough to warrant an
 entire section (and NOT just because my character happens to be one).
 
 
-## Roleplaying Tips
+### Roleplaying Tips
 As you could probably guess, the Gallente like to, shall we say, "party hard." They are
 known for their, well, sex, drugs, and rock and roll, and most Gallente are proud of that
 fact. They also tend to be the most idealistic of the four races, frowning mightily from
@@ -1553,7 +1565,8 @@ believe there's a clear majority one way or another.
 
 
 
-# The Caldari State: Nothing Says Love Like a Giant and Soulless Megacorporation
+The Caldari State: Nothing Says Love Like a Giant and Soulless Megacorporation
+------------------------------------------------------------------------------
 
 If it's difficult to describe the Minmatar without referring to the Amarr, it is impossible to
 describe the [Caldari State](http://wiki.eveonline.com/en/wiki/Caldari) without describing the massive impact the Gallente
@@ -1571,7 +1584,7 @@ some attempts to centralize authority in the State in the recent past, the eight
 megacorporations still firmly control the levers of power within Caldari borders.
 
 
-## History
+### History
 The early history of the State has made a lasting impact on the Caldari, moreso than
 the other races. The planet that would eventually be known as [Caldari Prime](http://wiki.eveonline.com/en/wiki/Caldari_Prime) was
 purchased by a megacorporation in 7993. Caldari Prime, unlike its sister Gallente Prime,
@@ -1686,7 +1699,7 @@ Heth's current whereabouts are unknown, but given that his lungs are
 we'll probably be hearing about his death soon enough.
 
 
-## Social Structure
+### Social Structure
 A person's daily life in the State begins and ends with one of the eight megacorporations:
 [Sukuuvesta](http://wiki.eveonline.com/en/wiki/Sukuuvestaa_Corporation),
 [Nugoeihuvi](http://wiki.eveonline.com/en/wiki/Nugoeihuvi_Corporation),
@@ -1770,7 +1783,7 @@ appear scant in the literature. Suffice it to say that the Achura are more intro
 others, but more renowned for their intelligence.
 
 
-## Roleplaying Tips
+### Roleplaying Tips
 The Caldari are probably best known for being fiercely nationalistic, and proud both of
 their state and their parent corporation. Given that the corporation has essentially
 raised their members since birth, their views on various affairs are likely to closely
@@ -1786,7 +1799,8 @@ things Gallente can be well-explained given their history.
 
 
 
-# CONCORD: Policeman of the Skies
+CONCORD: Policeman of the Skies
+-------------------------------
 
 [CONCORD](http://wiki.eveonline.com/en/wiki/CONCORD),
 short for CONsolidated COoperation and Relations commanD (they were
@@ -1841,7 +1855,8 @@ between the empires.
 
 
 
-# Frontier Organizations
+Frontier Organizations
+----------------------
 
 *Minor Powers, Mighty Aspirations*
 
@@ -1858,7 +1873,7 @@ powers as I did for the major empires, but each of these have their own unique
 storylines that deserve at least some mention.
 
 
-## Ammatar Mandate
+### Ammatar Mandate
 I've actually mentioned the [Ammatar](http://wiki.eveonline.com/en/wiki/Ammatar) before in the sections on the Amarr and Minmatar.
 Originally known as the [Nefantar](http://wiki.eveonline.com/en/wiki/Nefantar), they were the only Minmatar tribe to accept the
 Amarr invasion with something like open arms. Indeed, this was something of a political
@@ -1910,7 +1925,7 @@ Although many Nefantar decided to return, the Mandate itself survives and many h
 chosen to remain under Empire protection.
 
 
-## Angel Cartel
+### Angel Cartel
 One of the more established of the pirate factions, the
 [Angel Cartel's](http://wiki.eveonline.com/en/wiki/Angel_Cartel) main base of
 operations is in the [Curse](http://wiki.eveonline.com/en/wiki/Curse_%28lore%29)
@@ -1941,7 +1956,7 @@ divulge that information. Given the fact that
 Jovian Empire, however, such rumors may not be all that far off-base.
 
 
-## Blood Raider Covenant
+### Blood Raider Covenant
 It might surprise you to know that there is an even darker side to an already dark
 religion that allows and even encourages slavery of sentient beings. An offshoot of the
 mainstream Amarr religion
@@ -1990,7 +2005,7 @@ Around him are a close inner circle of theological and
 legal advisors, mostly given the ominous title of "Bleeders."
 
 
-## Equilibrium of Mankind
+### Equilibrium of Mankind
 A minor player in a host of minor players, the [Equilibrium of Mankind](http://wiki.eveonline.com/en/wiki/Equilibrium_of_Mankind) nonetheless has a
 notable role playing contingent, as well as a surprisingly well-developed backstory. The
 order, like the Blood Raider Covenant, is a split off sect of the Amarr religion. The sect
@@ -2015,7 +2030,7 @@ war against the rest of the cluster in obscurity, though they apparently have be
 making a comeback in recent years.
 
 
-## Guristas
+### Guristas
 The [Guristas Pirates](http://wiki.eveonline.com/en/wiki/Guristas) are perhaps the one
 pirate group that like to yarr for the sake of yarring.
 Founded by [Jirai Laitanen](http://wiki.eveonline.com/en/wiki/Jirai_Laitanen) and
@@ -2045,7 +2060,7 @@ Project. From there, the Guristas swooped in, raiding the station not once, but 
 eventually making off with the two top researchers, who eventually perished.
 
 
-## Intaki Syndicate
+### Intaki Syndicate
 The [Intaki Syndicate](http://wiki.eveonline.com/en/wiki/Intaki_Syndicate)
 runs the largest black market in New Eden.
 [Headed](http://wiki.eveonline.com/en/wiki/Silphy_%28Chronicle%29) by
@@ -2064,7 +2079,7 @@ a back channel for diplomatic relations between the major empires, which is why 
 Federation hasn't seen fit to close it down despite its notoriety.
 
 
-## Intaki Culture
+### Intaki Culture
 This seems as good a time as any to do a brief sidenote on
 [Intaki](http://wiki.eveonline.com/en/wiki/Intaki) history and religion.
 The Intaki were originally discovered by the Gallente in 22794 AD, about 330 years
@@ -2112,7 +2127,7 @@ Reborn are given a place of respect among the Intaki, though the title of Idama 
 reserved for those who are Reborn without the use of technology.
 
 
-## InterBus
+### InterBus
 A joint project between the four empires,
 [InterBus](http://wiki.eveonline.com/en/wiki/The_InterBus_%28Chronicle%29)
 was created to ensure some mode
@@ -2129,7 +2144,7 @@ fee. Clearly, that feature never quite made it to the game, but it's something t
 brought up now and then anyway.
 
 
-## Khanid Kingdom
+### Khanid Kingdom
 Another pseudo-Amarr protectorate, the
 [Khanid Kingdom](http://wiki.eveonline.com/en/wiki/Khanid_Kingdom) came into existence about
 300 years ago. As you may recall from the discussion on the Amarr, the losing Heirs are
@@ -2166,7 +2181,7 @@ outside trade and new technological development to survive much more so than the
 Amarr counterparts.
 
 
-## Mordu's Legion
+### Mordu's Legion
 As with most primarily Caldari organizations, the roots of
 [Mordu's Legion](http://wiki.eveonline.com/en/wiki/Mordu%27s_Legion) can be traced
 back to the Gallente-Caldari War. As I have discussed already, there was a sizeable
@@ -2195,7 +2210,7 @@ veterans and others who have joined the Legion since. The Legion provides no tra
 and expects those who want to join to be well-versed in combat already.
 
 
-## Outer Ring Excavations (ORE)
+### Outer Ring Excavations (ORE)
 Miner RPers out there can rejoice: even YOU can RP thanks to
 [Outer Ring Excavations](http://wiki.eveonline.com/en/wiki/Outer_Ring_Excavations)!
 The biggest mining consortium in New Eden, ORE (see what they did there?) was
@@ -2218,7 +2233,7 @@ close to Mordu's Legion, but that changed when Serpentis (discussed below) bough
 majority share in ORE.
 
 
-## Rogue Drones
+### Rogue Drones
 [Rogue drones](http://wiki.eveonline.com/en/wiki/Rogue_Drones)
 are a bit unique. They're not quite a faction, but they're significant
 enough to warrant their discussion here (not to mention being the focus
@@ -2270,7 +2285,7 @@ time, the Code Aria report was leaked to the public, prompting outcries from bot
 alike. However, the damage was done and the Drone Regions remain open to this day.
 
 
-## Sansha's Nation
+### Sansha's Nation
 Zombies have long been a part of popular culture (and apparently growing in popularity
 in recent years, vampire craze notwithstanding), so it only makes sense that a
 cyberpunk version of zombies made their appearance in EVE. They make their
@@ -2349,7 +2364,7 @@ What the future holds for Sansha and his Nation at this point are anything but c
 and the Empires have shown no particular desire to repeat the sweep of YC 37.
 
 
-## Serpentis
+### Serpentis
 The major drug runners in Eve, [Serpentis](http://wiki.eveonline.com/en/wiki/Serpentis),
 was originally created as a legitimate biochemical company in the Federation.
 Founded by [Igil Sarpati](http://wiki.eveonline.com/en/wiki/Igil_Sarpati) back when
@@ -2377,7 +2392,7 @@ close relationship with the Angel Cartel, particularly their
 their research assets.
 
 
-## Sisters of Eve
+### Sisters of Eve
 CCP prides itself on showing humanity's darker side in EVE Online. But even in EVE,
 there has to be SOME force for good. That force mostly manifests itself in the Servant
 [Sisters of Eve](http://wiki.eveonline.com/en/wiki/Sisters_of_EVE),
@@ -2429,7 +2444,7 @@ it), so it should be considered off-limits to characters, but it's an interestin
 nonetheless.
 
 
-## Society of Conscious Thought
+### Society of Conscious Thought
 As with anything Jove-related, the
 [Society of Conscious Thought](http://wiki.eveonline.com/en/wiki/Society_of_Conscious_Thought_%28Chronicle%29)
 is best described as a mystery wrapped in an [enigma](http://eve.wikia.com/wiki/Enigma)
@@ -2482,7 +2497,8 @@ institutions in New Eden.
 
 
 
-# Technology
+Technology
+----------
 
 For a game that takes place 21,000 years in the future, technology actually plays a
 fairly secondary role in the lore. That is a testament to CCP's content writers who avoid,
@@ -2494,7 +2510,7 @@ ones here, but there's [a LOT of lore](http://wiki.eveonline.com/en/wiki/Technol
 out there for anyone who's interested in the more mechanical side of things.
 
 
-## Capsules
+### Capsules
 Ah, the capsule. The pod. The egg. As particularly bad trolls try to say in help chat now
 and then (feel free to say hi to me in there if you see me), some think it's a sign that
 you've leveled up when it first appears. The
@@ -2552,7 +2568,7 @@ program is submitting to voluntary euthanasia to clone yourself to your new body
 sorry to all of those high sec people who say they've never been podded before).
 
 
-## Cloning
+### Cloning
 While the capsule alone dramatically increases a ship's effectiveness, the thing that
 truly makes us pod pilots truly immortal is the joining of a capsule with cloning
 technology. Cloning has been around in New Eden for a while (a business prospectus of
@@ -2610,7 +2626,7 @@ indeed, required) the use of cloning technology in pod pilots in YC 105 (conveni
 the game year that EVE Online starts in). The age of the pod pilot had begun.
 
 
-## DUST 514 Technology
+### DUST 514 Technology
 DUST 514 will be adding some new technology that, while it technically won't have
 much of an effect in our game, will certainly affect the game universe. The most
 important of the new tech involves the mercenary implants, which takes the
@@ -2690,7 +2706,7 @@ terrifying visions. Visions of the number 514 written in blood...
 (Cue the Twilight Zone music...)
 
 
-## Faster-Than-Light Communications
+### Faster-Than-Light Communications
 FTL communication was actually developed significantly after the development of FTL
 travel. Strangely, after FTL travel was developed, a ship became the fastest way to
 spread information, a situation not really seen since the great Age of Exploration on
@@ -2720,7 +2736,7 @@ entangled particles. These routers were soon joined into a
 that today spans the cluster, and allows us now to contact any person anywhere.
 
 
-## Stargates
+### Stargates
 [Stargates](http://wiki.eveonline.com/en/wiki/Stargate) are the backbone of New Eden,
 shaping the cluster and its politics as we
 know it. The gate network snakes throughout New Eden, and today lets us cross over
@@ -2776,7 +2792,7 @@ only now the use of cynosural beacons allows the forming wormhole to easily latc
 something in the destination system. Jump bridges work on a similar principle.
 
 
-## Warp Drive
+### Warp Drive
 While on the notion of interstellar travel, I would be remiss if I didn't mention the
 [warp drive](http://wiki.eveonline.com/en/wiki/Warp_drives).
 Formally known as the Sotiyo-Urbaata drive for the two Caldari scientists that
@@ -2815,7 +2831,7 @@ that pulls your ship to a halt (this is ostensibly why we play submarines in spa
 as opposed to the Newtonian motion that we would see in real life).
 
 
-## Vitoc
+### Vitoc
 It's hard to control slaves. They tend to not enjoy the experience. It was a lot easier to
 control slaves before they learned to read (since reading allows radical ideas like "hey,
 let's not be slaves anymore" to be easily transmitted throughout a slave community),
@@ -2854,14 +2870,15 @@ themselves.
 
 
 
-# Miscellaneous
+Miscellaneous
+-------------
 
 There's just a few things left that I want to touch on, and then I PROMISE I'll stop
 writing. These are things that either seemed to fit either everywhere, or nowhere at all,
 so I figured it would just be easiest to separate them out into their own little category.
 
 
-## Calendar
+### Calendar
 I realize that I swap a lot between saying years in the traditional AD system and in the
 newer YC system, but I'm working off of what the timeline gives me. It's easier to keep
 it set that way rather than referring to YC -18,000, which just seems sil y to me. In any
@@ -2888,7 +2905,7 @@ system to this day. As noted in the introduction, the real life year of 2012 cor
 to the in-game year of YC 114.
 
 
-## Naming Conventions / Languages
+### Naming Conventions / Languages
 One of the things I wanted to touch on was how to set up appropriate names for the
 bloodlines. Most of the bloodlines developed on completely separate worlds, and as
 such, they developed their own languages through the Dark Ages, and they continue to
@@ -2946,7 +2963,7 @@ What little we've seen suggests a combination of Finnish and
 Japanese influences, however.
 
 
-## Seyllin Incident/Isogen-5
+### Seyllin Incident/Isogen-5
 There's one last topic to discuss before concluding. It's a slightly odd topic, in that it is
 both integral to the overall EVE storyline these days, but also somewhat self-contained
 compared to the rest of the story. I'm talking, of course, about wormholes and the
@@ -3040,7 +3057,9 @@ never entirely be known, unfortunately.
 
 
 
-# Conclusion
+Conclusion
+----------
+
 Well, that about wraps it up. I confess that after writing all of this, I'm ironically not
 entirely sure of the best way to conclude. Some grandiose statement on the
 interconnectedness and depth of New Eden's story seems appropriate, but it turns out
