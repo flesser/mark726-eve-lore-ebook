@@ -167,7 +167,7 @@ things) will be looking at the development of the various pirate and
 other smaller organizations. The fourth part will look at some of the
 technology in New Eden, including the key developments of interstellar
 travel, cloning, and interstellar communications, while the last section
-will examine some miscel aneous items that don't quite fit anywhere
+will examine some miscellaneous items that don't quite fit anywhere
 else.
 
 So, let's get started, shall we?
