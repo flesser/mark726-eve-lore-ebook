@@ -1,3 +1,6 @@
+Mark726’s EVE Lore Survival Guide Version 2.0
+source: https://evetravel.wordpress.com/lore-survival-guide/
+
 # Foreword by Seismic Stan
 
 ## EVE Online: The Greatest Story Still Being Told
