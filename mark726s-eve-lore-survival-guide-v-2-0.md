@@ -102,7 +102,7 @@ will ensnare and inspire.
 
 H.G. Wel s had only the written word to inspire millions and by simply
 adding audio he managed to [troll a
-nation](http://en.wikipedia.org/wiki/The_War_of_the_Worlds_%28radio_drama%29).
+nation](http://en.wikipedia.org/wiki/The_War_of_the_Worlds_(radio_drama)).
 Just think what is possible with a state-of-the-art server cluster, a
 cast and crew of hundreds of thousands and a universe as deep and
 stunning as New Eden.
@@ -236,7 +236,7 @@ timeline doesn't mention much of note, though [some
 accounts](http://www.youtube.com/watch?v=T84nrp08MWo) mention vicious
 fights between corporations that control various human-colonized
 systems. That began to change in [7703
-AD](http://wiki.eveonline.com/en/wiki/EVE_gate_%28Location%29) when the
+AD](http://wiki.eveonline.com/en/wiki/EVE_gate_(Location)) when the
 first known massive (supposedly) stable wormhole formed. Humans
 discovered this wormhole near the system [of
 Canopus](https://forums.eveonline.com/default.aspx?g=posts&m=2505286#post2505286)
@@ -347,7 +347,7 @@ disturbingly, the Takmahl were considered experts in "cybernetics and
 bio-engineering technology." Take that how you will.
 
 Much more is known about the
-[Sleepers](http://wiki.eveonline.com/en/wiki/Sleepers_%28lore%29). They
+[Sleepers](http://wiki.eveonline.com/en/wiki/Sleepers_(lore)). They
 apparently originally settled in Minmatar space in the Ani
 constellation. The Sleepers were [considered
 masters](http://wiki.eveonline.com/en/wiki/Sleeper_drones) of "virtual
@@ -434,7 +434,7 @@ Empire, which collapsed soon after the Disease's appearance (though it's
 not clear if the Disease was the only cause of the collapse). In an
 attempt to start fresh, the Jovians abandoned their original homeworld
 in the region now known as
-[Curse](http://wiki.eveonline.com/en/wiki/Curse_%28Region%29) about 500
+[Curse](http://wiki.eveonline.com/en/wiki/Curse_(Region)) about 500
 years ago. The modern day Third Empire, now much smaller than the first
 two, is completely isolated from the rest of the Cluster, and located in
 the northeast section of the Cluster. The Jove are split into two main
@@ -442,7 +442,7 @@ factions: the Statics, who want to stop tampering with the Jove genome,
 and the Modifiers, who apparently love moving those alleles around.
 Beyond that, we have very little information on modern day Jove society.
 We know that they're governed by something called the [Jovian
-Directorate](http://wiki.eveonline.com/en/wiki/Jovian_directorate_%28NPC_corporation%29),
+Directorate](http://wiki.eveonline.com/en/wiki/Jovian_directorate_(NPC_corporation)),
 which seems to operate similarly to the Caldari's Chief Executive Panel,
 but other than that, information on the Jove is incredibly scarce.
 Indeed, there is at least some suggestion (through both *Templar One*
@@ -461,7 +461,7 @@ the Caldari, and eventually the other Empires. They were [instrumental
 to the creation of
 CONCORD](http://wiki.eveonline.com/en/wiki/New_Eden_Historical_Overview)
 a few years later, and continue to [interfere with Cluster
-politics](http://wiki.eveonline.com/en/wiki/Theodicy_%28Short_story%29)
+politics](http://wiki.eveonline.com/en/wiki/Theodicy_(Short_story))
 when they've deemed it necessary. Despite their complete isolation (just
 try getting into their space, I'll wait), they (or, someone masquerading
 as them, depending on who you talk to) continues to exert a subtle, but
@@ -572,12 +572,12 @@ Holders were brought together in his [Council of
 Apostles](http://wiki.eveonline.com/en/wiki/Council_of_Apostles). The
 union of church and state complete, he was crowned Emperor by the
 Church, and got a fancy new [royal
-symbol](https://wiki.eveonline.com/en/wiki/Signs_of_Faith_%28Chronicle%29)
+symbol](https://wiki.eveonline.com/en/wiki/Signs_of_Faith_(Chronicle))
 to boot (the story to which is actually kind of neat but this guide is
 long enough already).
 
 Under the reign of Amash-Akura, the [Scriptures
-record](http://wiki.eveonline.com/en/wiki/Ametat_and_Avetat_%28Chronicle%29),
+record](http://wiki.eveonline.com/en/wiki/Ametat_and_Avetat_(Chronicle)),
 that [sefrim](http://wiki.eveonline.com/en/wiki/Sefrim) or angels,
 guarded over the island, overseeing an unprecedented era of prosperity.
 Even without divine (or, as some theorize, Jove) influence, the
@@ -616,7 +616,7 @@ church to hold them down), in the 12,000 years since the collapse of the
 EVE Gate, they had managed to create... boats. Not nuclear submarines,
 not cruise liners, or anything, just plain old boats. Something tells me
 the Athrans weren't going for a [science
-victory](http://civilization.wikia.com/wiki/Victory_%28Civ5%29#Science_victory),
+victory](http://civilization.wikia.com/wiki/Victory_(Civ5)#Science_victory),
 if you know what I mean.
 
 Anyway, in order to keep the commoners from seeing how wonderful freedom
@@ -868,14 +868,14 @@ pact](http://wiki.eveonline.com/en/wiki/Transitional_Era_of_the_Amarr_Empire#Cal
 entered into in 23222. The assault of peace continued in 23230 when
 Heideran agreed to enter into the negotiations that ultimately led to
 CONCORD. Tensions [continued to
-simmer](http://wiki.eveonline.com/en/wiki/Quafe_%28Chronicle%29) a bit
+simmer](http://wiki.eveonline.com/en/wiki/Quafe_(Chronicle)) a bit
 with the Gallente, but capitalism proved its mettle by ultimately
 winning out over both sides.
 
 Modern history of the Amarr arguably starts with the death of Heideran,
 who had recently published his magnum opus on the future of New Eden,
 the [Pax
-Amarria](http://wiki.eveonline.com/en/wiki/Pax_Amarria_%28lore%29). With
+Amarria](http://wiki.eveonline.com/en/wiki/Pax_Amarria_(lore)). With
 Heideran's passing in YC 105, the
 [search](http://wiki.eveonline.com/en/wiki/Modern_Era_of_the_Amarr_Empire#Amarr_Succession)
 for a new Emperor began, with [Doriam
@@ -1054,7 +1054,7 @@ People. What little is known about the
 [Ni-Kunni](http://wiki.eveonline.com/en/wiki/Ni-Kunni) suggests that
 they have long been absorbed by the Empire and accept their place, even
 if it is near the low rungs of the Empire's society. The
-[Khanid](http://wiki.eveonline.com/en/wiki/Khanid_%28bloodline%29) are a
+[Khanid](http://wiki.eveonline.com/en/wiki/Khanid_(bloodline)) are a
 bit unique in that some of the race has split off into the Khanid
 Kingdom, but a significant chunk of the bloodline remains Imperial
 subjects. In general, the RP crowd tends to split amongst Royal Houses
@@ -1163,7 +1163,7 @@ into Tribal culture, has never been entirely explained. It seems that
 the Elders withdrew from the Tribes around the time of the Day of
 Darkness, biding their time to allow a triumphant return, but there are
 [also
-indications](http://wiki.eveonline.com/en/wiki/Theodicy_%28Short_story%29)
+indications](http://wiki.eveonline.com/en/wiki/Theodicy_(Short_story))
 that they kept an eye on the Tribes, and might even have some mystical
 powers. Suffice it to say, though, that they are greatly revered by the
 Republic as a whole, even moreso now after their invasion of Amarr
@@ -1342,7 +1342,7 @@ myself. The Federation is made up of races from across New Eden (most
 notably, many Minmatar who chose not to join the Republic, who comprise
 about 1/3 of the Federation's total population), but the principal
 members are the [ethnic
-Gallente](http://wiki.eveonline.com/en/wiki/Gallente_%28bloodline%29),
+Gallente](http://wiki.eveonline.com/en/wiki/Gallente_(bloodline)),
 the spiritual [Intaki](http://wiki.eveonline.com/en/wiki/Intaki), the
 regimental [Jin-Mei](http://wiki.eveonline.com/en/wiki/Jin-Mei), and the
 rather nationalistic [Mannar](http://wiki.eveonline.com/en/wiki/Mannar).
@@ -1539,7 +1539,7 @@ predictable results, conspiracy theories soon flourished.
 Oh, and it turns out the Caldari were still pissed off. They had
 continued to establish their secret colonies because they [resented
 Gallente
-domination](http://wiki.eveonline.com/en/wiki/The_Early_Days_%28Chronicle%29).
+domination](http://wiki.eveonline.com/en/wiki/The_Early_Days_(Chronicle)).
 Whoops. And those [colonies were
 discovered](http://wiki.eveonline.com/en/wiki/Luminate_Era_of_the_Gallente_Federation#Sobaseki.27s_Sedition).
 Double whoops. While this action was technically legal, tensions rose
@@ -1568,7 +1568,7 @@ down on the organizers.
 
 As is normally the case in democracies after such a shocking attack,
 backlash in the Federation was [quick and
-harsh](http://wiki.eveonline.com/en/wiki/The_Breakout_%28Chronicle%29).
+harsh](http://wiki.eveonline.com/en/wiki/The_Breakout_(Chronicle)).
 The Ultra-Nationalists quickly took power after the attack. For the
 first and only time in Federation history, the Charter and Constitution
 were
@@ -1621,7 +1621,7 @@ right-wing government from power in the Federation, peace was not yet to
 be found. The Gallente were just too hurt by the attack to forgive and
 forget in attempts to make peace. Rather, with the Caldari now
 established in their own proper space, the [war once again
-came](http://wiki.eveonline.com/en/wiki/The_War_Drones_On_%28Chronicle%29)
+came](http://wiki.eveonline.com/en/wiki/The_War_Drones_On_(Chronicle))
 to a standstill, with neither side really gaining a permanent advantage.
 The Gallente fleet was based on large, lumbering ships, so the Caldari
 developed a fleet of single-man fighters. The
@@ -1724,7 +1724,7 @@ his name ever since.
 
 Since then, the Gallente have actually had few notable incidents (at
 least, incidents that aren't covered elsewhere in this guide). A
-[few](http://wiki.eveonline.com/en/wiki/Theodicy_%28Short_story%29)
+[few](http://wiki.eveonline.com/en/wiki/Theodicy_(Short_story))
 [flare-ups](http://wiki.eveonline.com/en/wiki/Girani-Fa_incident) with
 the Amarr occurred, as did a few attempts to set up [permanent
 collaborations](http://wiki.eveonline.com/en/wiki/Crielere) with the
@@ -1826,7 +1826,7 @@ various birds).
 
 That being said, there are a few primary ethnic groups to be found in
 the Federation. The [ethnic
-Gallente](http://wiki.eveonline.com/en/wiki/Gallente_%28bloodline%29)
+Gallente](http://wiki.eveonline.com/en/wiki/Gallente_(bloodline))
 take the stereotypical Federation love of all things individual and
 liberty to the extreme. Beyond them are the Mannar, who [rival the
 ethnic
@@ -2188,14 +2188,14 @@ support, and it has used this newfound independence to [advance its own
 agenda](http://wiki.eveonline.com/en/wiki/CONCORD_Assembly) independent
 of the empires.
 
-[CONCORD](http://wiki.eveonline.com/en/wiki/CONCORD_%28NPC_corporation%29)
+[CONCORD](http://wiki.eveonline.com/en/wiki/CONCORD_(NPC_corporation))
 is headed by the [Inner
 Circle](http://wiki.eveonline.com/en/wiki/Inner_Circle), consisting of a
 delegate from each nation and the five department heads in CONCORD. The
 Inner Circle appears to hold significant sovereignty over the empires:
 after the YC 110 attacks, the various empires were unable to form
 capsuleer-controlled militias until CONCORD
-[passed](http://wiki.eveonline.com/en/wiki/The_Dark_End_of_Space_%28Chronicle%29)
+[passed](http://wiki.eveonline.com/en/wiki/The_Dark_End_of_Space_(Chronicle))
 the [Emergency Militia War Powers
 Act](http://wiki.eveonline.com/en/wiki/CONCORD_Emergency_Militia_War_Powers_Act).
 From there, CONCORD breaks down into a number of divisions. The most
@@ -2303,19 +2303,19 @@ Angel Cartel
 One of the more established of the pirate factions, the [Angel
 Cartel's](http://wiki.eveonline.com/en/wiki/Angel_Cartel) main base of
 operations is in the
-[Curse](http://wiki.eveonline.com/en/wiki/Curse_%28lore%29) region,
+[Curse](http://wiki.eveonline.com/en/wiki/Curse_(lore)) region,
 though they seem to have tendrils just about everywhere. Little is known
 about their history or structure, other than that there are four main
 divisions of the Cartel: the
 [Dominations](http://wiki.eveonline.com/en/wiki/Dominations) (the
 command branch of the Cartel), the
-[Archangels](http://wiki.eveonline.com/en/wiki/Archangels_%28NPC_corporation%29)
+[Archangels](http://wiki.eveonline.com/en/wiki/Archangels_(NPC_corporation))
 (the main combat arm of the Cartel), the [Guardian
-Angels](http://wiki.eveonline.com/en/wiki/Guardian_Angels_%28NPC_corporation%29)
+Angels](http://wiki.eveonline.com/en/wiki/Guardian_Angels_(NPC_corporation))
 (whose sole purpose appears to be guarding
 [Serpentis](http://wiki.eveonline.com/en/wiki/Serpentis) assets), and
 the [Salvation
-Angels](http://wiki.eveonline.com/en/wiki/Salvation_Angels_%28NPC_corporation%29)
+Angels](http://wiki.eveonline.com/en/wiki/Salvation_Angels_(NPC_corporation))
 (maintenance and repair division). The leading theory is that the Cartel
 originally formed from a loose group of pirate groups, but frankly
 that's a boring theory and I would prefer to think that pirate space
@@ -2334,7 +2334,7 @@ with the Sisters of EVE (described below) in humanitarian missions (per
 managed to acquire examples of Jove technology to integrate into their
 ships, but for obvious reasons the Dominations haven't chosen to divulge
 that information. Given the fact that
-[Curse](http://wiki.eveonline.com/en/wiki/Curse_%28Region%29) is the
+[Curse](http://wiki.eveonline.com/en/wiki/Curse_(Region)) is the
 home of the First and Second Jovian Empire, however, such rumors may not
 be all that far off-base.
 
@@ -2356,7 +2356,7 @@ portions of the religion tend to use
 [blood](http://wiki.eveonline.com/en/wiki/Blooding) donated willingly by
 its own members. Other portions believe that only blood taken from the
 [unclean and
-unperfected](http://wiki.eveonline.com/en/wiki/Half_a_Life_%28Chronicle%29)
+unperfected](http://wiki.eveonline.com/en/wiki/Half_a_Life_(Chronicle))
 will do. The Sani Sabik have been exiled a number of times from Amarr
 space (one such exile [apparently leading to the creation of the
 Takmahl](http://wiki.eveonline.com/en/wiki/Unchallenged_Era_of_the_Amarr_Empire#Sani_Sabik_Uprising),
@@ -2365,7 +2365,7 @@ the Empire seems incapable of eradicating them completely.
 
 The more militaristic of this subset of a subset of a minority join the
 [Blood
-Raider](http://wiki.eveonline.com/en/wiki/The_Blood_Raiders_%28Chronicle%29)
+Raider](http://wiki.eveonline.com/en/wiki/The_Blood_Raiders_(Chronicle))
 [Covenant](http://wiki.eveonline.com/en/wiki/Blood_Raiders), though I'll
 note that Source uses Sani Sabik and the Raiders fairly interchangeably
 (and dives into other considerations quite a bit more). These raiders
@@ -2405,7 +2405,7 @@ nonetheless has a notable role playing contingent, as well as a
 surprisingly well-developed backstory. The order, like the Blood Raider
 Covenant, is a split off sect of the Amarr religion. The sect was
 started by Ocilan Ardishapur, the brother to the [Ardishapur
-Heir](http://wiki.eveonline.com/en/wiki/Ardishapur_Family_%28NPC_corporation%29)
+Heir](http://wiki.eveonline.com/en/wiki/Ardishapur_Family_(NPC_corporation))
 at the time. Ocilan's sect split off about [2,000 years
 ago](https://wiki.eveonline.com/en/wiki/Unchallenged_Era_of_the_Amarr_Empire#Equilibrium_of_Mankind.5B3.5D),
 however, when ancient texts were discovered. These texts had a profound
@@ -2444,12 +2444,12 @@ friends to steal a pair of Condor-class frigates and desert the Navy,
 heading off to the lawless lands between the Caldari and the Gallente.
 They quickly set up their own pirate organization, and have been
 spreading terror under their nicknames: [Fatal and the
-Rabbit](http://wiki.eveonline.com/en/wiki/Fatal_and_the_Rabbit_%28Chronicle%29).
+Rabbit](http://wiki.eveonline.com/en/wiki/Fatal_and_the_Rabbit_(Chronicle)).
 
 These days, the Guristas are known for being one of the few pirate
 organizations willing to hit colonies in civilized (high security)
 space. They are also known [for creating civilian mining
-colonies](http://wiki.eveonline.com/en/wiki/All_These_Lives_are_Fit_to_Ruin_%28Chronicle%29)
+colonies](http://wiki.eveonline.com/en/wiki/All_These_Lives_are_Fit_to_Ruin_(Chronicle))
 and protecting them with their own security forces. Like the Angels,
 they have a sizeable share of the Caldari grey market under their
 control, and also run an illegal currency exchange. The Guristas also
@@ -2469,7 +2469,7 @@ Intaki Syndicate
 The [Intaki
 Syndicate](http://wiki.eveonline.com/en/wiki/Intaki_Syndicate) runs the
 largest black market in New Eden.
-[Headed](http://wiki.eveonline.com/en/wiki/Silphy_%28Chronicle%29) by
+[Headed](http://wiki.eveonline.com/en/wiki/Silphy_(Chronicle)) by
 [Silphy en Diabel](http://wiki.eveonline.com/en/wiki/Silphy_en_Diabel)
 (a former member of the Sisters of EVE who quickly rose through the
 ranks through some cunning and ruthless strategies), the Syndicate was
@@ -2549,7 +2549,7 @@ InterBus
 --------
 
 A joint project between the four empires,
-[InterBus](http://wiki.eveonline.com/en/wiki/The_InterBus_%28Chronicle%29)
+[InterBus](http://wiki.eveonline.com/en/wiki/The_InterBus_(Chronicle))
 was created to ensure some mode of personnel and cargo transportation
 throughout the Cluster. Despite being a governmental creature, it has
 striven to remain above the partisan fray and stay neutral to all
@@ -2559,7 +2559,7 @@ accurate maps and data, they are a [closely guarded
 secret](http://wiki.eveonline.com/en/wiki/InterBus) to anyone outside
 the organization. They also recently participated in the [buyout of all
 CONCORD owned customs
-offices](http://wiki.eveonline.com/en/wiki/The_Welcome_Party_%28Chronicle%29),
+offices](http://wiki.eveonline.com/en/wiki/The_Welcome_Party_(Chronicle)),
 although that may not have been the best deal for them. On a more
 interesting sidenote, it seems that CCP originally intended InterBus to
 allow limited cargo ferrying between systems for a fee. Clearly, that
@@ -2621,7 +2621,7 @@ As with most primarily Caldari organizations, the roots of [Mordu's
 Legion](http://wiki.eveonline.com/en/wiki/Mordu%27s_Legion) can be
 traced back to the Gallente-Caldari War. As I have discussed already,
 there was a sizeable fraction of Intaki who [sympathized with the
-Caldari](http://wiki.eveonline.com/en/wiki/Mordu%27s_Legion_%28Chronicle%29),
+Caldari](http://wiki.eveonline.com/en/wiki/Mordu%27s_Legion_(Chronicle)),
 to the point where they wanted to defect to the State. Many of these
 defectors had significant military experience. In response, the
 fledgling State military command put all the veterans in one squadron,
@@ -2662,7 +2662,7 @@ Ring](http://wiki.eveonline.com/en/wiki/Outer_Ring) and Cloud Ring.
 Until then, those regions had only been considered of moderate value,
 and not particularly worth the risk of mining out there. However, that
 was before the discovery [of
-noxcium](http://wiki.eveonline.com/en/wiki/Nocxium_%28lore%29), a rare
+noxcium](http://wiki.eveonline.com/en/wiki/Nocxium_(lore)), a rare
 ore that forms only during a supernova. The ore is vital for, among
 other things, building capsules. Once the importance of the ore was
 discovered, ORE became a massive and wealthy company almost overnight.
@@ -2684,7 +2684,7 @@ significant research
 projects](http://wiki.eveonline.com/en/wiki/Arek%27Jaalan:_Rogue_Drones).
 
 As might be expected given their reliance on drone technology, [rogue
-drones](http://wiki.eveonline.com/en/wiki/Rogue_Drones_%28Chronicle%29)
+drones](http://wiki.eveonline.com/en/wiki/Rogue_Drones_(Chronicle))
 had their start in Gallente military research. There was a continued
 drive to put more and more weapons on bigger and bigger drones that were
 getting smarter and smarter all the time (you can probably see where
@@ -2774,7 +2774,7 @@ the extent of his experiments or chose to ignore the obvious
 implications.
 
 However, the full extent of his experiments came to light in [YC
-34](http://wiki.eveonline.com/en/wiki/Sansha%27s_Nation_%28Chronicle%29).
+34](http://wiki.eveonline.com/en/wiki/Sansha%27s_Nation_(Chronicle)).
 Despite the monstrous experiments, they did have one positive result: it
 led to the creation of the first (and, to my knowledge, only) offensive
 that was coordinated among all four of the major empires, lead by the
@@ -2852,9 +2852,9 @@ saying that they make drugs). The current CEO, [Salvador
 Sarpati](http://wiki.eveonline.com/en/wiki/Salvador_Sarpati), Igil's
 adopted son, moved the corporation out to the Fountain region, and even
 bought himself his own system: [Serpentis
-Prime](http://wiki.eveonline.com/en/wiki/Serpentis_Prime_%28System%29).
+Prime](http://wiki.eveonline.com/en/wiki/Serpentis_Prime_(System)).
 The
-[Sarpatis](http://wiki.eveonline.com/en/wiki/The_Sarpati_Family_%28Chronicle%29)
+[Sarpatis](http://wiki.eveonline.com/en/wiki/The_Sarpati_Family_(Chronicle))
 continue to run Serpentis out in the depths of null security space: the
 only exception is Salvador's sister
 [Santimona](http://wiki.eveonline.com/en/wiki/Santimona_Sarpati), who is
@@ -2894,10 +2894,10 @@ simply as [Food Relief](http://wiki.eveonline.com/en/wiki/Food_Relief).
 
 Beyond its humanitarian mission, however, the Sisterhood is also a
 religious order. Another division of the Sisterhood, known as [the
-Sanctuary](http://wiki.eveonline.com/en/wiki/The_Sanctuary_%28Chronicle%29),
+Sanctuary](http://wiki.eveonline.com/en/wiki/The_Sanctuary_(Chronicle)),
 [focuses its work](http://wiki.eveonline.com/en/wiki/The_Sanctuary) on
 the study of what it calls a ['relic from
-God'](http://wiki.eveonline.com/en/wiki/Sisters_of_EVE_%28Collective%29):
+God'](http://wiki.eveonline.com/en/wiki/Sisters_of_EVE_(Collective)):
 the [EVE Gate](http://wiki.eveonline.com/en/wiki/EVE_Gate). Headed by
 the High Priestess [Harna
 Durado](http://wiki.eveonline.com/en/wiki/Harna_Durado), the Sanctuary
@@ -2916,7 +2916,7 @@ however. Although publicly the Sisterhood has distanced itself from the
 current unofficial head of the Intaki Syndicate, [Silphy en
 Diabel](http://wiki.eveonline.com/en/wiki/Silphy_en_Diabel), there are
 [some
-indications](http://wiki.eveonline.com/en/wiki/Ante_%28Chronicle%29)
+indications](http://wiki.eveonline.com/en/wiki/Ante_(Chronicle))
 that the Sisters and the Syndicate have worked together to use unwitting
 capsuleers as part of its research projects. A few years back, all
 capsuleers received a limited edition shuttle known as the
@@ -2936,7 +2936,7 @@ Society of Conscious Thought
 ----------------------------
 
 As with anything Jove-related, the [Society of Conscious
-Thought](http://wiki.eveonline.com/en/wiki/Society_of_Conscious_Thought_%28Chronicle%29)
+Thought](http://wiki.eveonline.com/en/wiki/Society_of_Conscious_Thought_(Chronicle))
 is best described as a mystery wrapped in an
 [enigma](http://eve.wikia.com/wiki/Enigma) wrapped in a
 person-with-a-genetic-deformity-that-will-lead-to-death-by-depression.
@@ -2944,14 +2944,14 @@ Founded about 300 years ago now [by Ior
 Labron](http://wiki.eveonline.com/en/wiki/Ior_Labron), the Society was
 originally founded as a spiritual institution and an attempt to discern
 the meaning of life, based partly on [the
-teachings](http://wiki.eveonline.com/en/wiki/The_Truth_Serum_%28Chronicle%29)
+teachings](http://wiki.eveonline.com/en/wiki/The_Truth_Serum_(Chronicle))
 of Ior's mentor, [Gorda
 Hoje](http://wiki.eveonline.com/en/wiki/Gorda_Hoje). Though the Jove are
 not generally a spiritual people, those that do look towards faith look
 with zest. Although it had its start as a religious institution, the
 Society soon took on a political dimension, gaining quite a bit of clout
 within the [Jovian
-Directorate](http://wiki.eveonline.com/en/wiki/Jovian_directorate_%28NPC_corporation%29)
+Directorate](http://wiki.eveonline.com/en/wiki/Jovian_directorate_(NPC_corporation))
 and in many respects acting like a shadow government. Eventually, the
 clout became too much, and the Society was kicked out of the politics
 business. Thoroughly chastised, the Society withdrew from political
@@ -2962,7 +2962,7 @@ enclaves where research continued apace. They also established schools
 that quickly became well-respected throughout the Cluster.
 
 The Society is not without its [darker
-side](http://wiki.eveonline.com/en/wiki/Hyperconsciousness_%28Chronicle%29),
+side](http://wiki.eveonline.com/en/wiki/Hyperconsciousness_(Chronicle)),
 however. It came to light a few decades ago that some kitzes were
 apparently working with Sansha Kuvakei to help develop his [True
 Slaves](http://wiki.eveonline.com/en/wiki/True_Slaves). This again
@@ -2977,7 +2977,7 @@ This in and of itself was nothing new in education, but as usual, the
 Jove took things a bit too far when it combined these new programs with
 its research on mood enhancers. What many people would call a form of
 brainwashing, the Society called its
-[Hyperconsciousness](http://wiki.eveonline.com/en/wiki/Hyperconsciousness_%28Chronicle%29)
+[Hyperconsciousness](http://wiki.eveonline.com/en/wiki/Hyperconsciousness_(Chronicle))
 agenda, and it's been used on the children admitted to its schools for
 quite a while now (the extent of the program is not known publicly).
 
@@ -2985,8 +2985,8 @@ More recently, the Society has focused its efforts on technology that
 helps its social sciences studies, including an amnesiac agent. Much of
 its effort in recent years, however, has been focused around the Book of
 Emptiness. The Book, in reality a small machine named after a lost Amarr
-[holy](http://wiki.eveonline.com/en/wiki/The_Book_of_Emptiness_(Part_1)_%28Chronicle%29)
-[book](http://wiki.eveonline.com/en/wiki/The_Book_of_Emptiness_(Part_2)_%28Chronicle%29),
+[holy](http://wiki.eveonline.com/en/wiki/The_Book_of_Emptiness_(Part_1)_(Chronicle))
+[book](http://wiki.eveonline.com/en/wiki/The_Book_of_Emptiness_(Part_2)_(Chronicle)),
 was an attempt to cure the [Jovian
 Disease](http://wiki.eveonline.com/en/wiki/Jovian_Disease) by removing
 all negative thoughts and emotions. Unfortunately, it had the unintended
@@ -3018,7 +3018,7 @@ Ah, the capsule. The pod. The egg. As particularly bad trolls try to say
 in help chat now and then (feel free to say hi to me in there if you see
 me), some think it's a sign that you've leveled up when it first
 appears. The
-[capsule](http://wiki.eveonline.com/en/wiki/Capsule_%28lore%29) is the
+[capsule](http://wiki.eveonline.com/en/wiki/Capsule_(lore)) is the
 singular achievement that separates us players of EVE Online from the
 general unkempt masses. The deep history of the capsule is, to my
 knowledge, completely unknown to us, in game or out. What we do know is
@@ -3035,7 +3035,7 @@ that we breathe and eat liquid which is just WEIRD). Connections are
 made directly to the pilot's nervous system that allows them to feel
 each time a ship gets hit, to move the ship as one would move a muscle,
 and to see out of a ship's [camera
-drones](http://wiki.eveonline.com/en/wiki/Camera_Drones_%28Chronicle%29)
+drones](http://wiki.eveonline.com/en/wiki/Camera_Drones_(Chronicle))
 as if it were their own eyes. The ship's computer even creates sounds to
 feed into a pilot's auditory cortex to help the pilot situate himself in
 space. This direct connection to the ship drastically lowers a ship's
@@ -3094,7 +3094,7 @@ which describes the basic process). But this isn't modern real life
 cloning, where your DNA is taken and a clone is grown like a child would
 be. Rather, biomass of some kind (usually, human cadavers in the high
 quality clones (yes, [it's made of
-people](http://wiki.eveonline.com/en/wiki/The_Vicious_Cycle_%28Chronicle%29)),
+people](http://wiki.eveonline.com/en/wiki/The_Vicious_Cycle_(Chronicle))),
 but apparently any kind of biomass will do) is used to create a human
 body with functioning organs. These generic humans are then seeded with
 a customer's DNA and stem cel s, so within a few months the body is made
@@ -3184,7 +3184,7 @@ death and recreated in a new brain.
 
 There was, however, something wrong with the implants. Well, not so much
 wrong as much as they [were still
-occupied](http://wiki.eveonline.com/en/wiki/514_%28Chronicle%29). The
+occupied](http://wiki.eveonline.com/en/wiki/514_(Chronicle)). The
 Amarr first stumbled across these implants while investigating Sleeper
 ruins. They found intact, but seemingly dead, bodies and took them in to
 study. They eventually discovered the implants discussed above, and what
@@ -3217,7 +3217,7 @@ create their own functionally equivalent implant technology. Seeing that
 harvesting more of these implants could incur further wrath from the
 Sleepers, Empress Jamyl [authorized each of the empires to have access
 to her
-alternative](http://wiki.eveonline.com/en/wiki/514_%28Chronicle%29),
+alternative](http://wiki.eveonline.com/en/wiki/514_(Chronicle)),
 Sleeper-less implants. And thus, we head into the launch of DUST 514
 with each empire having their own sets of immortal infantry, and
 apparently free of the terrifying visions that hampered previous
@@ -3243,7 +3243,7 @@ One final note before I move on: CCP has made it clear that DUST 514
 refers to something, but what specifically hasn't been quite spelled out
 yet. I would guess that DUST (which, according to CCP, is meant to be
 capitalized as such) is an acronym for something. And the [514
-chronicle](http://wiki.eveonline.com/en/wiki/514_%28Chronicle%29) states
+chronicle](http://wiki.eveonline.com/en/wiki/514_(Chronicle)) states
 that each soldier with the Sleeper implants had terrifying visions.
 Visions of the number 514 written in blood... (Cue the Twilight Zone
 music...)
@@ -3315,7 +3315,7 @@ ships would travel on their own for years or even decades until coming
 to the new star system, at which point the crews are woken up and they
 construct the companion gate. While most of the time these journeys
 ended well, there have been some [very close
-calls](http://wiki.eveonline.com/en/wiki/Old_Man_Star_%28Chronicle%29).
+calls](http://wiki.eveonline.com/en/wiki/Old_Man_Star_(Chronicle)).
 The discovery of jump drives only came about recently, and even today
 there are dozens of ships heading out into the unknown to try to
 construct the next set of gates.
@@ -3481,7 +3481,7 @@ crazy Amarr.
 
 When the time came to negotiate a universal time system, there were [a
 number of
-factions](http://wiki.eveonline.com/en/wiki/Time_and_the_Astrologer_%28Chronicle%29)
+factions](http://wiki.eveonline.com/en/wiki/Time_and_the_Astrologer_(Chronicle))
 advocating different calendars. Some wanted a completely physics-based
 calendar, based on some celestial source. Others wanted to set the clock
 to the human body's natural 25 hour clock. And the last set, known as
@@ -3501,7 +3501,7 @@ separate worlds, and as such, they developed their own languages through
 the Dark Ages, and they continue to use those languages today. Of
 course, from an in-game perspective, the use of different languages
 doesn't matter thanks to the development [of translation
-software](http://wiki.eveonline.com/en/wiki/Language_Translators_%28Chronicle%29)
+software](http://wiki.eveonline.com/en/wiki/Language_Translators_(Chronicle))
 in our ships (though why local remains untranslated remains an open
 question). Regardless, crafting appropriate sounding names is an
 important aspect to most RPers, so I've included a brief review of most
@@ -3599,7 +3599,7 @@ I](http://wiki.eveonline.com/en/wiki/Seyllin_I). However, a significant
 number of citizens were on the dark side of the planet, protected from
 the pulse by the planet's sheer bulk. It took a while for both the
 Federation and others [to figure out precisely what was going
-on](http://wiki.eveonline.com/en/wiki/World_On_Fire_%28Chronicle%29),
+on](http://wiki.eveonline.com/en/wiki/World_On_Fire_(Chronicle)),
 wasting precious moments that could have been used to evacuate citizens
 from the doomed planet. Finally, the Federation Navy, assisted by the
 Sisters of EVE and other factions, managed to begin lifting some
@@ -3616,12 +3616,12 @@ extremely unstable substance (if that wasn't obvious from the, you know,
 massive explosions it caused). We're not entirely sure who or what
 placed the Isogen-5 near the stars, but
 
-[there's](http://wiki.eveonline.com/en/wiki/The_Spiral_%28Chronicle%29)
-[at](http://wiki.eveonline.com/en/wiki/Half_a_Life_%28Chronicle%29)
-[least](http://wiki.eveonline.com/en/wiki/1_%28Chronicle%29)
-[one](http://wiki.eveonline.com/en/wiki/The_Great_Harvest_%28Chronicle%29)
-[proven](http://wiki.eveonline.com/en/wiki/We_Humans_%28Chronicle%29)
-[case](http://wiki.eveonline.com/en/wiki/World_On_Fire_%28Chronicle%29)
+[there's](http://wiki.eveonline.com/en/wiki/The_Spiral_(Chronicle))
+[at](http://wiki.eveonline.com/en/wiki/Half_a_Life_(Chronicle))
+[least](http://wiki.eveonline.com/en/wiki/1_(Chronicle))
+[one](http://wiki.eveonline.com/en/wiki/The_Great_Harvest_(Chronicle))
+[proven](http://wiki.eveonline.com/en/wiki/We_Humans_(Chronicle))
+[case](http://wiki.eveonline.com/en/wiki/World_On_Fire_(Chronicle))
 (though not one that's known publicly, to my knowledge) where rogue
 drones were hoarding the substance for unknown reasons. In that case,
 however, rogue drones were hoarding the Isogen-5 apparently under the
@@ -3654,14 +3654,14 @@ trillions of stars in the universe that the wormholes could lead to,
 they all lead to about 2,500 that are inhabited in some capacity by the
 Sleepers (the reasons for why wormholes only lead to these select
 systems is unknown). These systems, known as
-[Anoikis](http://wiki.eveonline.com/en/wiki/Anoikis_%28Chronicle%29)
+[Anoikis](http://wiki.eveonline.com/en/wiki/Anoikis_(Chronicle))
 (Anoikis and w-space are equivalent terms, but I believe there's a
 slight preference in RP circles to call it Anoikis), are located in an
 unknown area of space (though *Templar One* does mention that the only
 identifiable objects in Anoikis are quasars, which would make Anoikis
 incredibly distant from New Eden). However, within hours of the first
 wormhole opening in
-[Vitrauze](http://wiki.eveonline.com/en/wiki/The_Vitrauze_Project_%28Chronicle%29),
+[Vitrauze](http://wiki.eveonline.com/en/wiki/The_Vitrauze_Project_(Chronicle)),
 the Gallente were sending ships through. Soon, the empires and CONCORD
 all [agreed](http://wiki.eveonline.com/en/wiki/Vitrauze_Agreement) to
 buy certain items taken from Sleeper salvage at a standardized rate.
