@@ -100,7 +100,7 @@ unfolds, we can only hope that the content developers at CCP have the
 vision to continue to push the narrative envelope, creating content that
 will ensnare and inspire.
 
-H.G. Wel s had only the written word to inspire millions and by simply
+H.G. Wells had only the written word to inspire millions and by simply
 adding audio he managed to [troll a
 nation](http://en.wikipedia.org/wiki/The_War_of_the_Worlds_(radio_drama)).
 Just think what is possible with a state-of-the-art server cluster, a
