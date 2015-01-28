@@ -1,5 +1,5 @@
-**Mark726’s EVE Lore Survival Guide Version 2.0** 
-*https://evetravel.wordpress.com/lore-survival-guide/*
+> **Mark726’s EVE Lore Survival Guide Version 2.0**  
+> *https://evetravel.wordpress.com/lore-survival-guide/*
 
 # Foreword by Seismic Stan
 
