@@ -148,14 +148,13 @@ from my own blog entries, other parts will come from the so-called
 "prime fiction" (direct from CCP lore, either in the form of
 [Chronicles](http://community.eveonline.com/background/potw/), the
 occasional book, the newly released Eve: Source, or the fantastic
-[fiction
-portal](http://wiki.eveonline.com/en/wiki/Portal:EVE_Fiction)found on
-the EVE wiki), and others from what must be considered secondary sources
-(I would be remiss if I did not mention the fantastic [The Hitchhiker's
-Guide to New
-Eden](http://dl.eve-files.com/media/corp/Ken/The_Hitchhikers_Guide_to_New_Eden_v0.91.pdf)by
-Kenreikko Valitonen). For anyone looking for more information on any of
-these subjects, these will be your best places to start.
+[fiction portal](http://wiki.eveonline.com/en/wiki/Portal:EVE_Fiction)
+found on the EVE wiki), and others from what must be considered
+secondary sources (I would be remiss if I did not mention the fantastic
+[The Hitchhiker's Guide to New
+Eden](http://dl.eve-files.com/media/corp/Ken/The_Hitchhikers_Guide_to_New_Eden_v0.91.pdf)
+by Kenreikko Valitonen). For anyone looking for more information on any
+of these subjects, these will be your best places to start.
 
 The guide will be roughly organized into five parts. In this first part,
 I'll detail the deep history of New Eden, dating back practically to our
@@ -1945,7 +1944,7 @@ one has to understand that the Gallente were seen as, for lack of a
 better word, rather meddling. Almost from the beginning, the Gallente
 seemed to enjoy lording their sophistication over the Caldari, a culture
 that prided itself on its self-sufficiency, perhaps best epitomized
-through the fact that something called the â€˜[Cultural Deliverance
+through the fact that something called the '[Cultural Deliverance
 Society](https://wiki.eveonline.com/en/wiki/Cultural_Deliverance_Society)'
 existed in the first place (though, fittingly, the CDS did [introduce
 the concept of
@@ -2308,8 +2307,8 @@ operations is in the
 though they seem to have tendrils just about everywhere. Little is known
 about their history or structure, other than that there are four main
 divisions of the Cartel: the
-[Dominations](http://wiki.eveonline.com/en/wiki/Dominations)(the command
-branch of the Cartel), the
+[Dominations](http://wiki.eveonline.com/en/wiki/Dominations) (the
+command branch of the Cartel), the
 [Archangels](http://wiki.eveonline.com/en/wiki/Archangels_%28NPC_corporation%29)
 (the main combat arm of the Cartel), the [Guardian
 Angels](http://wiki.eveonline.com/en/wiki/Guardian_Angels_%28NPC_corporation%29)
@@ -2595,9 +2594,9 @@ Garkeh's mouth, however, and he apparently remains a [tad
 paranoid](http://wiki.eveonline.com/en/wiki/Khanid_Kingdom#Secession)
 regarding his family and whether they are plotting to overthrow him.
 Khanid remains a separate sovereignty to this day (and the
-[Tash-Murkons](http://wiki.eveonline.com/en/wiki/Tash-Murkon_Family)were
-elevated to the status of an Heir family), even taking an inversion of
-the [Amarr
+[Tash-Murkons](http://wiki.eveonline.com/en/wiki/Tash-Murkon_Family)
+were elevated to the status of an Heir family), even taking an inversion
+of the [Amarr
 seal](http://community.eveonline.com/backstory/chronicles/signs-of-faith/)
 to show their independence.
 
@@ -2793,8 +2792,8 @@ Unexpectedly, the Nation [returned with a
 vengeance](https://wiki.eveonline.com/en/wiki/Sansha#Revival) in YC 112.
 After almost 4 years of near silence, the Nation suddenly began invading
 the heart of empire space, raiding planets and [abducting
-millions](http://community.eveonline.com/news/news-channels/world-news/multiple-sansha-attacks-reported-low-security-population-left-devastated/)from
-the surface, presumably for transformation into True Slaves. Sansha
+millions](http://community.eveonline.com/news/news-channels/world-news/multiple-sansha-attacks-reported-low-security-population-left-devastated/)
+from the surface, presumably for transformation into True Slaves. Sansha
 Kuvakei has also apparently re-emerged, although not everyone is
 convinced that this is actually Kuvakei instead of a replacement of some
 kind. Capsuleers soon came to the rescue when it became clear that
