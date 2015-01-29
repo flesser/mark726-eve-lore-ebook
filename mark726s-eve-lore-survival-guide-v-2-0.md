@@ -810,7 +810,6 @@ Anyway, it turns out the two nations hated each other. One liked to
 enslave people, and the other found that, uhh, not good. But because the
 Gallente were essentially on par with the Amarr, the Empire was hesitant
 to attempt what would undoubtedly be a
-
 costly and gruesome Reclaiming, even if the Gallente were godless
 heathens. Both sides realized that they could not fight one another and,
 in an effort to quell simmering tensions, entered into the
@@ -1004,7 +1003,7 @@ ritual suicide (continuing the Amarr's reputation as a Super Cheery
 Bunch). Scandal the First rocked Jamyl's reign when people realized that
 she had gotten around Shathol'Syn by having herself cloned as a
 capsuleer. The Empire (with the exception of the traditionalists who
-were hushed up by Jamyl's supporters) col ectively shrugged its
+were hushed up by Jamyl's supporters) collectively shrugged its
 shoulders at this shocking breach of tradition, though. Secondly, the
 Emperor must follow the [Doctrine of Sacred
 Flesh](http://wiki.eveonline.com/en/wiki/Sacred_Flesh), which
@@ -1043,7 +1042,7 @@ easy. Broadly, there's two categories of Amarr characters: those who
 honestly believe in the Amarr religion and will work to Reclaim other
 people, and those who really don't believe in the religion but pretend
 to for greater personal gain (there is some suggestion in *Templar One*
-that even Empress Jamyl fal s into this latter category). Regardless of
+that even Empress Jamyl falls into this latter category). Regardless of
 personal motivations, Amarrians (Amarr? There's no clear distinction in
 the literature either way and I use the terms interchangeably) are
 generally seen as haughty and, as could be expected, rather
@@ -1098,8 +1097,8 @@ Republic: the
 ### History
 
 The deep history of the Minmatar is a bit more hidden than the Amarr's.
-We know that Pator, the Matari home system ('Matari' and 'Minmatar,'
-like 'Amarr' and 'Amarrian,' are fairly interchangeable, with no
+We know that Pator, the Matari home system ('Matari' and 'Minmatar',
+like 'Amarr' and 'Amarrian', are fairly interchangeable, with no
 definitive usage rules coming out of the literature, although
 preferences do vary), was settled around 8017 AD and quickly developed
 due to Matar's (Pator IV's) hospitable climate. From there, we jump
@@ -1169,7 +1168,7 @@ powers. Suffice it to say, though, that they are greatly revered by the
 Republic as a whole, even moreso now after their invasion of Amarr
 space. First, they managed to completely destroy CONCORD's rapid
 response capability (after [testing their abilities
-first](http://www.youtube.com/watch?v=fCVyU4RbFEg),) and then invaded
+first](http://www.youtube.com/watch?v=fCVyU4RbFEg)), and then invaded
 Amarr space. They also managed to free many recently-discovered
 survivors of the Starkmanir tribe in Ammatar space (the Ammatar's
 interesting background will be discussed in Part 3), and wiped out the
@@ -1256,11 +1255,11 @@ as it is.
 Religion and spirituality play a large role in Minmatar life as well,
 though perhaps not as large of one as you might find in the Empire. As
 best as I can discern, Minmatar spirituality revolves around the idea
-that each Tribe has its own 'First Elder,' or spirit, that embodies the
+that each Tribe has its own 'First Elder', or spirit, that embodies the
 various traits that each Tribe is known for. Each tribe appoints its own
 tribal Elder that is supposed to be the living embodiment of that
 Tribe's spirit, and maintain the knowledge accumulated by that Tribe
-over the mil ennia. It's important to note here that these elders are
+over the millennia. It's important to note here that these elders are
 probably, but not definitively, the same Elders that led the Amarr
 invasion back in YC 110. How we got from "spiritual leader" to "leading
 a massive and awesome looking fleet that took on CONCORD and the Amarr
@@ -1378,7 +1377,7 @@ then the empire made what most historians consider A Mistake: They
 discovered human rights and junk. People started to think that MAYBE
 ruling by monarchy through one family line wasn't the smartest idea in
 the world. Shortly thereafter, the empire began to collapse as states
-split away in the name of self- determination. Though the empire
+split away in the name of self-determination. Though the empire
 collapsed to a mere shadow of its former glory, it persists to this day,
 and the Rouvenors are still revered as the founders and nurturers of
 modern liberal philosophy.
@@ -1410,7 +1409,7 @@ Caldari](http://wiki.eveonline.com/en/wiki/Nascent_Era_of_the_Gallente_Federatio
 in 22463 AD understandably shook the Gallente to the core. An
 International Space Cooperative was formed shortly thereafter, which
 organized robotic probe missions to what would soon be known as Caldari
-Prime. The Caldari, originally baffled by the shiny metal things fal ing
+Prime. The Caldari, originally baffled by the shiny metal things falling
 from the sky (they were mid-industrial age at the time), eventually
 figured out that someone was going to go all ET on them soon, and first
 contact occurred 54 years after the Gallente first discovered the
@@ -1444,7 +1443,7 @@ two groups of humans just HAPPENED to pop up on two planets in one star
 system, they were completely blindsided by the concept that humans would
 be found outside Luminaire: in this case, [the
 Intaki](http://wiki.eveonline.com/en/wiki/Nascent_Era_of_the_Gallente_Federation#Intaki_Discovery).
-In a brilliant display of ingenuity worthy of a clichÃ© '80s film, the
+In a brilliant display of ingenuity worthy of a cliché '80s film, the
 crew of the *Sojourner* decided to go native for a year to learn about
 the Intaki. They liked what they saw, and eventually, the newly formed
 Office for Foreign Planetary Development sent a second ship to establish
@@ -1664,7 +1663,7 @@ which ended up triggering a kind of [identity
 crisis](http://wiki.eveonline.com/en/wiki/Modern_Era_of_the_Gallente_Federation#Culture_shock)
 for the Federation. You see, the Federation had, since its founding,
 seen itself as the grand union of all humanity. It united all people
-peaceful y, spreading democracy and free trade through the cluster. And
+peacefully, spreading democracy and free trade through the cluster. And
 then, suddenly, it wasn't the only representative of humanity out there.
 Indeed, it wasn't even the *largest*. The Amarr Empire was more
 populous, stronger, and practiced slavery. And it most certainly was NOT
@@ -1788,7 +1787,7 @@ Constitution](http://wiki.eveonline.com/en/wiki/Government_of_the_Gallente_Feder
 guarantees a variety of rights such as freedom of expression, equality
 before the law, and the right to human dignity. Anything that isn't
 explicitly laid out in the Federation Charter or Constitution are left
-to the member states to sort out. Additional y, certain governments
+to the member states to sort out. Additionally, certain governments
 (notably, the Jin-Mei) are granted the power to opt out of certain
 provisions of federal law (rights? We don't need no stinkin' human
 rights). The wiki entry on Gallente government will tell you all you
@@ -2927,7 +2926,7 @@ reasons, there does appear to be some indication of collusion with the
 Syndicate to use the Zephyrs, which are apparently invisible to Sleepers
 (meaning that they can fly around any Sleeper site in w-space without
 getting attacked by the drones... players of course are another matter)
-to col ect data for the Sisters. Obviously, this isn't known to the
+to collect data for the Sisters. Obviously, this isn't known to the
 general populace (indeed, only Silphy and Santimona appear to know
 anything about it), so it should be considered off-limits to characters,
 but it's an interesting subplot nonetheless.
@@ -3292,7 +3291,7 @@ Stargates
 [Stargates](http://wiki.eveonline.com/en/wiki/Stargate) are the backbone
 of New Eden, shaping the cluster and its politics as we know it. The
 gate network snakes throughout New Eden, and today lets us cross over
-100 light-years in just a few hours. Conceptual y, jumpgates are
+100 light-years in just a few hours. Conceptually, jumpgates are
 actually fairly easy to understand: they're artificially created
 wormholes that take you from one system to another. It's their
 construction that mucks things up a bit.
@@ -3464,7 +3463,7 @@ Calendar
 I realize that I swap a lot between saying years in the traditional AD
 system and in the newer YC system, but I'm working off of what the
 timeline gives me. It's easier to keep it set that way rather than
-referring to YC -18,000, which just seems sil y to me. In any case, I
+referring to YC -18,000, which just seems silly to me. In any case, I
 just wanted to make a brief note on the timekeeping system used in New
 Eden. [YC](http://wiki.eveonline.com/en/wiki/YC) refers to the Yoiul
 Convention, a timekeeping system established aboard the Jove ship
@@ -3687,7 +3686,7 @@ learn the lore is to really dig into it yourself. I took pains while
 writing this to cross-reference to the bigger articles on the lore, but
 there's still so much out there that I just didn't have time or room to
 talk about. Dig into it, and you can see the kind of story CCP has built
-for Eve. At the risk of sounding clichÃ©, there's a universe worth of
+for Eve. At the risk of sounding cliché, there's a universe worth of
 stories out there to discover.
 
 I will say that EVE has a fantastic backstory though, and the best part
