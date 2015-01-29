@@ -2115,8 +2115,8 @@ hard-working and efficient. Often the face of Caldari leadership, they
 truly believe in society-above-self. The
 [Civire](http://wiki.eveonline.com/en/wiki/Civire) tend to be quick
 thinkers, and handle themselves well under pressure. They seem to
-genuinely enjoy being constantly busy, and they always strive for excel
-ence. Finally, and as a bit of an outlier, we have the
+genuinely enjoy being constantly busy, and they always strive for
+excellence. Finally, and as a bit of an outlier, we have the
 [Achura](http://wiki.eveonline.com/en/wiki/Achura). Unlike the Deteis
 and the Civire, the Achura were not a founding member of the State, but
 were absorbed about 300 years ago, and they followed the Caldari in
