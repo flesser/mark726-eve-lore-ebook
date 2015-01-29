@@ -1916,7 +1916,7 @@ something to help the people survive. Though they were never
 particularly centralized, the most notable of the nations that manage to
 rise on this cold and dreary world was the Raata Empire, which united
 the Tikiona continent in 17453 AD. The Empire survived for over 3,500
-years before col apsing in 20998 AD. The myriad smaller states that
+years before collapsing in 20998 AD. The myriad smaller states that
 followed in the Empire's wake eventually ended up organizing primarily
 around ethnic lines, with little cross-ethnic mingling.
 
