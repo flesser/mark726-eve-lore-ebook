@@ -147,7 +147,7 @@ something wrong, please let me know). Parts of the guide will be adapted
 from my own blog entries, other parts will come from the so-called
 "prime fiction" (direct from CCP lore, either in the form of
 [Chronicles](http://community.eveonline.com/background/potw/), the
-occasional book, the newly released Eve: Source, or the fantastic
+occasional book, the newly released *Eve: Source*, or the fantastic
 [fiction portal](http://wiki.eveonline.com/en/wiki/Portal:EVE_Fiction)
 found on the EVE wiki), and others from what must be considered
 secondary sources (I would be remiss if I did not mention the fantastic
@@ -245,7 +245,7 @@ of the wormhole was soon named ADAM while the unexplored side was given
 the appropriate title of the [EVE
 Gate](http://evetravel.wordpress.com/2009/12/17/new-eden/). For
 simplicity's sake I'll just refer to both gates as the EVE Gate (I
-should note that Eve: Source seems to retcon out the fact that the Earth
+should note that *Eve: Source* seems to retcon out the fact that the Earth
 side of the Gate was known as ADAM but I like it so I'm keeping it
 anyway. ARTISTIC LICENSE Y'ALL). The wormhole sent explorers to a far
 off system that (in a burst of genius), humans quickly named New Eden.
@@ -344,14 +344,14 @@ shortly after the Empire gained interstellar travel. While many
 survivors of the cult were simply sent free, a number of survivors stole
 cryo-ships and ended up in Araz together. More than a little
 disturbingly, the Takmahl were considered experts in "cybernetics and
-bio-engineering technology." Take that how you will.
+bio-engineering technology". Take that how you will.
 
 Much more is known about the
 [Sleepers](http://wiki.eveonline.com/en/wiki/Sleepers_(lore)). They
 apparently originally settled in Minmatar space in the Ani
 constellation. The Sleepers were [considered
 masters](http://wiki.eveonline.com/en/wiki/Sleeper_drones) of "virtual
-reality, neural interfacing and cryotechnology." More interesting for
+reality, neural interfacing and cryotechnology". More interesting for
 our purposes, the Sleepers were also apparently able to colonize not
 only Ani, but also wormhole space (the space only accessible via
 natural, but unstable, wormholes). Various active and defunct Sleeper
@@ -361,7 +361,7 @@ necessary. While all of this is known to the general citizenry of New
 Eden, the next paragraph contains information that is not known at all
 to the general public (so not known by players when they are playing
 IC), but part of the puzzle of the Sleepers have come together both in
-*Templar One* and *Eve Source*.
+*Templar One* and *Eve: Source*.
 
 The Sleepers were apparently once part of the Jove race. The Jove
 arrived in New Eden in two parts: most of the citizenry were frozen in
@@ -385,7 +385,7 @@ rarely come out of their hibernation to interact with the real world
 The [Talocan](http://wiki.eveonline.com/en/wiki/Talocan) cannot really
 be understood without the Sleepers. They originally settled in what is
 today Caldari space, in the Okkelen constellation, and are considered to
-be experts in "Spatial Manipulation and Hypereuclidean Mathematics." The
+be experts in "Spatial Manipulation and Hypereuclidean Mathematics". The
 strange thing about the Talocan is that they appear to be, in some way,
 connected to the Sleepers. In many of the higher classes of wormhole
 space, Talocan ruins can be found interwoven with Sleeper structures.
@@ -409,7 +409,7 @@ were dying because of their isolation, the Jove managed to kill each
 other quite a bit over their differing political and scientific views,
 since the Jove are apparently a rather fractious bunch. Nonetheless, the
 First Empire eventually spanned much of New Eden once they finally
-managed to learn to work together for a bit. And by "a bit," I mean the
+managed to learn to work together for a bit. And by "a bit", I mean the
 First Empire lasted [around 8,000
 years](http://community.eveonline.com/backstory/races/jove/). However,
 no political system lasts forever, and the First Empire was no
@@ -428,7 +428,7 @@ Disease](http://wiki.eveonline.com/en/wiki/Jovian_Disease) is a genetic
 (in other words, non-infectious) condition where, at some point in a
 Jove's adult life, they fall into an incredibly deep depression, and
 eventually lose the will to live. Because the Jove are apparently
-*terrible* at smal -scale genetic manipulation and limited testing, the
+*terrible* at small-scale genetic manipulation and limited testing, the
 Disease has spread to the entire race. The Disease devastated the Second
 Empire, which collapsed soon after the Disease's appearance (though it's
 not clear if the Disease was the only cause of the collapse). In an
@@ -644,7 +644,7 @@ soon the Amarr realized that they had potential allies on their hands.
 In exchange for converting to the Amarr religion, the nomads would help
 finish the fight with the Udorians. The nomadic tribes eventually earned
 the collective nickname of
-"[Khanid](http://wiki.eveonline.com/en/wiki/Khanid)" or "little lords."
+"[Khanid](http://wiki.eveonline.com/en/wiki/Khanid)" or "little lords".
 With their newfound Khanid allies, the Amarr eventually managed to
 [finish the
 conquest](http://wiki.eveonline.com/en/wiki/Pre-Space_Flight_Era_of_the_Amarr_Empire#Udorian_Conquest)
@@ -1012,7 +1012,7 @@ practically speaking means that the Emperor's body must be kept pure:
 i.e., no cloning. Scandal the Second rocked Jamyl's reign when people
 realized that she had gotten around Shathol'Syn by having herself cloned
 as a capsuleer. The Empire continued to collectively shrug its shoulders
-at this shocking breach of tradition, with a firm but apathetic "meh."
+at this shocking breach of tradition, with a firm but apathetic "meh".
 
 Anyway, below the Holders, we reach the
 [commoners](http://wiki.eveonline.com/en/wiki/Demographics_of_the_Amarr_Empire#Wealthy_Commoners),
@@ -1115,7 +1115,7 @@ different star systems.
 Then came the Amarr. As noted, the Amarr encountered the Minmatar in
 22355. For the next 125 years, the Amarr would raid Minmatar worlds for
 slaves. Then, in 22480, the Day of Darkness arrived, when the Amarr
-completely conquered the Matari homeworlds (amusingly, Eve Source gets
+completely conquered the Matari homeworlds (amusingly, *Eve: Source* gets
 this date wrong but I verified it with CCP because I am a THOROUGH
 RESEARCHER and don't nobody tell me otherwise). The Matari quickly
 formed their own resistance groups during the Occupation, to varying
@@ -1224,7 +1224,7 @@ ritual can mark certain people as having a great destiny.
 
 Although they have the largest numerical population of the major races
 with something like 24 trillion Matari spread across New Eden (possibly
-in sardine-tin-can type conditions if Eve: Source's numbers are to be
+in sardine-tin-can type conditions if *Eve: Source*'s numbers are to be
 believed, but that's another discussion ENTIRELY), the Matari are very
 spread out. A full 20% of Matari have emigrated to the Federation, while
 almost a third of the 7 tribes are still enslaved by the Amarr. Even
@@ -1249,7 +1249,7 @@ political game. The Thukkers, as noted above, are much more nomadic and
 able to rely much more on their judgment and instinct in emergency
 situations. The Nefantar and Starkmanir have only recently returned to
 the flock, and other than troubles integrating have not really
-distinguished themselves as of yet. Eve Source delves into the various
+distinguished themselves as of yet. *Eve: Source* delves into the various
 Tribes for anyone interested in learning more. This guide is long enough
 as it is.
 
@@ -1847,14 +1847,14 @@ an entire section (and NOT just because my character happens to be one).
 ### Roleplaying Tips
 
 As you could probably guess, the Gallente like to, shall we say, "party
-hard." They are known for their, well, sex, drugs, and rock and roll,
+hard". They are known for their, well, sex, drugs, and rock and roll,
 and most Gallente are proud of that fact. They also tend to be the most
 idealistic of the four races, frowning mightily from their ivory towers
 on the Amarr for their slave-holding ways and the Caldari for their
 unenlightened secession and subsequent war. They even can (though by no
 means do all people do this) look a little patronizingly on the
 Minmatar. Haughty might even be an appropriate term for the
-"stereotypical Gallente," and it's an oft-repeated criticism of the
+"stereotypical Gallente", and it's an oft-repeated criticism of the
 Gallente that they believe their culture is the best and wish to gobble
 up all the others. Gallente by nature tend to be nosy and opinionated,
 and while their desire to "civilize" or "uplift" societies to Gallente
@@ -2226,7 +2226,7 @@ video game companies. Beyond the four major empires, the Jove, and
 CONCORD, there are a rich number of smaller factions that, while you
 can't necessarily play them as a bloodline, fill in more of the tapestry
 of New Eden (and let people get their yarr on in quite a few different
-ways). I won't be spending nearly as much time on these smal er powers
+ways). I won't be spending nearly as much time on these smaller powers
 as I did for the major empires, but each of these have their own unique
 storylines that deserve at least some mention.
 
@@ -2394,7 +2394,7 @@ The Covenant is currently run by the person responsible for its recent
 rise in power and sophistication: [Omir
 Sarikusa](https://wiki.eveonline.com/en/wiki/Omir_Sarikusa). Around him
 are a close inner circle of theological and legal advisors, mostly given
-the ominous title of "Bleeders."
+the ominous title of "Bleeders".
 
 Equilibrium of Mankind
 ----------------------
@@ -2666,7 +2666,7 @@ noxcium](http://wiki.eveonline.com/en/wiki/Nocxium_(lore)), a rare
 ore that forms only during a supernova. The ore is vital for, among
 other things, building capsules. Once the importance of the ore was
 discovered, ORE became a massive and wealthy company almost overnight.
-Rumor has it that they had discovered a smal moon worth of the stuff,
+Rumor has it that they had discovered a small moon worth of the stuff,
 giving them a massive market share in the new mineral. Although the
 various empires (notably the Gallente) tried to demand the location of
 the large deposit, ORE kept the location secret and built its market
@@ -3337,7 +3337,7 @@ near planets of sufficient mass (originally, a stargate could only be in
 a binary system and since that concept doesn't appear to exist in New
 Eden astrography, it caused a bit of a headache for us lore nerds).
 There's more maths and technobabble involved in the article linked to in
-this paragraph for the people interested as well as *Eve Source*, but
+this paragraph for the people interested as well as *Eve: Source*, but
 suffice it to say that using a gate can be an uncomfortable experience
 since, even with modern technology, you're still being stretched along a
 pretty steep gravitational gradient.
@@ -3375,11 +3375,11 @@ needs, the Amarr apparently just enjoy rocking back and forth and
 slowness).
 
 The warp drive works through the magic of "[depleted
-vacuum](http://wiki.eveonline.com/en/wiki/Interstellar_travelling#Faster-Than-Light-Travel:_How.3F)."
+vacuum](http://wiki.eveonline.com/en/wiki/Interstellar_travelling#Faster-Than-Light-Travel:_How.3F)".
 Even empty space generally has SOMETHING in it, be it atoms here or
 there or even just random particles that pop into existence only to be
 annihilated mere moments later. So even the vacuum of space is never
-truly "empty." The warp drive works to create full, "depleted" vacuum,
+truly "empty". The warp drive works to create full, "depleted" vacuum,
 so there is literally nothing in it. No specks of dust, no [virtual
 particles](http://en.wikipedia.org/wiki/Virtual_particle), no energy or
 matter of any kind. Such an empty place, according to the game lore, has
@@ -3573,7 +3573,7 @@ they first opened to us citizens of New Eden.
 started as an ordinary day, but it certainly didn't end like one. Before
 the day was out, 10 separate Class-O stars across the Cluster
 simultaneously suffered what astronomers have rather boringly termed
-"[main sequence events](http://www.youtube.com/watch?v=q62Wk3xWH8g)." In
+"[main sequence events](http://www.youtube.com/watch?v=q62Wk3xWH8g)". In
 reality, these "events" were massive explosions, creating coronal mass
 ejections that were powerful enough to destroy the first planets in
 these systems. The broken husks of these [shattered
@@ -3607,7 +3607,7 @@ citizens, but not nearly enough. Only 843,000 out of a population of 500
 million were ultimately saved from Seyllin I.
 
 After such an event, of course, governments and scientists alike were
-eager to determine just what caused these "events." Eventually, the
+eager to determine just what caused these "events". Eventually, the
 signature of a rare substance known as
 [Isogen-5](http://wiki.eveonline.com/en/wiki/Isogen-5) was found at the
 site of each explosion. Isogen-5, a rare isotope of the somewhat more
