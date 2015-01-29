@@ -2273,9 +2273,7 @@ support received even during the Rebellion, granted the wayward tribe
 some space (conveniently, and completely coincidentally I'm sure,
 located to act as a buffer zone between the newfound Republic and the
 Empire) and set up the semi-autonomous Ammatar Mandate. The Mandate has
-its own nominal
-
-Amarrian governor (currently the Heir [Yonis
+its own nominal Amarrian governor (currently the Heir [Yonis
 Ardishapur](http://wiki.eveonline.com/en/wiki/Yonis_Ardishapur)) and its
 fleet is under the control of the Empire, but they also have several
 direct links to Jamyl's Imperial Court to ensure Ammatar concerns are
