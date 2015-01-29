@@ -1994,7 +1994,6 @@ systems) to sweep through
 [Luminaire](http://evetravel.wordpress.com/2010/03/07/luminaire-graveyard/)
 to retake control of Caldari Prime. President Foiritan had little choice
 but to cede the planet back to the Caldari after he found
-
 Luminaire blockaded and 20 million troops landed on the surface of
 Caldari Prime. The Caldari quickly took control of the planet and showed
 the flag by leaving *Shiigeru*, a [Leviathan-class
