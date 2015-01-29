@@ -2071,7 +2071,7 @@ fit. Individual megacorporations run their own schools, have their own
 currencies (indeed, the Caldari financial system is so complex as to
 warrant two extensive
 [wiki](http://wiki.eveonline.com/en/wiki/The_Caldari_Financial_System)
-[entries](http://wiki.eveonline.com/en/wiki/Caldari_Funds_Unlimited) and
+[entries](http://wiki.eveonline.com/en/wiki/Caldari_Funds_Unlimited)) and
 their own justice systems. Each megacorp even has their own police force
 and military. A contract between megacorporations is considered almost
 sacred: only the quasi-judicial [Caldari Business
