@@ -2369,7 +2369,6 @@ ply the spacelanes, mostly focused on getting the blood of capsuleers
 (though they will not turn down a passing unarmed ship) for their
 rituals. This, oddly, is actually a step up, as before the advent of
 capsuleers, the Raiders focused primarily on children as
-
 their targets. The Covenant, and the Sani Sabik in general, have long
 had friends in the upper levels of the Amarr imperial court. Most
 recently, the former [Court
@@ -2600,7 +2599,6 @@ For being separate, however, the Khanid Kingdom today takes many affects
 from the Empire. Khanid II maintained the general structure of the
 Empire, including Holders and slaves. Indeed, since the whole "we don't
 want to be part of your empire anymore"
-
 business, they've actually cultivated fairly close relations with both
 the Empire and the Caldari State, to the point that Khanid even [has a
 seat](http://wiki.eveonline.com/en/wiki/Khanid_II#Rule_over_the_Khanid_Kingdom)
@@ -3131,7 +3129,6 @@ Unfortunately, modern burning scanners are somewhat large contraptions
 that require a person's head to be in precise alignment at the moment of
 death. Because planning death this precisely can be difficult, cloning
 and transfer never quite gained wide
-
 traction throughout the cluster, remaining the province of the rich for
 the most part. This changed, however, [when engineers
 realized](http://wiki.eveonline.com/en/wiki/The_Capsule_and_the_Clone#A_Match_Made_in_Heaven)
