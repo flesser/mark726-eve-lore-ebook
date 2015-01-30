@@ -1,5 +1,5 @@
 ---
-title: Mark726's EVE Lore Survival Guide v 2.0
+title: Mark726's EVE Lore Survival Guide v2.0
 author: Mark726
 language: en-US
 ...
