@@ -2567,9 +2567,9 @@ Khanid Kingdom
 Another pseudo-Amarr protectorate, the [Khanid
 Kingdom](http://wiki.eveonline.com/en/wiki/Khanid_Kingdom) came into
 existence about 300 years ago. As you may recall from the discussion on
-the Amarr, the losing Heirs are all required to commit [succession
-trials](http://wiki.eveonline.com/en/wiki/Shathol%27Syn) ritualistic
-suicide after the(http://wiki.eveonline.com/en/wiki/Amarr\_Succession).
+the Amarr, the losing Heirs are all required to commit [ritualistic
+suicide](http://wiki.eveonline.com/en/wiki/Shathol%27Syn) after the
+[succession trials](http://wiki.eveonline.com/en/wiki/Amarr\_Succession).
 I mentioned at the time that there were 5 royal families: the Sarums,
 the Kadors, the Kor-Azors, the Ardishapurs and the Tash-Murkons.
 However, prior to 23041 AD, the Khanids were actually the fifth Royal
@@ -2655,8 +2655,8 @@ strike off into the outer regions of New Eden, making his home in [Outer
 Ring](http://wiki.eveonline.com/en/wiki/Outer_Ring) and Cloud Ring.
 Until then, those regions had only been considered of moderate value,
 and not particularly worth the risk of mining out there. However, that
-was before the discovery [of
-noxcium](http://wiki.eveonline.com/en/wiki/Nocxium_(lore)), a rare
+was before the discovery of
+[Noxcium](http://wiki.eveonline.com/en/wiki/Nocxium_(lore)), a rare
 ore that forms only during a supernova. The ore is vital for, among
 other things, building capsules. Once the importance of the ore was
 discovered, ORE became a massive and wealthy company almost overnight.
@@ -2675,7 +2675,7 @@ Rogue Drones
 unique. They're not quite a faction, but they're significant enough to
 warrant their discussion here (not to mention being the focus [of
 significant research
-projects](http://wiki.eveonline.com/en/wiki/Arek%27Jaalan:_Rogue_Drones).
+projects](http://wiki.eveonline.com/en/wiki/Arek%27Jaalan:_Rogue_Drones)).
 
 As might be expected given their reliance on drone technology, [rogue
 drones](http://wiki.eveonline.com/en/wiki/Rogue_Drones_(Chronicle))
@@ -2792,7 +2792,7 @@ Kuvakei has also apparently re-emerged, although not everyone is
 convinced that this is actually Kuvakei instead of a replacement of some
 kind. Capsuleers soon came to the rescue when it became clear that
 Empire navies and CONCORD were unable to deal with the coordinated,
-lightning swift assaults that soon became the Nation's hal mark (these
+lightning swift assaults that soon became the Nation's hallmark (these
 attacks, not to be confused with incursions, are known as live events.
 Generally lead by one Sansha member played by a CCP employee, he'll
 bring hundreds of ships into one system and players are expected to
