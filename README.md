@@ -14,4 +14,4 @@ into the both machine- and human-readable [Markdown](http://en.wikipedia.org/wik
 [Pandoc](http://en.wikipedia.org/wiki/Pandoc) to create an ePub from it according to
 [this guide](http://johnmacfarlane.net/pandoc/epub.html).
 
-For now, you can read the Markdown version online [here](https://github.com/flesser/mark726-eve-lore-ebook/blob/master/mark726s-eve-lore-survival-guide-v-2-0.md) and download the [ePub E-book here](https://github.com/flesser/mark726-eve-lore-ebook/blob/master/ePub/mark726s-eve-lore-survival-guide-v-2-0.epub?raw=true).
+For now, you can read the Markdown version online [here](https://github.com/flesser/mark726-eve-lore-ebook/blob/master/mark726s-eve-lore-survival-guide-v-2-0.md) and [download the E-book here](https://github.com/flesser/mark726-eve-lore-ebook/blob/master/ePub/mark726s-eve-lore-survival-guide-v-2-0.epub?raw=true) (ePub format).
