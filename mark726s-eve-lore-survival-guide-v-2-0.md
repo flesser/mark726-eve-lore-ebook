@@ -132,7 +132,7 @@ of lore. Rather, there are many smaller, interwoven threads of stories
 that come together to create a whole. I can't explain the background of
 the Minmatar without giving background on the Amarr. I can't talk about
 the Jove without explaining the EVE Gate. I can't even talk about the
-history of interstel ar travel without mentioning and explaining, I kid
+history of interstellar travel without mentioning and explaining, I kid
 you not, at least three major other related EVE plot points. The story
 of EVE is as interwoven as it is vast.
 
@@ -3033,9 +3033,8 @@ drones](http://wiki.eveonline.com/en/wiki/Camera_Drones_(Chronicle))
 as if it were their own eyes. The ship's computer even creates sounds to
 feed into a pilot's auditory cortex to help the pilot situate himself in
 space. This direct connection to the ship drastically lowers a ship's
-[crew
-requirements](http://wiki.eveonline.com/en/wiki/New_Eden_crew_guidelines),
-hile also dramatically decreasing reaction times. The end result is a
+[crew requirements](http://wiki.eveonline.com/en/wiki/New_Eden_crew_guidelines),
+while also dramatically decreasing reaction times. The end result is a
 faster, leaner ship that has even more capabilities than a ship with a
 crew twice its size. This, incidentally, is the theoretical reason why
 we players are able to kill rats as easily as we do. Capsule-piloted
@@ -3091,7 +3090,7 @@ quality clones (yes, [it's made of
 people](http://wiki.eveonline.com/en/wiki/The_Vicious_Cycle_(Chronicle))),
 but apparently any kind of biomass will do) is used to create a human
 body with functioning organs. These generic humans are then seeded with
-a customer's DNA and stem cel s, so within a few months the body is made
+a customer's DNA and stem cells, so within a few months the body is made
 up mostly of a customer's own actual DNA. Tattoos, skin coloration, and
 piercings can be applied as the process continues. The one organ missing
 is the brain.
@@ -3138,7 +3137,7 @@ two technologies were successfully combined in YC 104, with the neural
 scanner now tied directly to a pod's structural integrity system. When
 the pod detects a breach of any kind (since the chances of surviving a
 pod breach are minimal anyway), the scanner is automatically activated
-and that body is instantly kil ed, with the consciousness of that person
+and that body is instantly killed, with the consciousness of that person
 transferred to the new clone body (Soul? We don't need to know what a
 stinkin' soul is). CONCORD quickly authorized (and, indeed, required)
 the use of cloning technology in pod pilots in YC 105 (conveniently, the
@@ -3154,7 +3153,7 @@ universe. The most important of the new tech involves the mercenary
 implants, which takes the aforementioned cloning technology to a new
 extreme. I mentioned above that normal cloning scanners require the head
 to be precisely positioned in order to properly scan and download a
-pilot's neural patterns. However, in Templar One (if you haven't figured
+pilot's neural patterns. However, in *Templar One* (if you haven't figured
 it out yet, you may want to consider reading this book if you have an
 interest in deep EVE lore... but if you're looking for a (very) brief
 over, see [this video](http://www.youtube.com/watch?v=GI53ydJaus8)), a
@@ -3203,7 +3202,7 @@ of us lesser civilizations. They would briefly take over the new
 mercenary soldiers, making them speak in tongues and have strange
 visions.
 
-The Amarr eventually recognized what was going on (indeed, Templar One
+The Amarr eventually recognized what was going on (indeed, *Templar One*
 implies that the Empress is dealing with her own Sleeper conscience,
 take from that what you will) and, with massive effort, managed to
 create their own functionally equivalent implant technology. Seeing that
@@ -3340,7 +3339,7 @@ capital ships are able to create their own wormholes capable of carrying
 themselves to nearby systems without the use of stargates, though the
 use of a jump drive (this [jump
 drive](http://wiki.eveonline.com/en/wiki/Jump_drive) should NOT be
-confused with the jump drive mentioned in the interstel ar travelling
+confused with the jump drive mentioned in the interstellar travelling
 article I've been linking. That 'jump drive' seems to be referring to
 what we now call the warp drive). The general principle of the jump
 drive seems to be the same as stargates, only now the use of cynosural
@@ -3608,7 +3607,6 @@ common [Isogen](http://wiki.eveonline.com/en/wiki/Isogen), is an
 extremely unstable substance (if that wasn't obvious from the, you know,
 massive explosions it caused). We're not entirely sure who or what
 placed the Isogen-5 near the stars, but
-
 [there's](http://wiki.eveonline.com/en/wiki/The_Spiral_(Chronicle))
 [at](http://wiki.eveonline.com/en/wiki/Half_a_Life_(Chronicle))
 [least](http://wiki.eveonline.com/en/wiki/1_(Chronicle))
