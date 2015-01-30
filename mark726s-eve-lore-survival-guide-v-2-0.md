@@ -2359,7 +2359,7 @@ The more militaristic of this subset of a subset of a minority join the
 [Blood
 Raider](http://wiki.eveonline.com/en/wiki/The_Blood_Raiders_(Chronicle))
 [Covenant](http://wiki.eveonline.com/en/wiki/Blood_Raiders), though I'll
-note that Source uses Sani Sabik and the Raiders fairly interchangeably
+note that *Source* uses Sani Sabik and the Raiders fairly interchangeably
 (and dives into other considerations quite a bit more). These raiders
 ply the spacelanes, mostly focused on getting the blood of capsuleers
 (though they will not turn down a passing unarmed ship) for their
