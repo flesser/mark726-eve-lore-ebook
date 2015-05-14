@@ -155,17 +155,19 @@ miscellaneous items that don't quite fit anywhere else.
 
 So, let's get started, shall we?
 
+
 In the Beginning
-----------------
+================
+
 Let's start off with some very basic information. EVE Online takes place (as of
 the posting of this blog) in the year 23,350 AD, or YC 114 (brief sidenote: I'll
 return to the YC concept later on for timekeeping in the section on miscellanea;
 suffice it for now to say that YC 0 corresponds to the year 23236 AD in game
-terms, and that the year 2014 corresponds to YC 116 in game.
+terms, and that the year 2015 in the real world corresponds to YC 117 in game.
 
 The gameworld stretches over approximately 100 light-years, encompassing
 approximately 5,000 known star systems collectively in a cluster of stars we
-call New Eden (this number jumps to almost 7,500 if we include wormhole space
+call New Eden (this number jumps to around 7,600 if we include wormhole space
 systems). We are completely cut off from Earth. Indeed, it's not entirely clear
 that Earth even exists anymore, or if there are any other humans out there in
 the universe. In terms of lore, New Eden scientists are not even sure if a
@@ -185,7 +187,7 @@ trying to solve the mysteries of New Eden. There are quite a few things that we,
 out of game, know about the game universe that the general public in New Eden
 doesn't know. When role playing, its important to keep these things separate,
 since half the fun of role playing for many is trying to solve these mysteries
-through in game means. If you bring up this OOC knowledge, RPers will generally
+through in-game means. If you bring up this OOC knowledge, RPers will generally
 politely remind you that these things may not be known. I'll do my best to set
 off pretty explicitly that certain information isn't known in game or by the
 general public.
@@ -205,14 +207,14 @@ because it's in this timeline does not mean it's known to in-game characters).
 
 By the year 2730, humans had fully colonized our own solar system, which seemed
 to take much longer than necessary to colonize a few chunks of rock in one star
-system but whatever. It took an additional millennium before we figured out the
+system, but whatever. It took an additional millennium before we figured out the
 secrets to travelling faster than light. Things were apparently swell for the
 next few thousand years, as the timeline doesn't mention much of note, though
 [some accounts](http://www.youtube.com/watch?v=T84nrp08MWo) mention vicious
 fights between corporations that control various human-colonized systems. That
 began to change in [7703
 AD](http://wiki.eveonline.com/en/wiki/EVE_gate_%28Location%29) when the first
-known massive (supposedly) stable wormhole formed. Humans discovered this
+known massive, (supposedly) stable wormhole formed. Humans discovered this
 wormhole near the system [of
 Canopus](https://forums.eveonline.com/default.aspx?g=posts&m=2505286#post2505286)
 in 7987, forever changing the course of human history. The homeward side of the
@@ -235,7 +237,7 @@ habitable, were colonized.
 
 Those not yet habitable began being terraformed (Caldari Prime, in Luminaire,
 being the most notable example of this). Few colonies were yet self-sufficient,
-relying heavily on support from Earth for money and supplies. Everything seemed
+relying heavily on support from Earth for money and supplies. Still, everything seemed
 to be going swimmingly.
 
 However, problems in the EVE Gate itself soon appeared. It was not quite as
@@ -274,141 +276,229 @@ back to subsistence-era technology in attempt to merely survive. Eventually,
 some civilizations managed to climb back up into space... but that's getting
 ahead of myself.
 
-A Sidenote (Ancient Civilizations)
-----------------------------------
-Even the lore that we as players know (compared to what we would know as
-characters in New Eden) isn't complete. The Dark Ages had some interesting
-happenings (of which I will describe as best as possible here), but exactly what
-happened after the collapse of the Gate and the rise of the Amarr is a bit of a
-mystery.
 
-What little we do know suggests that before the four major empires arose, there
-were some civilizations that thrived for a time after the collapse of the EVE
-Gate. For whatever reason, these civilizations either vanished or were grossly
-transformed. These four "lost civilizations" are known to us as the Sleepers,
-the Talocan, the Yan Jung, and the Takmahl. Information on these civilizations
-is very sparse, but I'll try to explain what I can.
+Ancient Races: Dead? Alive? Lost? Found? Who knows!
+===================================================
 
-The least is known about the [Yan
-Jung](http://wiki.eveonline.com/en/wiki/Yan_Jung) and the
-[Takmahl](http://wiki.eveonline.com/en/wiki/Takmahl). The Yan Jung originally
-settled in Gallente space (conveniently, each of the four dead civilizations
-just HAPPENED to settle in areas now controlled by each of the four major
-empires), specifically in Deltole. According to the scant record, they were
-masters of "advanced gravitronic technology and force field theories".
-[Some](http://evetravel.wordpress.com/2011/09/25/yan-jung-ruins/)
+As should be clear by now, there are quite a few things that we, as players,
+know about the Eve universe that we, as pilots in game, do not. But there is
+plenty that we do not yet know, even as out-of-character players. Particularly,
+the "Dark Ages" of New Eden, which stretch roughly from the collapse of the EVE
+Gate to the re-discovery of space travel by the Amarr, are rather mysterious to
+both players and pilots alike. We do, however, know that the spacelanes were not
+empty at the time. Indeed, the archeological records indicate that New Eden was
+a happening place for those roughly 12,000 years between the end of recorded
+history and the, uhh, restart of recorded history. To date, we know of 5...ish
+ancient civilizations. Maybe 5 and a half? Maybe only 4? Look, it's gets
+complicated. You'll see what I mean in a bit. For now though, let's start with
+the easy ones!
+
+Yan Jung
+--------
+The first of the ancient civilizations we have are the [Yan
+Jung](http://wiki.eveonline.com/en/wiki/Yan_Jung). The Yan Jung settled in what
+is now Gallente space (conveniently, each major empire of today has an ancient
+civilization of their very own), in the system of Deltole. A
+[few](http://evetravel.wordpress.com/2011/09/25/yan-jung-ruins/)
 [ruins](http://evetravel.wordpress.com/2011/09/18/yan-jung-relic-site/) survive
-to this day, including a few pieces of working technology.
+to this day, but just about all we know of the Yan Jung is that they were
+masters of "advanced gravitronic technology and force field theories."
+Congratulations! You now know everything I do about the Yan Jung!
 
-The Takmahl settled in Amarr space, specifically in the Araz constellation. They
-were originally members of the Amarr Empire. An offshoot of the Sani Sabik faith
-(who essentially believed that drinking human blood made you pure, with somewhat
-predictable results), the Takmahl were [exiled from Amarr
-space](http://wiki.eveonline.com/en/wiki/Unchallenged_Era_of_the_Amarr_Empire#Sani_Sabik_Uprising)
-shortly after the Empire gained interstellar travel. While many survivors of the
-cult were simply sent free, a number of survivors stole cryo-ships and ended up
-in Araz together. More than a little disturbingly, the Takmahl were considered
-experts in "cybernetics and bio-engineering technology". Take that how you will.
+Takmahl
+-------
+Some more is known about Amarr's very own ancient civilization, the
+[Takmahl](http://wiki.eveonline.com/en/wiki/Takmahl). And quite a bit more can
+be speculated about them based on what we do know (and, let's face it, wild
+speculation is the fun part of being a lore hound). First off, calling them an
+ancient civilization is a bit of a misnomer. Unlike the others I talk about
+here, they didn't technically exist during the Dark Ages as I described them
+above (but CCP lumps them in with the other civilizations SO WHO AM I TO ARGUE).
+Rather, the Takmahl date back to the early ages of Amarr space exploration. The
+Takmahl started off as an offshoot of the [Sani
+Sabik](http://wiki.eveonline.com/en/wiki/Sani_Sabik) faith, which, as I explain
+below in the Blood Raider section, is itself an offshoot of the Amarr faith
+(which is an offshoot of yet another faith... it's like religions are hard to
+stay unified or something!). Anyway, the Empire has had repeated problems with
+the Sani Sabik in the past (because an Empire that condones and is in fact built
+on the enslavement of entire races of people is apparently a little weirded out
+by blood-drinking, who'd've thunk?), and this time around the Empire's solution
+was to shove them all off planet. So in response they [packed their
+bags](http://wiki.eveonline.com/en/wiki/Unchallenged_Era_of_the_Amarr_Empire#Sani_Sabik_Uprising),
+built a few cryoships, and set off into space.
 
-Much more is known about the
-[Sleepers](http://wiki.eveonline.com/en/wiki/Sleepers_%28lore%29). They
-apparently originally settled in Minmatar space in the Ani constellation. The
-Sleepers were [considered
-masters](http://wiki.eveonline.com/en/wiki/Sleeper_drones) of "virtual reality,
-neural interfacing and cryotechnology". More interesting for our purposes, the
-Sleepers were also apparently able to colonize not only Ani, but also wormhole
-space (the space only accessible via natural, but unstable, wormholes). Various
-active and defunct Sleeper sites can be found throughout wormhole space (also
-known among the RP crowd as Anoikis), with unmanned drones that will defend
-themselves as necessary. While all of this is known to the general citizenry of
-New Eden, the next paragraph contains information that is not known at all to
-the general public (so not known by players when they are playing IC), but part
-of the puzzle of the Sleepers have come together both in *Templar One* and *Eve:
-Source*.
+Eventually, it seems likely that a group of those Sani Sabik settled in the Araz
+constellation, where they built themselves a heady little civilization known as
+the Takmahl. Although they eventually died off for reasons unknown, there are
+quite a few similarities between them and the Blood Raiders, and a connection
+between the two cannot be ruled out.
 
-The Sleepers were apparently once part of the Jove race. The Jove arrived in New
-Eden in two parts: most of the citizenry were frozen in cryogenic suspension and
-connected to each other in a computer program (yes, just like *The Matrix*); the
-rest stayed unfrozen, taking care of the ships and the frozen citizens (if any
-of the ships were named Zion I'm quitting). Although most eventually did settle
-in New Eden, this concept of a virtual environment remained. When the Second
-Jove Empire collapsed (discussed three paragraphs below if you're THAT desperate
-to learn), it appears that a faction of Jove simply returned to their cryotubes
-and uploaded themselves into the Jove version of the internet. The remnants of
-that faction eventually settled in Ani while the rest of the Jove moved on to
-their current home, and eventually moved on to wormhole space (how they moved
-there, or why, has not yet been revealed). However, the Sleeper civilization
-itself is still alive, even if they rarely leave their virtual world. They
-survive in their VR construct to this day, their bodies kept in hibernation, and
-only very rarely come out of their hibernation to interact with the real world
-(real world in the game... you know what I mean).
+Sleepers
+--------
+Ah, now we're getting into the meaty stuff. For anyone who hasn't lived under a
+rock for the past few months, the
+[Sleepers](http://wiki.eveonline.com/en/wiki/Sleepers_%28lore%29) (and various
+related civilizations that we'll discuss) have made quite the comeback in terms
+of lore. Already a big deal thanks to their prominence in
+[Anoikis](http://wiki.eveonline.com/en/wiki/Anoikis_%28Chronicle%29) (which is a
+fancy, roleplay-y way of saying "wormhole space" or "w-space" if you ever want
+to impress your friends), Sleepers are the ancient civilization that we know the
+most about, even though we still have quite a few gaps in our knowledge. And
+they've been playing an important role in the resurgence of Eve lore we've been
+seeing in recent times.
 
-The [Talocan](http://wiki.eveonline.com/en/wiki/Talocan) cannot really be
-understood without the Sleepers. They originally settled in what is today
-Caldari space, in the Okkelen constellation, and are considered to be experts in
-"Spatial Manipulation and Hypereuclidean Mathematics". The strange thing about
-the Talocan is that they appear to be, in some way, connected to the Sleepers.
-In many of the higher classes of wormhole space, Talocan ruins can be found
-interwoven with Sleeper structures. Whether the Talocan conquered the Sleepers,
-or vice versa, is completely unknown to us at this point. There is [some
-evidence](http://dl.eve-files.com/media/corp/jowen/Jowen_went_to_whiskey_space.pdf)
-to suggest, however, that the Sleepers and Talocan eventually joined forces in
-wormhole space to fight some kind of disease. Some Sleeper sites in wormhole
-space are known as quarantined sites, and will even today broadcast warnings to
-stay away. The nature of the disease, whether it still exists, and whether it
-affected the Talocan, Sleepers, or both, are all matters of intense debate among
-the various RP groups.
+First I'll dig into the stuff we DEFINITELY don't know in-character, mostly
+gleaned from *Templar One* and *Eve Source*. The Sleepers were once a subset of
+the Jove race, whose history I dive into below, when they first came to New
+Eden. The Jove arrived in New Eden in two parts: most of the citizenry were
+frozen in cryogenic suspension and connected to each other in a computer program
+(yes, just like *The Matrix*); the rest stayed unfrozen, taking care of the
+ships and the frozen citizens (if any of the ships were named Zion I'm
+quitting). Although most eventually did settle in New Eden, this concept of a
+virtual environment remained. When the Second Jove Empire collapsed (discussed
+in the next section if you're THAT desperate to learn), it appears that a
+faction of Jove simply returned to their cryotubes and uploaded themselves into
+the Jove version of the internet (thus looking like they were 'sleeping' if
+you're really desperate to know where the name of the race came from). While the
+rest of the Jove moved on to their current home, the remnants of that faction
+eventually settled in Ani and eventually moved on to wormhole space. How they
+opened up Anoikis to colonization, and why, has not yet been revealed. However,
+the Sleeper civilization itself is still alive, even if they rarely leave their
+virtual world. They survive in their VR construct to this day, their bodies kept
+in hibernation, and only very rarely come out of their hibernation to interact
+with the real world (real world in the game... you know what I mean).
 
-The last of the original civilizations are the
-[Jove](http://wiki.eveonline.com/en/wiki/Jove). One of the original colonists of
-the New Eden cluster, they survived the collapse of the EVE Gate quite nicely,
-as they had come through the Gate intending to be self-sufficient from the
-start, and managed to form the First Jovian Empire after just a few centuries.
-While many of New Eden's colonists were dying because of their isolation, the
-Jove managed to kill each other quite a bit over their differing political and
-scientific views, since the Jove are apparently a rather fractious bunch.
-Nonetheless, the First Empire eventually spanned much of New Eden once they
-finally managed to learn to work together for a bit. And by "a bit", I mean the
-First Empire lasted [around 8,000
-years](http://community.eveonline.com/backstory/races/jove/). However, no
-political system lasts forever, and the First Empire was no exception. A radical
-faction eventually seized control, and the Empire eventually collapsed under its
-own weight (warning: I'm a bit of a political science nerd so there might be a
-number of sidetracks on political theory).
+We also know a few things about the Sleeper's civilization in the construct.
+Living in the Matrix allows them, like in *The Matrix*, to do and test just
+about anything they want (including, perhaps, remaking a *Matrix* that doesn't
+star Keanu Reeves. ANYTHING IS POSSIBLE). Indeed, for a long time, they worked
+with the Jove to help them advance their technology. There were just a few
+simple rules if you were a Sleeper: you need to have been born in the real
+world, and you must always have a body in the real world to return to. Sounds
+simple, right? It turns out that this is SURPRISINGLY DIFFICULT. A little while
+ago, you see, an artificial intelligence, untethered to any Sleeper body, was
+born in the construct and eventually got loose (proving, once again, that
+humanity can't have nice things). Long story short, this entity is now in
+Empress Jamyl's head. For long story... long, take a peek at *Templar One* and
+some
+[nifty](https://wiki.eveonline.com/en/wiki/And_I_Shall_Hide_%28Chronicle%29)
+[chronicles](https://wiki.eveonline.com/en/wiki/And_I_Shall_Hide_-_Alternate_%28Chronicle%29).
+This so-called Other's intentions are, for now, unknown to everyone.
 
-About 3,000 years ago, the Jove managed to climb back to some modicum of
-self-control and establish the Second Empire. But there were problems afoot. You
-see, the Jove had always been pretty big into genetic and social engineering, to
-the point that they had started tinkering with our most basic human instincts.
-At some point, however, something went wrong with the process. The [Jovian
-Disease](http://wiki.eveonline.com/en/wiki/Jovian_Disease) is a genetic (in
-other words, non-infectious) condition where, at some point in a Jove's adult
-life, they fall into an incredibly deep depression, and eventually lose the will
-to live. Because the Jove are apparently *terrible* at small-scale genetic
-manipulation and limited testing, the Disease has spread to the entire race. The
-Disease devastated the Second Empire, which collapsed soon after the Disease's
-appearance (though it's not clear if the Disease was the only cause of the
-collapse). In an attempt to start fresh, the Jovians abandoned their original
-homeworld in the region now known as
-[Curse](http://wiki.eveonline.com/en/wiki/Curse_%28Region%29) about 500 years
-ago. The modern day Third Empire, now much smaller than the first two, is
-completely isolated from the rest of the Cluster, and located in the northeast
-section of the Cluster. The Jove are split into two main factions: the Statics,
-who want to stop tampering with the Jove genome, and the Modifiers, who
-apparently love moving those alleles around. Beyond that, we have very little
-information on modern day Jove society. We know that they're governed by
-something called the [Jovian
+In character, we know that the Sleepers once inhabited the Ani constellation,
+and we know that at some point they moved on to Anoikis. While we do not know
+that the Sleepers still live in their self-made Matrix, we do know that their
+drones have been showing signs of activity as of late. Starting with the
+appearance of [Caroline's
+Star](https://evetravel.wordpress.com/2014/11/28/carolines-star/), a new type of
+Sleeper drone, never before seen, started invading New Eden. Until then, the
+Sleeper drones had shown little interest in capsuleers other than defending
+their various settlements and stations in Anoikis. With the appearance of the
+Circadian Seekers and various Sleeper caches throughout New Eden, however, it is
+clear that whatever guides the Sleeper drones have taken a much more active
+interest in the happenings on our side of the wormholes.
+
+...At this point it shouldn't surprise you to learn that the
+[Sleepers](https://wiki.eveonline.com/en/wiki/Sleeper_drones) were considered
+masters of virtual reality, neural interfacing, and cryotechnology.
+
+Talocan
+-------
+There's not NEARLY as much to say about our fourth and penultimate ancient race
+of New Eden, the [Talocan](http://wiki.eveonline.com/en/wiki/Talocan).
+Originally settlers in Caldari space, they eventually followed the Sleepers into
+Anoikis, becoming something of a nomadic civilization. Many of the
+[ruins](http://dl.eve-files.com/media/corp/jowen/Jowen_went_to_whiskey_space.pdf)
+that we see today in Anoikis suggest that they came to the Sleepers looking for
+help. Quite a few Talocan-oriented sites involve bioresearch and quarantine
+areas that even today broadcast warnings to approaching ships. The nature of the
+disease, and whether it affected the Talocan, Sleepers, or both, are still
+heavily debated in academic (read: lore nerd) circles. However, the Talocan are
+not without their own talents. Considered masters of 'spatial manipulation and
+hypereuclidean mathematics', the Talocan were particularly adept at harnessing
+different forms of transportation. Rather than the stargates we know and love
+today, the Talocan developed some kind of 'static gate' technology that, if I'm
+speculating correctly here, allowed them to open wormholes just about anywhere
+they pleased. Near-working examples of static gates can be found in so-called
+'shattered systems', newly-discovered Anoikis systems where each planet in the
+system is shattered from some stellar cataclysm. Each of these systems has an
+[Epicenter](https://evetravel.wordpress.com/2015/01/24/epicenter/) near the star
+that shows nearly-functional examples of static gate technology, and the Sansha,
+discussed below, may have found a way to make one of the gates fully functional.
+
+Jove
+----
+Ah, the Jove. Part of me is tempted to just end this section with that comment,
+given how complicated things get once you start heading down this particular
+rabbit hole. But that wouldn't make me a very good lore guide, now would it? So
+let's go down this rabbit hole together. For science. And internet spaceships.
+And maybe some cookies, or something, I don't know.
+
+The [Jove](http://wiki.eveonline.com/en/wiki/Jove) have the distinction of being
+the longest continuous race in New Eden, setting the record at some 12,000 years
+or so. The Jove were one of the last races to come through the Eve Gate before
+it collapsed, in the aforementioned giant ~~supercarriers~~ motherships and,
+somewhat ironically, one of the least technologically advanced species to come
+through. But, unlike most of the other colonies to come through the Gate, they
+had been prepared from the start to be entirely self-sufficient, and settled in
+nicely in what is now the region of Curse. So after the Gate collapsed, they
+managed to pull the First Jovian Empire together after just a few centuries.
+While many of the other Terran colonists were dying from famine, disease, and
+general suckitude-at-life, the Jovians were dying for completely different
+reasons: they got angry a lot and killed each other.
+
+You see, there are two driving forces that can be found time and again
+throughout Jove history: an almost self-destructive need to continually improve
+humanity and a strong tendency to factionalize and radicalize. The [early
+history](http://go-dl.eve-files.com/media/1202/Jovian_Timeline__Bonus_Material.txt)
+of the Jove is replete with examples of various Jove colonies, which they often
+call enclaves, engaging in various research pursuits and waging internecine
+warfare against other Jove enclaves. Regardless, the First Empire managed to
+stabilize things for the Jove for quite a while, on the scale of 8,000 years or
+so. We should all be so lucky. Still, nothing lasts forever, and eventually a
+radical faction managed to seize control of the reins of the First Empire,
+resulting in the eventual collapse of the Empire.
+
+From the ashes of the First Empire rose the Second, which was run in a
+somewhat-federal system which stabilized things for a while. But there were
+problems. Oh my, there were problems. I mentioned earlier that the Jove were big
+on perfecting humanity, particularly through the use of genetic enhancements.
+This worked well for a while, leading to lifespans of hundreds of years and
+increasing Jove intelligence (even if it made them seem creepy). But it
+eventually became clear that something had gone wrong with the process. You see,
+the Jove eventually started tinkering with the basic human instincts (perhaps in
+an effort to make 'transparent skin and overly large, bald heads' attractive on
+a primal level). It started manifesting itself as what is today known as the
+[Jovian Disease](http://wiki.eveonline.com/en/wiki/Jovian_Disease). The Disease
+is a genetic (read: non-infectious) condition where, at some point in a Jove's
+adult life, they fall into an incredibly deep depression, and eventually lose
+the will to live. Because the Jove are apparently terrible at small-scale
+genetic manipulation and limited testing, the Disease has since spread to the
+entire race. The Disease devastated the Second Empire, which collapsed soon
+after the Disease's appearance (though it's not clear if the Disease was the
+only cause of the collapse). The onset of the Disease led to what the Jove call
+only the Shrouded Days, where they suffered their own mini-Dark Ages. They don't
+like to talk about it much. Or talk at all.
+
+In a bid to save what was left of their civilization, the Jove left their home
+in [Curse](http://wiki.eveonline.com/en/wiki/Curse_%28Region%29) about 500 years
+ago (it's thought that this is approximately when the Sleepers finally split off
+and went off on their own) and settled in their present day space towards the
+east of New Eden. The modern day Third Empire is significantly smaller than the
+previous two. We know little of the Third Empire's structure. We know that it's
+run by something called the [Jovian
 Directorate](http://wiki.eveonline.com/en/wiki/Jovian_directorate_%28NPC_corporation%29),
-which seems to operate similarly to the Caldari's Chief Executive Panel, but
-other than that, information on the Jove is incredibly scarce. Indeed, there is
-at least some suggestion (through both *Templar One* and some interactions with
-Sansha's Nation) that the Jove as a race don't even exist anymore, that they've
-all died out from the disease. Whether this is true or not is simply not known
-at this time, though it's notable that the Jove haven't sent a delegation to
-CONCORD in several years (though, to be fair to the Jove, CONCORD meetings tend
-to be pretty boring so I'm not sure I can blame them).
+which seems similar to the Caldari's Chief Executive Panel. We also know that
+there are two main factions: the
+[Statics](https://wiki.eveonline.com/en/wiki/Statics), who want to stop
+tampering with the Jove genome (thinking the damage is done and that they
+shouldn't make things worse), and the
+[Modifiers](https://wiki.eveonline.com/en/wiki/Modifiers), who apparently love
+moving those alleles around (thinking that the only way out of the Disease is
+through the looking glass of more genetic engineering). Beyond that, we have
+very little information on modern day Jove society.
 
-Despite the lack of information on the Jove, they actually play a fairly major
+Despite this lack of information on the Jove, they actually play a fairly major
 role in the history of the Cluster. They were the ones to first [give capsule
 technology](http://wiki.eveonline.com/en/wiki/The_Jovian_Wetgrave) to the
 Caldari, and eventually the other Empires. They were [instrumental to the
@@ -419,17 +509,54 @@ politics](http://wiki.eveonline.com/en/wiki/Theodicy_%28Short_story%29) when
 they've deemed it necessary. Despite their complete isolation (just try getting
 into their space, I'll wait), they (or, someone masquerading as them, depending
 on who you talk to) continues to exert a subtle, but significant pressure on the
-evolution of the Cluster. They have a heavy corporate presence through companies
-like Genolution and Impro, but these are almost entirely run through
-intermediaries, so not even company employees see their secret Jove overlords.
-They don't take a major role in many stories in New Eden, but even here they
-show up an awful lot in passing, so make sure to keep them in mind.
+evolution of the Cluster, often through the use of intermediary companies like
+Genolution and Impro.
 
-At this point, we've covered all of the deep background for New Eden lore. We
-have yet to really touch anything that is particularly relevant to modern day
-New Eden affairs, but it's all part of the tapestry of New Eden. Next, we'll be
-looking at the history of the four modern empires as well as the development of
-CONCORD.
+Oh, by the way, have I mentioned they might all be dead? Rumors and speculation
+have been swirling around the fate of the Jove for quite some time, but I, your
+ever cautious lore guide, have always taken this at face value. But the evidence
+is becoming more and more difficult to ignore. We know from *Eve: Source* that
+the last contact that anyone has had with the Jove came in YC 112 when they
+unceremoniously announced that they had booted Sansha's Nation out of their
+space. And with the arrival of the Drifters, which I'll discuss later (you'll
+note that this section makes cross-references to everywhere because the Jove are
+always popping up to drive me batty), [even CONCORD seems to accept that the
+Third Empire has, indeed,
+fallen](https://evetravel.wordpress.com/2015/03/08/unidentified-wormholes/) (the
+collapse of most of their stargate network probably isn't helping the situation
+any). We certainly don't know for sure, of course, and may not know for a while
+yet, but the signs are becoming increasingly clear. Additionally, in recent days
+it has become clear that the Jove have been spying on us, possibly for quite a
+while. Observatories have popped up throughout the Cluster. How long they've
+been there is anyone's guess, but knowing the Jove, they've been around since
+the current Empires were still in their metaphorical diapers. In recent days,
+the observatories have become heavily damaged, apparently from Circadian Seeker
+and Drifter interference and attacks. They appear to be searching through the
+observatories and systematically dismantling them.
+
+One more note before I move on. There's one more faction that deserves
+mentioning: the hilariously-difficult to both spell and pronounce
+[Enheduanni](https://wiki.eveonline.com/en/wiki/Enheduanni). The Enheduanni
+trace their history back to the days that the Jove first came to New Eden.
+You'll remember, I hope, those giant motherships the Jove used to travel to New
+Eden. They were slow, clunky, and, like any good game of Homeworld, had most of
+its population in cryogenic stasis for the trip. But a small skeleton crew
+stayed awake to monitor systems, and this small group eventually became the
+Enheduanni faction. Not quite Jove, not quite anything else, they seem to take a
+more proactive approach to events throughout the Cluster. They also acted as a
+go-between between the Jove and the Sleepers, maintaining a presence in both the
+Construct and the Cluster (that's an indie band name if I've ever heard one).
+Separating the speculation from the (little known) fact on them is difficult,
+but feel free to get a lot of RPers to groan when you bring them up. Back before
+the Jove apparently died out, they didn't like the Enheduanni much, apparently
+for their love of intervening with the rest of the Cluster. So, for those
+keeping score at home, that leaves us in this section with Sleepers, 3 empires,
+and an anti-Jovian Jovian faction of Enheduanni all floating around in a Jove
+history of advanced technology and probable spying on us that might have already
+ended but we don't know, and that's not even touching the Drifters that we get
+to later on.
+
+Ah, the Jove.
 
 
 The Empires
@@ -452,7 +579,7 @@ We start with the largest and, depending on who you talk to, most diabolical of
 the four nations of New Eden: the [Amarr
 Empire](http://wiki.eveonline.com/en/wiki/Amarr). Two parts theological empire,
 one part bureaucratic morass, with a sprinkling of lifetime indentured servitude
-for just a bit flavor, the Amarr Empire is founded on the idea that the State
+for just a bit of flavor, the Amarr Empire is founded on the idea that the State
 and the Church are one.
 
 Thus, the [head of state](http://wiki.eveonline.com/en/wiki/Amarr_Emperor)
@@ -608,7 +735,8 @@ to look beyond their current system. Thankfully, around this time they [stumbled
 across](http://wiki.eveonline.com/en/wiki/Interstellar_travelling#Where_Do_We_Come_From.3F)
 the ruins of a surprisingly well-preserved Terran stargate. They quickly
 realized the promise of the new/old technology, and set about constructing a
-companion gate in Hedion, the closest star to Amarr, with the gate opening for
+companion gate in Hedion (it's mildly surprising that they didn't just call this
+Amarr 2), the closest star to Amarr, with the gate opening for
 use in 21290 AD. With the cluster now as their oyster (that's admittedly a
 metaphor I've never figured out), the Empire began spidering out from Amarr,
 with the Emperor soon granting the more powerful families vast swaths of
@@ -822,7 +950,7 @@ and invaded Amarr space. The invading fleet rescued scores of the Starkmanir,
 and then did what any good invading fleet should: sack and pillage. The fleet
 [got as far as Sarum
 Prime](http://community.eveonline.com/news/news-channels/world-news/breaking-news-massive-explosion-detected-over-mekhios/),
-one jump from the Throne Worlds, when they were
+one jump from the Throne Worlds and home of the Sarum family, when they were
 [stopped](http://community.eveonline.com/news/news-channels/world-news/breaking-news-elder-fleet-over-mekhios-destroyed/)
 by one [Jamyl Sarum](http://wiki.eveonline.com/en/wiki/Jamyl_Sarum). Sarum, one
 of the Five Heirs during the Doriam succession trials, had been presumed dead
@@ -853,7 +981,13 @@ This obviously sent shockwaves throughout the Empire and Republic alike, as the
 Holders hadn't exactly been consulted about losing around 800 million members of
 their workforce, and the Republic wasn't quite prepared to handle 800 million
 new citizens. I realize this is a bit like saying "see, they decided to kill
-fewer people so good for them" but a start is a start, I suppose.
+fewer people so good for them" but a start is a start, I suppose. More recently,
+Jamyl has gone MIA at most major public events, and rumors are circulating that
+she has taken ill in some way. It PROBABLY has something to do with the [voice
+she's got living in her
+head](https://wiki.eveonline.com/en/wiki/And_I_Shall_Hide_-_Alternate_%28Chronicle%29),
+but let's face it, getting a rogue Sleeper AI to take up residence in your head
+probably doesn't exactly do wonders for stability of your reign, now does it?
 
 ### Social Structure
 The [government of the
@@ -1106,7 +1240,8 @@ acquisition of a special tattoo through the ritual [of
 Voluval](http://wiki.eveonline.com/en/wiki/Voluval). The tattoo gained through
 this process is said to determine one's future, and [certain
 symbols](https://wiki.eveonline.com/en/wiki/The_Ray_of_Matar) from the ritual
-can mark certain people as having a great destiny.
+can mark certain people as having a great destiny or get you exiled from the
+Republic.
 
 Although they have the largest numerical population of the major races with
 something like 24 trillion Matari spread across New Eden (possibly in
@@ -1129,7 +1264,10 @@ polity, and their integration into the Republic is ongoing.
 The tribes each have different traits. The Sebestiors are valued for their
 intellect and engineering prowess. The Brutors, as their name might suggest, are
 among the more disciplined and militaristic of the tribes. The Krusual are much
-more secretive and far more adept at the political game. The Thukkers, as noted
+more secretive and far more adept at the political game.
+The Vherokior are prized for their social skills, and can be found often as
+leaders in the business and spiritual communities.
+The Thukkers, as noted
 above, are much more nomadic and able to rely much more on their judgment and
 instinct in emergency situations. The Nefantar and Starkmanir have only recently
 returned to the flock, and other than troubles integrating have not really
@@ -1541,7 +1679,7 @@ going, you know) and they didn't want to risk antagonizing the Amarr more than
 they already had. So while the Federation and Republic grew to be close allies,
 they remained distinct governments.
 
-As the Caldari War dragged on in to later years, more and more of the younger
+As the Caldari War dragged on, more and more of the younger
 generations began clamoring for peace. They had not been around for the horrors
 of Hueromont and Nouvelle Rouvenor; they just wanted this war to be over with.
 In fact, they wanted all war to be over with. The Federation had originally been
@@ -1587,7 +1725,10 @@ political rival [Mentas
 Blaque](http://wiki.eveonline.com/en/wiki/Mentas_Blaque), as a secret policing
 branch of the government, overseeing internal surveillance as well as acting as
 the secret ops branch of military intelligence. President Roden has seen no need
-to interfere with the Eagles since coming to office in YC 111.
+to interfere with the Eagles since coming to office in YC 111. President Roden
+was
+[reelected](http://community.eveonline.com/news/news-channels/world-news/breaking-news-roden-success-in-bid-for-second-term/)
+in early YC 117 for a second term in office.
 
 ### Social Structure
 As you might have guessed from the introduction, the [Federation
@@ -1695,13 +1836,13 @@ If it's difficult to describe the Minmatar without referring to the Amarr, it is
 impossible to describe the [Caldari
 State](http://wiki.eveonline.com/en/wiki/Caldari) without describing the massive
 impact the Gallente Federation has had on it. Having developed in the same
-system as the Gallente, the State was born in blood and fire, through their
+system as the Gallente, the State was born in blood and fire (ironic considering that Caldari Prime is a ball of ice), through their
 determination to not be governed by anyone. Any description of the Caldari as a
 people have to start and end with the concept [of
 megacorporations:](http://wiki.eveonline.com/en/wiki/Caldari#Megacorporations)
 gargantuan corporate entities that control a person's life from cradle to grave.
 A person lives and dies by the grace of his corporate masters. In some respects,
-though, this has lead to an even more equalitarian society than even the
+though, this has lead to an even more egalitarian society than even the
 Gallente: the harsh realities of darwinian economics and corporate bottom lines
 have made the State an almost ideal version of a meritocracy, where anyone can
 make it far if they have the talent and are willing to work at it. Although
@@ -1721,7 +1862,7 @@ the air was thin and the soil fairly barren. Despite the harshness of the only
 minimally terraformed world, the Caldari managed to eke out an existence in the
 temperate regions near the equator. This harsh history ultimately lead to the
 Caldari's well-known utilitarianism, and profound belief in the idea that the
-needs of the many outweigh the needs of the few (making Vulcan proud in the
+needs of the many outweigh the needs of the few (making Spock proud in the
 process). The Caldari didn't care how pretty something looked, it would kill you
 all the same if it didn't do something to help the people survive. Though they
 were never particularly centralized, the most notable of the nations that manage
@@ -1734,7 +1875,7 @@ cross-ethnic mingling.
 This was essentially the state that the Caldari were in when first contact was
 made with the Gallente. I should probably note here that the term "Caldari"
 wasn't really in use prior to first contact with the Gallente (so sorry for
-lying to you above!). Rather, the term came in to use to distinguish the two
+lying to you above!). Rather, the term came into use to distinguish the two
 homeworlds in Luminaire. I should also note that the evolution from traditional
 government to corporatocracy remains largely unexplored; frankly, CCP has never
 really delved into the subject in-depth (ironically, or perhaps fittingly, what
@@ -1769,7 +1910,7 @@ regulations and rules the Federation put in place on them, again bumping up
 against that Caldari pride in self-sufficiency. It seemed that everywhere they
 turned, the Federation was ready to gobble them up. The Federation trying to
 assert jurisdiction over the hidden colonies was simply the straw that broke the
-camel's back, and things spiraled from there. Meddling lead to anger which lead
+camel's back, and things spiraled from there. Meddling led to anger which lead
 to Nouvelle Rouvenor which lead to the blockade which lead to Hueromont. Neither
 party and both parties are at fault for the lead up to the war; it was just a
 situation where societies just don't mesh well with one another.
@@ -1793,7 +1934,7 @@ After taking power, Heth was able to leverage the Elder fleet invasion to his
 own advantage. In a [daring lightning
 strike](http://wiki.eveonline.com/en/wiki/Year_YC110#The_Caldari_Invasion), Heth
 used the failure of CONCORD's rapid response capabilities (and with help from
-Admiral Eterrur, who sabotaged the Federation's early warning systems) to sweep
+Admiral Eturrur, who sabotaged the Federation's early warning systems) to sweep
 through
 [Algogille](http://evetravel.wordpress.com/2010/03/02/algogille-graveyard/) (the
 headquarters of the Federation Navy) and
@@ -1810,8 +1951,8 @@ ruins](http://evetravel.wordpress.com/2013/04/14/operation-highlander-battlegrou
 and a demilitarized Caldari Prime.
 
 After losing *Shiigeru*, Heth reacted to the devastating strategic loss of
-leverage over the Gallente with poise and aplomb by immediately forcing the
-Admiral commanding the ship (a capsuleer) to [commit ritualistic
+leverage over the Gallente with poise and aplomb by immediately forcing Admiral
+Yanala, the capsuleer commanding the ship, to [commit ritualistic
 suicide](http://community.eveonline.com/news/news-channels/world-news/breaking-news-yanala-forced-into-tea-maker-ceremony/).
 You know, as galactic leaders do. Once the news of this broke, Heth's reign
 quickly spiraled downwards. Most of the Caldari mega-corporations had grown
@@ -1830,10 +1971,15 @@ Executor](http://community.eveonline.com/news/news-channels/world-news/cep-disso
 He was removed as CEO of Caldari Construction, and there are now [warrants out
 for his
 arrest](http://community.eveonline.com/news/news-channels/world-news/cep-kk-call-for-heths-arrest/).
-Heth's current whereabouts are unknown, but given that his lungs are [slowly
+
+Although Heth's whereabouts are technically unknown, it seems likely that he
+died in an assault when his fleet was assaulted by unknown craft. [Its remains
+were found in
+Aivonen](http://community.eveonline.com/news/news-channels/world-news/report-wreckage-of-heths-escort-found-in-aivonen/),
+where only his bloody wrist watch was recovered. Which, frankly, was probably
+the least painful way for him to die considering that his lungs are [slowly
 turning into lumps of
-coal](https://wiki.eveonline.com/en/wiki/Tibus_Heth#Health), we'll probably be
-hearing about his death soon enough.
+coal](https://wiki.eveonline.com/en/wiki/Tibus_Heth#Health).
 
 ### Social Structure
 A person's daily life in the State begins and ends with one of the eight
@@ -1847,7 +1993,7 @@ megacorporations:
 [Wiyrkomi](http://wiki.eveonline.com/en/wiki/Wiyrkomi_Corporation), and [Lai
 Dai](http://wiki.eveonline.com/en/wiki/Lai_Dai_Corporation). These megacorps,
 through a nightmarish maze of subsidiaries, affiliates, and other corporate
-mumbo jumbo, owns something like 90% of all property within the State. Although
+mumbo jumbo, own something like 90% of all property within the State. Although
 the corporations each have their own agendas and ideologies, they generally fall
 into one of three philosophical blocs: the
 [Practicals](http://wiki.eveonline.com/en/wiki/Caldari_Corporate_Factions#Practicals)
@@ -1997,10 +2143,8 @@ Commission](http://wiki.eveonline.com/en/wiki/Secure_Commerce_Commission):
 they're the ones that take your taxes and regulate trade between the empires.
 
 
-Frontier Organizations
-======================
-
-*Minor Powers, Mighty Aspirations*
+Frontier Organizations: Minor Powers, Mighty Aspirations
+========================================================
 
 For most video game companies, the four major empires, with their expansive
 backstories, would have been quite enough for their content teams. They could
@@ -2159,6 +2303,51 @@ power and sophistication: [Omir
 Sarikusa](https://wiki.eveonline.com/en/wiki/Omir_Sarikusa). Around him are a
 close inner circle of theological and legal advisors, mostly given the ominous
 title of "Bleeders".
+
+Drifters
+--------
+For the first time in quite a while, New Eden has a new faction! The Drifters
+(not to be confused with the Vherokior ancestry
+[Drifter](https://wiki.eveonline.com/en/wiki/Vherokior#Drifters)) have exploded
+onto the scene in the latest story arc, appearing in New Eden at the same time
+various [unidentified
+wormholes](https://evetravel.wordpress.com/2015/03/08/unidentified-wormholes/)
+(different from the normal wormholes capsuleers use daily) popped up around the
+Cluster. Information about them is obviously scant, but from what CONCORD has
+deigned to tell us so far, they are splinter sect of Jove who, uhh, didn't die.
+Other than that little tidbit, we know little of their history or relation to
+the rest of the Directorate, if any. So maybe it was for the best that they
+splintered. The Drifters differ significantly in that, rather than going the
+heavy-genetic-modification route that ultimately doomed the Jove, the Drifters
+apparently realized that resistance was futile and went straight-up Borg. With
+heavy cybernetic enhancements covering just about their entire body, they seem
+almost more machine than man. Somewhat more worryingly, the Drifters have
+Jove-level technology at their disposal and aren't afraid to use it, and have
+been known to attack anyone who gets too close to the [unidentified
+wormholes](https://evetravel.wordpress.com/2015/03/08/unidentified-wormholes/)
+or [Jove
+observatories](https://evetravel.wordpress.com/2015/03/22/unidentified-structures-uncloaked/),
+formerly marked as unidentified structures, while they are around.
+
+Drifter ships are incredibly advanced compared to your more orthodox New Eden
+ships, but (unlike CONCORD) they ARE beatable (why CONCORD isn't really trying
+to fight them is another matter entirely, but my guess is that all of CONCORD is
+on a donut break). Beyond some fancy schmancy non-Newtonian propulsion systems,
+they have two layers of shielding, a device that allows them to always break
+sensor lock, and did I mention a superweapon capable of downing capital ships? I
+wasn't kidding when I said they went all Borg on us. They also seem to have a
+thing for cloning. Unlike most NPC vessels, the game shows Drifter battleships
+having one of two Drifter pilots: either Apollo (the Greek god of archery) or
+Artemis (the Greek goddess of hunting) Tyrannos (which means, uhh, tyrant, and
+what I'm trying to say is that these names DON'T REALLY BODE WELL FOR US, OK).
+Neither has deigned to converse with us lowly capsuleers yet, at least not
+[outside of twitter](https://twitter.com/apollotyrannos). It's been shown in a
+[recent game trailer](https://www.youtube.com/watch?v=s3060a8NkOk) that the
+Drifters appear to be forged out of the bodies of dead clones of capsuleers,
+brought back to life through advanced technology. I guess that makes them even
+more zombified Borg than the regular Borg zombies. In recent days, they have
+started scooping up corpses of those they pod, making them even MORE spooky.
+
 
 Equilibrium of Mankind
 ----------------------
@@ -2393,8 +2582,8 @@ outer regions of New Eden, making his home in [Outer
 Ring](http://wiki.eveonline.com/en/wiki/Outer_Ring) and Cloud Ring. Until then,
 those regions had only been considered of moderate value, and not particularly
 worth the risk of mining out there. However, that was before the discovery of
-[Noxcium](http://wiki.eveonline.com/en/wiki/Nocxium_%28lore%29), a rare ore that
-forms only during a supernova. The ore is vital for, among other things,
+[Noxcium](http://wiki.eveonline.com/en/wiki/Nocxium_%28lore%29), a rare mineral
+that forms only during a supernova. The ore is vital for, among other things,
 building capsules. Once the importance of the ore was discovered, ORE became a
 massive and wealthy company almost overnight. Rumor has it that they had
 discovered a small moon worth of the stuff, giving them a massive market share
@@ -2519,17 +2708,17 @@ actually Kuvakei instead of a replacement of some kind. Capsuleers soon came to
 the rescue when it became clear that Empire navies and CONCORD were unable to
 deal with the coordinated, lightning swift assaults that soon became the
 Nation's hallmark (these attacks, not to be confused with incursions, are known
-as live events. Generally lead by one Sansha member played by a CCP employee,
-he'll bring hundreds of ships into one system and players are expected to
+as live events. Generally these were led by one Sansha member played by a CCP employee,
+and he would bring hundreds of ships into one system and players are expected to
 respond and defend the colonies. These live events (of which there are other
-kinds, but this has been the main kind in recent years) can be very
+kinds) can be very
 entertaining, and a great way to dip your toe into RPing if you're looking for a
-way to get started, though they tend to be somewhat few and far between these
+way to get started, though they tend to be rather rare these
 days). Things grew more ominous when it was discovered that the Nation had
 discovered how to create their own wormholes to invade any system they chose,
 and even MORE ominous when pictures suggested that the Nation had conquered at
 least [one Jove
-system](http://community.eveonline.com/news.asp?a=single&nid=3967&tid=4) to
+system](http://community.eveonline.com/news/news-channels/eve-online-news/capsuleer-probe-scouts-other-side-of-nation-wormhole-returns-images-of-jovian-space.-1/) to
 serve as a base of operations. The only response from the Jove was a terse
 message explaining that they had retaken the station in question. That message
 has been the last that anyone has heard from the Jove.
@@ -2538,18 +2727,25 @@ These days, the Nation has for the most part abandoned its single-system
 strategy after a climactic battle in Yulai near the end of YC 113. The Nation
 now favors constellation-wide
 [incursions](http://wiki.eveonline.com/en/wiki/Incursion), where they attempt to
-disrupt life as much as humanly possible.
+disrupt life as much as humanly possible, with CONCORD not really caring other
+than paying us capsuleers to take care of the problem. After his initial
+appearances, in which he started taking a rather anti-capsuleer stances on
+things, Kuvakei hasn't been heard from in quite some time. What IS clear,
+however is that the Empires show no interest in repeating the unprecedented
+sweep they undertook in YC 37.
 
-Kuvakei's rhetoric has also been tweaked in recent days. Although he continues
-to speak of
-[unity](http://community.eveonline.com/ingameboard.asp?a=topic&threadID=1454703&page=1#1),
-he has also taken special interest in capsuleers, trying to
-[rally](http://community.eveonline.com/ingameboard.asp?a=topic&threadID=1318980&page=4#108)
-them specifically to [his
-cause](http://community.eveonline.com/ingameboard.asp?a=topic&threadID=1318980&page=4#108).
-What the future holds for Sansha and his Nation at this point are anything but
-clear, and the Empires have shown no particular desire to repeat the sweep of YC
-37.
+With the mass discovery of Thera and its related shattered systems, which I
+discuss more in-depth below, the origin of Sansha's wormhole technology has
+become a bit clearer. When I delved into the Talocan waaaaaaaaaay back in the
+beginning of the guide (FEELS LIKE FOREVER, DOESN'T IT. UNLESS YOU AREN'T
+READING IN ORDER. IN WHICH CASE, KUDOS TO YOU, NON-LINEAR READERS), I had noted
+that the Talocan had developed static gate technology. Sansha wrecks can be
+found in certain shattered systems epicenters, which, as you may recall, housed
+many almost-working specimens of the static gate technology. The implication is
+fairly clear that the Sansha either discovered or reverse engineered a fully
+functional version of the technology, which they then used to commence their
+incursions into New Eden. How they got to the shattered systems in the first
+place, however, is still not clear.
 
 Serpentis
 ---------
@@ -2640,6 +2836,22 @@ for the Sisters. Obviously, this isn't known to the general populace (indeed,
 only Silphy and Santimona appear to know anything about it), so it should be
 considered off-limits to characters, but it's an interesting subplot
 nonetheless.
+
+The Sisters' skeeziness has upped to the level of ULTRASKEEZE in recent days
+with the discovery that they know much more about recent happenings in Thera and
+other shattered systems than they had previously let on. When capsuleers first
+entered Thera, which I discuss in its own section later on, we had expected to
+find a virgin, uncolonized system. What we found instead were not one, not two,
+but FOUR fully functional Sisters stations, with the ruins of four others,
+making it clear that not only had they made it to Thera before the rest of the
+Cluster, but that they had been in Thera long enough to make a significant
+presence there. Many of their facilities are dedicated to research of and
+experimentation with the various Sleeper and Talocan technologies that can be
+found throughout Anoikis. What their ultimate goals are with this research, why
+they hid it, and how they got here before the rest of the Cluster, are still
+very much unknown (a phrase I feel like I've been saying even more than jokes
+about how the Amarr are slow and plodding).
+
 
 Society of Conscious Thought
 ----------------------------
@@ -3119,6 +3331,67 @@ stop writing. These are things that either seemed to fit either everywhere, or
 nowhere at all, so I figured it would just be easiest to separate them out into
 their own little category.
 
+Caroline's Star and Thera
+-------------------------
+One of the things worth mentioning in this section is the event that, more than
+anything, marked the beginning of this renaissance of the Eve storyline. In
+November of YC 116 (that's November of 2014 for you uneducated plebes... or the
+ones who haven't read the next section yet), a spatial anomaly became visible
+after being [first
+noticed](https://twitter.com/NewEdenCaroline/status/537676000906457089) by
+capsuleer and noted space photographer (and, if you irritate her, butt-slapper)
+Caroline Grace. The anomaly quickly became visible throughout the Cluster which,
+if you know anything about how [light
+works](https://en.wikipedia.org/wiki/Light), shouldn't be possible
+simultaneously across over 100 light-years. With backing from CCP, the anomaly
+was colloquially became known as [Caroline's
+Star](https://evetravel.wordpress.com/2014/11/28/carolines-star/), though its
+technical name if you want to get fancy (or boring) is [Superluminal Stellar
+Anomaly
+YC116-11-26](http://community.eveonline.com/news/news-channels/world-news/concord-inner-circle-statement-on-carolines-star-and-the-thera-system/).
+
+With the anomaly [growing bigger and brighter by the
+day](http://i.imgur.com/5TNTKMf.gif), some quick-working members of the lore
+community managed to triangulate the position of Caroline's Star. Startlingly,
+the anomaly seemed focused on a Jove system with the rather boring name of
+W477-P. It was shortly after the appearance of Caroline's Star that
+[unidentified
+structures](https://evetravel.wordpress.com/2014/12/14/unidentified-structure/),
+eventually identified as [Jove
+observatories](https://evetravel.wordpress.com/2015/03/22/unidentified-structures-uncloaked/),
+began partially-decloaking throughout the Cluster. With the appearance of these
+structures came the first appearance of the Circadian Seeker Sleeper drones
+which I've previously discussed, who have grown more and more hostile as time
+has progressed. It was also around now that 101 new systems became accessible to
+capsuleers through the wormhole network, and their new-found accessibility seems
+attributable to the Caroline's Star event. Most of these systems are, for the
+most part, barren. They consist of planetary systems in which each planet has
+been shattered by some cataclysmic event (think the Seyllin incident but only
+moreso). At the center, above a turbulent star, sits the enigmatic epicenters.
+
+One system, though, deserves special mention here: Thera. Thera seems to be a
+hub system. It's a massive system, over 300 AU across, and has an above-average
+number of [wormholes leading to it](http://www.eve-scout.com/). Spread
+throughout Thera are 4 stations built by the Sisters of Eve. Notably, the system
+is also filled with the wreck of 4 other Sister's stations, as well as the
+apparent wreck of a Thukker caravan. So far, they've refused to explain why they
+were there and how they got there before the general capsuleer population,
+though [they have
+acknowledged](http://community.eveonline.com/news/news-channels/world-news/sisters-of-eve-release-statement-on-caroliness-star-thera-incident-and-concord/)
+that the wreckage and devastation in Thera is attributable to the Caroline's
+Star event.
+
+Theories, as usual, abound as to what really happened in W477-P, and how it
+relates to the appearance of the Seekers, the Drifters, and Thera. My personal
+favorite is the one put forward by noted lorehound Rhavas, which really has to
+be seen in its
+[three](https://interstellarprivateer.wordpress.com/2014/12/18/phenomenal-cosmic-power/)-[part](https://interstellarprivateer.wordpress.com/2014/12/19/anatomy-of-a-catastrophe/)
+[glory](https://interstellarprivateer.wordpress.com/2014/12/19/evolution-of-theories/)
+to be properly appreciated. For now, though, with the baleful eye of Caroline's
+Star still watching over us (sorry to get all poetic right there but it felt
+right), it's clear that this particular storyline still has quite a ways to go.
+
+
 Calendar
 --------
 I realize that I swap a lot between saying years in the traditional AD system
@@ -3191,7 +3464,7 @@ they all developed on the same world (originally), there's probably also a
 unified Matari language. That being said, there's still some patterns apparent
 in the various tribal names. The Brutors tend to have a Maori feel to them,
 while the Sebestior (somewhat randomly) seem to be derived from Nordic names.
-The Vherekior seem to derive from Urdu names.
+The Vherokior seem to derive from Urdu names.
 
 **Gallente:** As might be expected, the Gallente language and names seem to
 derive mostly from French roots, with perhaps a Gallic influence to them. The
@@ -3233,8 +3506,12 @@ in-depth study of all known shattered planets in his [Shattered Planet
 Datacore](http://interstellarprivateer.wordpress.com/shattered-planets-datacore/)).
 Of course, anything merely man-made had little chance of surviving events that
 could destroy planets. While a number of systems were thankfully uninhabited, we
-do know that an Intaki Syndicate station was destroyed, as well as a Thukker
-caravan in the Great Wildlands.
+do know that an [ORE survey
+team](http://community.eveonline.com/news/news-channels/world-news/report-communications-lost-with-ore-survey-team-in-outer-ring/),
+as well as a [Thukker
+caravan](http://community.eveonline.com/news/news-channels/world-news/report-thukker-caravan-reported-missing-in-great-wildlands/)
+in the Great Wildlands. Recently, however, the remains of that caravan were
+found in Thera. Exactly how it arrived there intact is still unknown.
 
 These losses pale in comparison, though, to the loss of life in Seyllin. Seyllin
 was a small but successful Federation mining colony housing roughly 500 million
@@ -3249,7 +3526,7 @@ the Federation and others [to figure out precisely what was going
 on](http://wiki.eveonline.com/en/wiki/World_On_Fire_%28Chronicle%29), wasting
 precious moments that could have been used to evacuate citizens from the doomed
 planet. Finally, the Federation Navy, assisted by the Sisters of EVE and other
-factions, managed to begin lifting some citizens, but not nearly enough. Only
+factions (including, notably, the Serpentis), managed to begin lifting some citizens, but not nearly enough. Only
 843,000 out of a population of 500 million were ultimately saved from Seyllin I.
 
 After such an event, of course, governments and scientists alike were eager to
@@ -3292,12 +3569,11 @@ million people. The explosions were so severe that they ripped holes in the
 fabric of space-time. Apparently random
 [wormholes](http://wiki.eveonline.com/en/wiki/Wormhole) soon appeared throughout
 the cluster. Intriguingly, out of the trillions upon trillions of stars in the
-universe that the wormholes could lead to, they all lead to about 2,500 that are
+universe that the wormholes could lead to, they all lead to about 2,600 that are
 inhabited in some capacity by the Sleepers (the reasons for why wormholes only
-lead to these select systems is unknown). These systems, known as
-[Anoikis](http://wiki.eveonline.com/en/wiki/Anoikis_%28Chronicle%29) (Anoikis
-and w-space are equivalent terms, but I believe there's a slight preference in
-RP circles to call it Anoikis), are located in an unknown area of space (though
+lead to these select systems is unknown).  These systems, which collectively
+make up Anoikis (which, as you may remember from above, is the equivalent of
+w-space), are located in an unknown area of space (though
 *Templar One* does mention that the only identifiable objects in Anoikis are
 quasars, which would make Anoikis incredibly distant from New Eden). However,
 within hours of the first wormhole opening in
