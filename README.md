@@ -20,7 +20,7 @@ You can read the Markdown version online [here](https://github.com/flesser/mark7
 
 ### 2015-05-14
 * Update to version 2.1
-* See commit 1c7e0dfcbc1708beb1f88ddf1b4c1da41397f759 for content changes
+* See [this commit](https://github.com/flesser/mark726-eve-lore-ebook/commit/65ebee8d58aba853afc58ab2680d4756b0025e43) for content changes
 
 ### 2015-01-30
 * Initial version 2.0
