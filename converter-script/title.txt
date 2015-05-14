@@ -1,5 +1,6 @@
 ---
-title: Mark726's EVE Lore Survival Guide v2.0
+title: Mark726's EVE Lore Survival Guide v2.1
+subtitle: (Current as of Scylla release, March 24, 2015)
 author: Mark726
 language: en-US
 ...
