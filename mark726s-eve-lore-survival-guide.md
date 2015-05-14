@@ -237,8 +237,8 @@ habitable, were colonized.
 
 Those not yet habitable began being terraformed (Caldari Prime, in Luminaire,
 being the most notable example of this). Few colonies were yet self-sufficient,
-relying heavily on support from Earth for money and supplies. Still, everything seemed
-to be going swimmingly.
+relying heavily on support from Earth for money and supplies. Still, everything
+seemed to be going swimmingly.
 
 However, problems in the EVE Gate itself soon appeared. It was not quite as
 stable as the first colonists had been lead to believe. Terrans (an umbrella
@@ -736,15 +736,15 @@ across](http://wiki.eveonline.com/en/wiki/Interstellar_travelling#Where_Do_We_Co
 the ruins of a surprisingly well-preserved Terran stargate. They quickly
 realized the promise of the new/old technology, and set about constructing a
 companion gate in Hedion (it's mildly surprising that they didn't just call this
-Amarr 2), the closest star to Amarr, with the gate opening for
-use in 21290 AD. With the cluster now as their oyster (that's admittedly a
-metaphor I've never figured out), the Empire began spidering out from Amarr,
-with the Emperor soon granting the more powerful families vast swaths of
-interstellar space. Around this time, some issues cropped up with both the
-Equilibrium of Mankind and the Sani Sabik, but frankly this section is already
-bigger than intended so we'll just come back to them later. Just note that this
-is about the time that Amarr had issues with the crazies (as opposed to all the
-*other* times they dealt with crazies).
+Amarr 2), the closest star to Amarr, with the gate opening for use in 21290 AD.
+With the cluster now as their oyster (that's admittedly a metaphor I've never
+figured out), the Empire began spidering out from Amarr, with the Emperor soon
+granting the more powerful families vast swaths of interstellar space. Around
+this time, some issues cropped up with both the Equilibrium of Mankind and the
+Sani Sabik, but frankly this section is already bigger than intended so we'll
+just come back to them later. Just note that this is about the time that Amarr
+had issues with the crazies (as opposed to all the *other* times they dealt with
+crazies).
 
 Like, you know, the crazy emperor. In 21346, Zaragram II was chosen by the
 Council of Apostles to ascend to the throne. Things started off innocuously
@@ -1264,15 +1264,14 @@ polity, and their integration into the Republic is ongoing.
 The tribes each have different traits. The Sebestiors are valued for their
 intellect and engineering prowess. The Brutors, as their name might suggest, are
 among the more disciplined and militaristic of the tribes. The Krusual are much
-more secretive and far more adept at the political game.
-The Vherokior are prized for their social skills, and can be found often as
-leaders in the business and spiritual communities.
-The Thukkers, as noted
-above, are much more nomadic and able to rely much more on their judgment and
-instinct in emergency situations. The Nefantar and Starkmanir have only recently
-returned to the flock, and other than troubles integrating have not really
-distinguished themselves as of yet. *Eve: Source* delves into the various Tribes
-for anyone interested in learning more. This guide is long enough as it is.
+more secretive and far more adept at the political game. The Vherokior are
+prized for their social skills, and can be found often as leaders in the
+business and spiritual communities. The Thukkers, as noted above, are much more
+nomadic and able to rely much more on their judgment and instinct in emergency
+situations. The Nefantar and Starkmanir have only recently returned to the
+flock, and other than troubles integrating have not really distinguished
+themselves as of yet. *Eve: Source* delves into the various Tribes for anyone
+interested in learning more. This guide is long enough as it is.
 
 Religion and spirituality play a large role in Minmatar life as well, though
 perhaps not as large of one as you might find in the Empire. As best as I can
@@ -1679,12 +1678,12 @@ going, you know) and they didn't want to risk antagonizing the Amarr more than
 they already had. So while the Federation and Republic grew to be close allies,
 they remained distinct governments.
 
-As the Caldari War dragged on, more and more of the younger
-generations began clamoring for peace. They had not been around for the horrors
-of Hueromont and Nouvelle Rouvenor; they just wanted this war to be over with.
-In fact, they wanted all war to be over with. The Federation had originally been
-formed to allow all humanity to air its grievances in a civilized fashion... if
-the Federation itself had failed in this task, might a new organization succeed
+As the Caldari War dragged on, more and more of the younger generations began
+clamoring for peace. They had not been around for the horrors of Hueromont and
+Nouvelle Rouvenor; they just wanted this war to be over with. In fact, they
+wanted all war to be over with. The Federation had originally been formed to
+allow all humanity to air its grievances in a civilized fashion... if the
+Federation itself had failed in this task, might a new organization succeed
 better? The leader of the movement was a young Senator (and later, Federation
 President) named [Aidonis
 Elabon](http://wiki.eveonline.com/en/wiki/Aidonis_Elabon). The [fruits of his
@@ -1836,9 +1835,10 @@ If it's difficult to describe the Minmatar without referring to the Amarr, it is
 impossible to describe the [Caldari
 State](http://wiki.eveonline.com/en/wiki/Caldari) without describing the massive
 impact the Gallente Federation has had on it. Having developed in the same
-system as the Gallente, the State was born in blood and fire (ironic considering that Caldari Prime is a ball of ice), through their
-determination to not be governed by anyone. Any description of the Caldari as a
-people have to start and end with the concept [of
+system as the Gallente, the State was born in blood and fire (ironic considering
+that Caldari Prime is a ball of ice), through their determination to not be
+governed by anyone. Any description of the Caldari as a people have to start and
+end with the concept [of
 megacorporations:](http://wiki.eveonline.com/en/wiki/Caldari#Megacorporations)
 gargantuan corporate entities that control a person's life from cradle to grave.
 A person lives and dies by the grace of his corporate masters. In some respects,
@@ -2708,18 +2708,17 @@ actually Kuvakei instead of a replacement of some kind. Capsuleers soon came to
 the rescue when it became clear that Empire navies and CONCORD were unable to
 deal with the coordinated, lightning swift assaults that soon became the
 Nation's hallmark (these attacks, not to be confused with incursions, are known
-as live events. Generally these were led by one Sansha member played by a CCP employee,
-and he would bring hundreds of ships into one system and players are expected to
-respond and defend the colonies. These live events (of which there are other
-kinds) can be very
-entertaining, and a great way to dip your toe into RPing if you're looking for a
-way to get started, though they tend to be rather rare these
-days). Things grew more ominous when it was discovered that the Nation had
-discovered how to create their own wormholes to invade any system they chose,
-and even MORE ominous when pictures suggested that the Nation had conquered at
-least [one Jove
-system](http://community.eveonline.com/news/news-channels/eve-online-news/capsuleer-probe-scouts-other-side-of-nation-wormhole-returns-images-of-jovian-space.-1/) to
-serve as a base of operations. The only response from the Jove was a terse
+as live events. Generally these were led by one Sansha member played by a CCP
+employee, and he would bring hundreds of ships into one system and players are
+expected to respond and defend the colonies. These live events (of which there
+are other kinds) can be very entertaining, and a great way to dip your toe into
+RPing if you're looking for a way to get started, though they tend to be rather
+rare these days). Things grew more ominous when it was discovered that the
+Nation had discovered how to create their own wormholes to invade any system
+they chose, and even MORE ominous when pictures suggested that the Nation had
+conquered at least [one Jove
+system](http://community.eveonline.com/news/news-channels/eve-online-news/capsuleer-probe-scouts-other-side-of-nation-wormhole-returns-images-of-jovian-space.-1/)
+to serve as a base of operations. The only response from the Jove was a terse
 message explaining that they had retaken the station in question. That message
 has been the last that anyone has heard from the Jove.
 
@@ -3526,8 +3525,9 @@ the Federation and others [to figure out precisely what was going
 on](http://wiki.eveonline.com/en/wiki/World_On_Fire_%28Chronicle%29), wasting
 precious moments that could have been used to evacuate citizens from the doomed
 planet. Finally, the Federation Navy, assisted by the Sisters of EVE and other
-factions (including, notably, the Serpentis), managed to begin lifting some citizens, but not nearly enough. Only
-843,000 out of a population of 500 million were ultimately saved from Seyllin I.
+factions (including, notably, the Serpentis), managed to begin lifting some
+citizens, but not nearly enough. Only 843,000 out of a population of 500 million
+were ultimately saved from Seyllin I.
 
 After such an event, of course, governments and scientists alike were eager to
 determine just what caused these "events". Eventually, the signature of a rare
@@ -3573,10 +3573,10 @@ universe that the wormholes could lead to, they all lead to about 2,600 that are
 inhabited in some capacity by the Sleepers (the reasons for why wormholes only
 lead to these select systems is unknown).  These systems, which collectively
 make up Anoikis (which, as you may remember from above, is the equivalent of
-w-space), are located in an unknown area of space (though
-*Templar One* does mention that the only identifiable objects in Anoikis are
-quasars, which would make Anoikis incredibly distant from New Eden). However,
-within hours of the first wormhole opening in
+w-space), are located in an unknown area of space (though *Templar One* does
+mention that the only identifiable objects in Anoikis are quasars, which would
+make Anoikis incredibly distant from New Eden). However, within hours of the
+first wormhole opening in
 [Vitrauze](http://wiki.eveonline.com/en/wiki/The_Vitrauze_Project_%28Chronicle%29),
 the Gallente were sending ships through. Soon, the empires and CONCORD all
 [agreed](http://wiki.eveonline.com/en/wiki/Vitrauze_Agreement) to buy certain
