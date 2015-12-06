@@ -203,7 +203,10 @@ but prepared to get shot down if you ever try to talk with someone in character
 (IC for short) about these events. A more detailed look at all of this can be
 found in the "official" [New Eden
 timeline](http://wiki.eveonline.com/en/wiki/Timeline) (but as I noted, just
-because it's in this timeline does not mean it's known to in-game characters).
+because it's in this timeline does not mean it's known to in-game characters). A
+[player-built
+timeline](http://timeglider.com/t/ed119db9b36b63b5?min_zoom=1&max_zoom=100) that
+incorporates news items and goes into more detail has also been built.
 
 By the year 2730, humans had fully colonized our own solar system, which seemed
 to take much longer than necessary to colonize a few chunks of rock in one star
@@ -378,12 +381,13 @@ world, and you must always have a body in the real world to return to. Sounds
 simple, right? It turns out that this is SURPRISINGLY DIFFICULT. A little while
 ago, you see, an artificial intelligence, untethered to any Sleeper body, was
 born in the construct and eventually got loose (proving, once again, that
-humanity can't have nice things). Long story short, this entity is now in
-Empress Jamyl's head. For long story... long, take a peek at *Templar One* and
-some
+humanity can't have nice things). Long story short, this entity lodged itself in
+Empress Jamyl's head, presumably up until the time of her death. For long
+story... long, take a peek at *Templar One* and some
 [nifty](https://wiki.eveonline.com/en/wiki/And_I_Shall_Hide_%28Chronicle%29)
 [chronicles](https://wiki.eveonline.com/en/wiki/And_I_Shall_Hide_-_Alternate_%28Chronicle%29).
-This so-called Other's intentions are, for now, unknown to everyone.
+The Other's intentions aren't known, but it sure seems like the Drifters weren't
+a big fan of it.
 
 In character, we know that the Sleepers once inhabited the Ani constellation,
 and we know that at some point they moved on to Anoikis. While we do not know
@@ -428,7 +432,7 @@ discussed below, may have found a way to make one of the gates fully functional.
 
 Jove
 ----
-Ah, the Jove. Part of me is tempted to just end this section with that comment,
+Ah, the Jove. Part of me is tempted to just end this section here,
 given how complicated things get once you start heading down this particular
 rabbit hole. But that wouldn't make me a very good lore guide, now would it? So
 let's go down this rabbit hole together. For science. And internet spaceships.
@@ -461,10 +465,11 @@ resulting in the eventual collapse of the Empire.
 
 From the ashes of the First Empire rose the Second, which was run in a
 somewhat-federal system which stabilized things for a while. But there were
-problems. Oh my, there were problems. I mentioned earlier that the Jove were big
-on perfecting humanity, particularly through the use of genetic enhancements.
-This worked well for a while, leading to lifespans of hundreds of years and
-increasing Jove intelligence (even if it made them seem creepy). But it
+problems. Oh my, there were problems. As I mentioned, the Jove were big on
+perfecting humanity, particularly through the use of genetic enhancements. This
+worked well for a while, leading to lifespans of hundreds of years and
+increasing Jove intelligence (even if it made them seem
+[creepy](https://wiki.eveonline.com/wikiEN/images/0/0d/Modifier.jpg)). But it
 eventually became clear that something had gone wrong with the process. You see,
 the Jove eventually started tinkering with the basic human instincts (perhaps in
 an effort to make 'transparent skin and overly large, bald heads' attractive on
@@ -475,8 +480,8 @@ adult life, they fall into an incredibly deep depression, and eventually lose
 the will to live. Because the Jove are apparently terrible at small-scale
 genetic manipulation and limited testing, the Disease has since spread to the
 entire race. The Disease devastated the Second Empire, which collapsed soon
-after the Disease's appearance (though it's not clear if the Disease was the
-only cause of the collapse). The onset of the Disease led to what the Jove call
+after the Disease's appearance, though it's not clear if the Disease was the
+only cause of the collapse. The onset of the Disease led to what the Jove call
 only the Shrouded Days, where they suffered their own mini-Dark Ages. They don't
 like to talk about it much. Or talk at all.
 
@@ -527,12 +532,14 @@ collapse of most of their stargate network probably isn't helping the situation
 any). We certainly don't know for sure, of course, and may not know for a while
 yet, but the signs are becoming increasingly clear. Additionally, in recent days
 it has become clear that the Jove have been spying on us, possibly for quite a
-while. Observatories have popped up throughout the Cluster. How long they've
-been there is anyone's guess, but knowing the Jove, they've been around since
-the current Empires were still in their metaphorical diapers. In recent days,
-the observatories have become heavily damaged, apparently from Circadian Seeker
-and Drifter interference and attacks. They appear to be searching through the
-observatories and systematically dismantling them.
+while.
+(Observatories)[https://evetravel.wordpress.com/2015/04/01/jove-observatory/]
+have popped up throughout the Cluster. How long they've been there is anyone's
+guess, but knowing the Jove, they've been around since the current Empires were
+still in their metaphorical diapers. In recent days, the observatories have
+become heavily damaged, apparently from Circadian Seeker and Drifter
+interference and attacks. They appear to be searching through the observatories
+and systematically dismantling them.
 
 One more note before I move on. There's one more faction that deserves
 mentioning: the hilariously-difficult to both spell and pronounce
@@ -583,18 +590,20 @@ for just a bit of flavor, the Amarr Empire is founded on the idea that the State
 and the Church are one.
 
 Thus, the [head of state](http://wiki.eveonline.com/en/wiki/Amarr_Emperor)
-(currently Empress [Jamyl Sarum](http://wiki.eveonline.com/en/wiki/Jamyl_Sarum)
-is head of the church as well. As with many religions, the Amarr religion is
-built on the idea that the only way to attain God's favor is through following
-the Amarr path and only the Amarr path; this idea has led to a number of
-"Reclaimings" throughout Amarr's history, as they try to save the rest of the
-Cluster. The itty bitty, teeny weeny little footnote to that is that the only
-truly "saved" people are the True Amarr; anyone who can't trace their bloodline
-to the True Amarr are forced to serve the True Amarr. And if you don't willingly
-serve the Chosen People, then the Amarr will be happy to provide you room and
-board and work for life in exchange for no pay and little hope of relief.
-Indeed, the Amarr's slave control technology is cluster-renowned, with only the
-Sansha having more effective techniques.
+(until recently, this was the now-departed Empress [Jamyl
+Sarum](http://wiki.eveonline.com/en/wiki/Jamyl_Sarum) is head of the church as
+well. As with many religions, the Amarr religion is built on the idea that the
+only way to attain God's favor is through following the Amarr path and only the
+Amarr path; this idea has led to a number of "Reclaimings" throughout Amarr's
+history, as they try to save the rest of the Cluster. The itty bitty, teeny
+weeny little footnote to that is that the only truly "saved" people are the True
+Amarr; anyone who can't trace their bloodline to the True Amarr are forced to
+serve the True Amarr. And if you don't willingly serve the Chosen People, then
+the Amarr will be happy to provide you room and board and work for life in
+exchange for no pay and little hope of relief. Indeed, the Amarr's slave control
+technology is cluster-renowned, with only the Sansha having more effective
+techniques, and those involve turning you into a zombie.
+
 
 ### History
 The Amarr are notable not just for being the largest nation in New Eden and for
@@ -635,17 +644,17 @@ Amash-Akura was the warlord of the city-state of
 [Dam-Torsad](http://wiki.eveonline.com/en/wiki/Dam-Torsad), and he came up with
 a brilliant idea: if the two driving forces of the island were the warlords and
 the religions... maybe you could try combining the two and seeing what happened?
-He quickly earned the approval of the Church, such as it was at the time, and by
+He quickly earned the approval of the church, such as it was at the time, and by
 16470, had conquered the entirety of the island through a combination of
 diplomacy and brute force. The warlords who capitulated without violence were
 named Amash-Akura's [Holders](http://wiki.eveonline.com/en/wiki/Holders), and
 the most loyal Holders were brought together in his [Council of
 Apostles](http://wiki.eveonline.com/en/wiki/Council_of_Apostles). The union of
-church and state complete, he was crowned Emperor by the Church, and got a fancy
+church and state complete, he was crowned Emperor by the church, and got a fancy
 new [royal
 symbol](https://wiki.eveonline.com/en/wiki/Signs_of_Faith_%28Chronicle%29) to
-boot (the story to which is actually kind of neat but this guide is long enough
-already).
+boot (the symbolism of which is actually kind of neat but this guide is long
+enough already).
 
 Under the reign of Amash-Akura, the [Scriptures
 record](http://wiki.eveonline.com/en/wiki/Ametat_and_Avetat_%28Chronicle%29),
@@ -971,23 +980,59 @@ Man, you just don't get this kind of excitement in Gallente space.
 
 The [reign of
 Jamyl](http://wiki.eveonline.com/en/wiki/Modern_Era_of_the_Amarr_Empire#Return_and_Coronation_of_Jamyl_Sarum)
-so far has seen its ups and downs. Perhaps the most notable event (and since I'm
-the author I get to say what's notable) demonstrated that the Amarr Empire, for
-all I make fun of them, are still capable of semi-decent acts now and then.
-First off, Jamyl declared soon after taking power that any slave of ninth
-generation or up was
+saw its ups and downs. Perhaps the most notable event (and since I'm the author
+I get to say what's notable) demonstrated that the Amarr Empire, for all I make
+fun of them, are still capable of semi-decent acts now and then. First off,
+Jamyl declared soon after taking power that any slave of ninth generation or up
+was
 [emancipated](http://community.eveonline.com/news/news-channels/world-news/empress-jamyl-i-makes-historic-emancipation-announcement/).
 This obviously sent shockwaves throughout the Empire and Republic alike, as the
 Holders hadn't exactly been consulted about losing around 800 million members of
 their workforce, and the Republic wasn't quite prepared to handle 800 million
 new citizens. I realize this is a bit like saying "see, they decided to kill
-fewer people so good for them" but a start is a start, I suppose. More recently,
-Jamyl has gone MIA at most major public events, and rumors are circulating that
-she has taken ill in some way. It PROBABLY has something to do with the [voice
-she's got living in her
+*fewer* people so good for them" but a start is a start, I suppose. For a while,
+Jamyl disappeared from the public eye, leading to rumors and speculation that
+she had taken ill in some way. It PROBABLY has something to do with the [voice
+that live in her
 head](https://wiki.eveonline.com/en/wiki/And_I_Shall_Hide_-_Alternate_%28Chronicle%29),
-but let's face it, getting a rogue Sleeper AI to take up residence in your head
-probably doesn't exactly do wonders for stability of your reign, now does it?
+but let's face it, getting a rogue Sleeper AI to take up residence in your
+noggin probably doesn't exactly do wonders for stability of your reign, now does
+it?
+
+Naturally for Eve, Jamyl's story doesn't end happily. A few months before her
+untimely demise, Jamyl had [started making public appearances
+again](http://community.eveonline.com/news/news-channels/world-news/empress-jamyl-i-visits-amarr-navy-headquarters/),
+ostensibly to show off the upcoming commissioning of the Empire's new flagship,
+a specially-fitted Abaddon-class vessel to be named TES Auctoritas . Her public
+reappearance coincided with the Drifters becoming [more and more
+aggressive](http://community.eveonline.com/news/news-channels/world-news/breaking-news-drifter-autopsy-press-conference-interrupted-1/)
+in their pushback against Cluster powers and, inevitably, the two storylines
+became more and more intertwined. Indeed, the Drifters seemed particularly
+rattled at the prospect of Auctoritas's commissioning, leading not
+[one](http://community.eveonline.com/news/news-channels/world-news/cleanup-begins-in-aftermath-of-safizon-attack/)
+but
+[two](http://community.eveonline.com/news/news-channels/world-news/imperial-navy-forces-push-back-second-drifter-advance/)
+assaults against the station where the vessel (with advanced, but unspecified,
+weaponry) was being constructed. If you can't see where this is going, spoiler
+alert: Jamyl dies. On the day Auctoritas was to be commissioned, the [Drifters
+attacked Jamyl's titan in a lightning
+strike](https://www.youtube.com/watch?v=4e5NtEP4zj4), downing it in an
+alpha-strike using their doomsday weapons, and really rubbed it in by podding
+her moments later. Within hours, Court Chamberlain Pomik Haromi [confirmed the
+death](http://community.eveonline.com/news/news-channels/world-news/court-chamberlain-confirms-death-of-empress-jamyl-i/)
+of the Empress (for those keeping score at home, we've had a Caldari dictator
+pursued and killed by his own mutinous forces, a Minmatar former prime minister
+assassinated at a cultural festival, and now an Amarr Empress assassinated by
+Drifters. RUN AWAY, PRESIDENT RODEN, RUN AWAY). Unsurprisingly, this led to the
+Empire
+[issuing](http://community.eveonline.com/news/news-channels/world-news/breaking-news-amarr-empire-declares-war-on-drifters/)
+a formal [declaration of
+war](http://cdn1.eveonline.com/community/news/2015/GameWorld/RELEASE%2060008488.pdf)
+against the Drifters. On the plus side, Chamberlain Haromi seems to have no
+desire to pull a Karsoth, and has [already
+confirmed](http://community.eveonline.com/news/news-channels/world-news/court-chamberlain-confirms-succession-trials/)
+that the Empire will be holding another Succession Trial Soon™.
+
 
 ### Social Structure
 The [government of the
@@ -1000,7 +1045,7 @@ the heck he (or, as the case may be, she) wants. However, while her edicts are
 often unquestioned, she only really can exert direct power over the
 [labyrinthine Amarrian
 bureaucracy](http://wiki.eveonline.com/en/wiki/Government_of_the_Amarr_Empire#Imperial_Ministries)
-when present in person to see that something is carried out (it turns out that
+when present in person to see that her orders are carried out (it turns out that
 Amarr never learned its lessons from
 [Trantor](http://en.wikipedia.org/wiki/Trantor)). Below the Emperor sits the
 rump of the Council of Apostles, the [Privy
@@ -1008,25 +1053,71 @@ Council](http://wiki.eveonline.com/en/wiki/Privy_Council). The various Heirs
 have a seat at the Council table, as do the heads of the various ministries, as
 well as the [Court
 Chamberlain](http://wiki.eveonline.com/en/wiki/Court_Chamberlain), who can often
-act as the voice of the Emperor. Speaking of the Heirs, each governs a portion
-of the Empire (with either the region they rule or the home planet generally
-being named after the various Heirs, in a continuing display of Amarr humility).
-The five Heir families are the
+act as the voice of the Emperor, and governs over the Empire during interregnums
+as regent. Speaking of the Heirs, each governs a portion of the Empire (with
+either the region they rule or the home planet generally being named after the
+various Heirs, in a continuing display of Amarr humility). The five Heir
+families are the
 [Ardishapurs](http://wiki.eveonline.com/en/wiki/Ardishapur_Family),
 [Kadors](http://wiki.eveonline.com/en/wiki/Kador_Family),
 [Tash-Murkons](http://wiki.eveonline.com/en/wiki/Tash-Murkon_Family),
 [Kor-Azors](http://wiki.eveonline.com/en/wiki/Kor-Azor_Family), and
-[Sarums](http://wiki.eveonline.com/en/wiki/Sarum_Family). The current Heirs are
-[Yonis](http://wiki.eveonline.com/en/wiki/Yonis_Ardishapur),
+[Sarums](http://wiki.eveonline.com/en/wiki/Sarum_Family), with each house having
+their own political views on both social and foreign policy issues (an
+excellently-researched but not-officially-canon explanation of the various
+political views of the Great Houses by Samira Kernher can be found
+[here](https://wiki.eveonline.com/en/wiki/Politics_of_the_Amarr_Empire)). The
+current Heirs are [Yonis](http://wiki.eveonline.com/en/wiki/Yonis_Ardishapur),
 [Uriam](http://wiki.eveonline.com/en/wiki/Uriam_Kador),
 [Catiz](http://wiki.eveonline.com/en/wiki/Catiz_Tash-Murkon),
 [Aritcio](http://wiki.eveonline.com/en/wiki/Aritcio_Kor-Azor), and
-[Merimeth](http://wiki.eveonline.com/en/wiki/Merimeth_Sarum), respectively. The
-Khanids have also been granted a seat by Empress Jamyl in light of the Kingdom's
-recent rapprochement with the Empire. Alongside the Privy Council is the
+[Merimeth](http://wiki.eveonline.com/en/wiki/Merimeth_Sarum), respectively.
+Given the understandable interest in the Heirs with the upcoming Succession
+Trials, a bit more background may be warranted. The Ardishapurs are generally
+seen as the most religiously conservative House, advocating that the Empire
+adhere to Scripture as much as possible. Given the peculiarities of Jamyl's
+assent to the throne, Yonis (generally a schemer) likewise was not generally
+pleased with her, but only sought to undermine her positions in private when it
+wouldn't hurt the Empire. The Kador family's primary aim is
+restoring/celebrating the grandeur of the Empire while maintaining strict splits
+between the various classes of society. Uriam Kador, originally seen as a rising
+star in the House that has spawned more Emperors than any other, made some
+crucial missteps early on in his tenure (like invading Gallente space because
+why not?) and has been working ever since to restore his reputation. The
+Tash-Murkons, as I've noted, are newcomers to the whole Heir thing, and perhaps
+because of that they are seen as more liberal than the other Houses, preaching
+mobility between the classes and allowing just about anyone to become a Holder,
+regardless of background. Catiz, an upstart entrepreneurial go-getter, decided
+to strike out on her own before assuming her role as Heir, and started her own
+(incredibly successful) mining business before folding it in to Tash-Murkon's
+more general holdings (tl;dr she's stinking rich and likes being stinking rich).
+The Kor-Azors are generally the diplomats of the Empire, seen as centrists who
+seek compromise between the various blocs. Like Uriam, Aritcio had a bit of a
+rough start (though more of the "I like torturing people and being CRAZY" kind
+instead of the "let's invade our space neighbors because why not" kind), but
+after some, ah,
+"[gentle](https://wiki.eveonline.com/en/wiki/Aritcio_Kor-Azor#House_revolt_and_Speaker_of_Truths_intervention)"
+interventions (never have my use of air quotes been more sarcastic), Aritcio
+turned a new leaf and has become beloved for his caring attitude towards his
+subjects (and also, no joke, [goes around fighting crime and righting wrongs
+under
+cover](https://wiki.eveonline.com/en/wiki/The_Part_Where_I_Play_the_Devil_%28Chronicle%29).
+Remember, kids, always be yourself. Unless you can be Batman. Then, [always be
+Batman](https://s-media-cache-ak0.pinimg.com/736x/0a/71/1a/0a711aeaa44c80daf02f03c1723ea307.jpg)).
+Finally, the Sarums are most well-known for their aggressive (or, for those less
+diplomatic, war- mongering) foreign policy stances while maintaining a fairly
+conservative stance on social issues at home. Merimeth has mostly remained in
+his aunt's shadow but earned some accolades of his own for rebuilding Sarum
+Prime after the Elder invasion and has been looking for other ways to prove
+himself. The Khanids, generally seen as a tad more liberal than mainstream Amarr
+thought, have also been granted a seat by Empress Jamyl in light of the
+Kingdom's recent rapprochement with the Empire.
+
+Getting back to the structure of the Empire, alongside the Privy Council is the
 [Theology Council](http://wiki.eveonline.com/en/wiki/Theology_Council), which
-acts as the final determiner of what the Scriptures say. Alongside this
-responsibility is the maintenance of the [Book of
+acts as the final determiner of what the Scriptures say as well as a final court
+of appeals on any question of religion or sin. Alongside this responsibility is
+the maintenance of the [Book of
 Records](http://wiki.eveonline.com/en/wiki/Book_of_Records): a nearly
 uninterrupted genealogy of the Empire dating back to Amash-Akura's time. An
 Amarr citizen being stricken from the Book is one of the gravest punishments
@@ -1048,13 +1139,13 @@ rocked Jamyl's reign when people realized that she had gotten around Shathol'Syn
 by having herself cloned as a capsuleer. The Empire (with the exception of the
 traditionalists who were hushed up by Jamyl's supporters) collectively shrugged
 its shoulders at this shocking breach of tradition, though. Secondly, the
-Emperor must follow the [Doctrine of Sacred
-Flesh](http://wiki.eveonline.com/en/wiki/Sacred_Flesh), which practically
-speaking means that the Emperor's body must be kept pure: i.e., no cloning.
-Scandal the Second rocked Jamyl's reign when people realized that she had gotten
-around Shathol'Syn by having herself cloned as a capsuleer. The Empire continued
-to collectively shrug its shoulders at this shocking breach of tradition, with a
-firm but apathetic "meh".
+Emperor (and, thus, the Heirs who may become Emperor) must follow the [Doctrine
+of Sacred Flesh](http://wiki.eveonline.com/en/wiki/Sacred_Flesh), which
+practically speaking means that the Emperor's body must be kept pure: i.e., no
+cloning. Scandal the Second rocked Jamyl's reign when people realized that she
+had gotten around the Doctrine of Sacred Flesh by having herself cloned as a
+capsuleer. The Empire continued to collectively shrug its shoulders at this
+shocking breach of tradition, with a firm but apathetic "meh".
 
 Anyway, below the Holders, we reach the
 [commoners](http://wiki.eveonline.com/en/wiki/Demographics_of_the_Amarr_Empire#Wealthy_Commoners),
@@ -1115,12 +1206,12 @@ dictates how the Republic and individual Minmatar react to many situations.
 Currently headed by [Sanmatar](http://wiki.eveonline.com/en/wiki/Sanmatar)
 [Maleatu Shakor](http://wiki.eveonline.com/en/wiki/Maleatu_Shakor), the Republic
 is really only a Republic in name, given that Shakor disbanded the Republic
-Parliament when he came to power a few years back, though he is attempting to
-constitute a more representative tribal council. This has done little to affect
-the temperament of the Republic, however, and the Minmatar remain a [deeply
-spiritual people](http://wiki.eveonline.com/en/wiki/The_Ray_of_Matar), dedicated
-to their tribes and their Elders. The Minmatar consist of seven different
-tribes, each now united and represented in some way in the Republic: the
+Parliament when he came to power a few years back, though he has created a
+tribal council in its stead. This has done little to affect the temperament of
+the Republic, however, and the Minmatar remain a [deeply spiritual
+people](http://wiki.eveonline.com/en/wiki/The_Ray_of_Matar), dedicated to their
+tribes and their Elders. The Minmatar consist of seven different tribes, each
+now united and represented in some way in the Republic: the
 [Thukkers](http://wiki.eveonline.com/en/wiki/Thukker_Tribe), the
 [Brutors](http://wiki.eveonline.com/en/wiki/Brutor_tribe), the
 [Nefantar](http://wiki.eveonline.com/en/wiki/Nefantar), the
@@ -1134,36 +1225,50 @@ The deep history of the Minmatar is a bit more hidden than the Amarr's. We know
 that Pator, the Matari home system ('Matari' and 'Minmatar', like 'Amarr' and
 'Amarrian', are fairly interchangeable, with no definitive usage rules coming
 out of the literature, although preferences do vary), was settled around 8017 AD
-and quickly developed due to Matar's (Pator IV's) hospitable climate. From
-there, we jump right through past the Dark Ages (yadda yadda yadda intertribal
-warfare, mystic beliefs, etc), to when the Minmatar formed a global government,
-about 200 years before the Amarr managed to conquer the entire planet. The
-Minmatar also quickly re-entered space only about a century after the Amarr did.
-However, the stargates in Pator were much better preserved than in Amarr:
-instead of needing to build their own, they were able to use the ones still
-built, quickly colonizing three different star systems.
+and quickly developed due to Matar's (Pator IV's) hospitable climate. We know
+little of the Minmatar's early history. The history books indicate that shortly
+after the tribes had all contacted each other, but before they were in regular
+contact, the seven Elders all received a spiritual vision, telling them to
+[gather](https://wiki.eveonline.com/en/wiki/The_Elders#The_Great_Journey) in
+then-remote area of the planet. It's unclear whether the spirits were friendly
+or not (certain tribes distinctly call them "dark spirits", but I suspect they
+don't mean a dark rum) and when the tribes refused most of their gifts, the
+spirits grew angry. During their journey back, squabbling amongst the Elders
+eventually led to the [First Great Tribal
+War](https://wiki.eveonline.com/en/wiki/The_Elders#The_First_Great_Tribal_War).
+Given the name, I don't think it was the last but as of now we have few details
+on any of them.
+
+From there, we jump right through the rest of the Dark Ages), to when the
+Minmatar formed a global government, about 200 years before the Amarr managed to
+conquer the entire planet. The Minmatar also quickly re-entered space only about
+a century after the Amarr did. However, the stargates in Pator were much better
+preserved than in Amarr: instead of needing to build their own, they were able
+to use the ones still built, quickly colonizing three different star systems.
 
 Then came the Amarr. As noted, the Amarr encountered the Minmatar in 22355. For
 the next 125 years, the Amarr would raid Minmatar worlds for slaves. Then, in
 22480, the Day of Darkness arrived, when the Amarr completely conquered the
 Matari homeworlds (amusingly, *Eve: Source* gets this date wrong but I verified
 it with CCP because I am a THOROUGH RESEARCHER and don't nobody tell me
-otherwise). The Matari quickly formed their own resistance groups during the
-Occupation, to varying degrees of success. This required the Amarr to develop
-more and more effective means of controlling their massive slave populations
-(the main modern technique, Vitoc, will be discussed in Part 4). Given that the
-Matari were the largest civilization to date absorbed by the Empire, it was no
-surprise that they had trouble completely maintaining order. However, they did
-manage to attract some Matari to their side. Most notably, the Nefantar tribe
-adopted the Amarrian religion en masse and came to be seen as the Empire's
-closest allies among the tribes. This meant that the Amarr invested heavily in
-Nefantar space (now known as the Ani constellation), and that the Nefantar
-reaped the rewards. Other tribes did not fare nearly as well. Internal political
-schisms within the Empire (and a few plucky rebels) eventually lead to the
-annihilation of the [Starkmanir
-homeworld](http://wiki.eveonline.com/en/wiki/Starkman_Prime). It was assumed at
-the time that this led to the loss of the entire Starkmanir tribe, and is
-generally seen as one of the pivotal causes of the
+otherwise) and sent the Elders into hiding. The Matari quickly formed their own
+resistance groups during the Occupation, to varying degrees of success. This
+required the Amarr to develop more and more effective means of controlling their
+massive slave populations (the main modern technique, Vitoc, will be discussed
+in Part 4). Given that the Matari were the largest civilization to date absorbed
+by the Empire, it was no surprise that they had trouble completely maintaining
+order. However, they did manage to attract some Matari to their side. Most
+notably, the Nefantar tribe adopted the Amarrian religion en masse and came to
+be seen as the Empire's closest allies among the tribes, though [recent
+evidence](https://wiki.eveonline.com/en/wiki/The_Elders#A_Network_of_Secrecy)
+has come to light showing that the Nefantar high command acted with the
+blessings of the Elders. This meant that the Amarr invested heavily in Nefantar
+space (now known as the Ani constellation), and that the Nefantar reaped the
+rewards. Other tribes did not fare nearly as well. Internal political schisms
+within the Empire (and a few plucky rebels) eventually lead to the annihilation
+of the [Starkmanir homeworld](http://wiki.eveonline.com/en/wiki/Starkman_Prime).
+It was assumed at the time that this led to the loss of the entire Starkmanir
+tribe, and is generally seen as one of the pivotal causes of the
 [Rebellion](http://wiki.eveonline.com/en/wiki/Minmatar_Rebellion) 250 years
 later.
 
@@ -1185,24 +1290,21 @@ tensions came to a head during the [Elder Invasion of YC
 110](http://wiki.eveonline.com/en/wiki/Year_YC110#The_Minmatar_Fleet). The
 Elders were, until quite recently, taken as the mythical head of the Minmatar
 prior to the Day of Darkness. They proved to be quite real when they led a
-combined fleet of secretly built capital and subcapital ships into Amarr space.
-Precisely who or what the Elders are, and how they fit into Tribal culture, has
-never been entirely explained. It seems that the Elders withdrew from the Tribes
-around the time of the Day of Darkness, biding their time to allow a triumphant
-return, but there are [also
-indications](http://wiki.eveonline.com/en/wiki/Theodicy_%28Short_story%29) that
-they kept an eye on the Tribes, and might even have some mystical powers.
-Suffice it to say, though, that they are greatly revered by the Republic as a
-whole, even moreso now after their invasion of Amarr space. First, they managed
-to completely destroy CONCORD's rapid response capability (after [testing their
-abilities first](http://www.youtube.com/watch?v=fCVyU4RbFEg)), and then invaded
-Amarr space. They also managed to free many recently-discovered survivors of the
-Starkmanir tribe in Ammatar space (the Ammatar's interesting background will be
-discussed in Part 3), and wiped out the defensive fleets surrounding the
-Kor-Azor homeworld. They would have done the same in Sarum Prime if not for the
-return of Empress Jamyl and her aforementioned superweapon. Since being stopped
-in Sarum Prime, however, the Elders seem to have disappeared again and have not
-been in the news since.
+combined fleet of secretly built capital and subcapital ships into Amarr. The
+Elders [had
+withdrawn](https://wiki.eveonline.com/en/wiki/The_Elders#A_Network_of_Secrecy)
+from the Tribes around the time of the Day of Darkness, biding their time until
+their triumphant return, while also keeping their eyes on the Tribes. Needless
+to say, they came roaring back onto the scene during the invasion. First, they
+managed to completely destroy CONCORD's rapid response capability (after
+[testing their abilities first](http://www.youtube.com/watch?v=fCVyU4RbFEg)),
+and then invaded Amarr space. They also managed to free many recently-discovered
+survivors of the Starkmanir tribe in Ammatar space (the Ammatar's interesting
+background will be discussed in Part 3), and wiped out the defensive fleets
+surrounding the Kor-Azor homeworld. They would have done the same in Sarum Prime
+if not for the return of Empress Jamyl and her aforementioned superweapon. Since
+being stopped in Sarum Prime, however, the Elders seem to have disappeared again
+and have not been in the news since.
 
 Since the Elder Invasion, Matari society has undergone significant upheaval.
 [Karin Midular](https://wiki.eveonline.com/en/wiki/Karin_Midular), former prime
@@ -1222,10 +1324,12 @@ the Republic finally got a hold of him. Since then, a number of
 have come to light demonstrating that despite the Federation's long-touted
 tolerance, Gallente of Minmatar origin suffer discrimination inside Gallente
 space (BREAKING: humans generally dislike people who are different from them;
-details at 11).
+details at 11). With Midular gone, Sanmatar Shakor was able to rise back into
+power and made significant changes to Minmatar governance. I talk a bit about
+that below.
 
 ### Social Structure
-The loyalties of a Minmatar are first and foremost to a Matari's tribe. The
+The loyalties of a Minmatar are first and foremost to a one's tribe. The
 tribe determines much of a person's beliefs and the rituals he or she adheres
 to. Within a tribe, organization can get a bit... jumbled. Tribes tend to break
 down into varieties of clans, which in turn are comprised of various families
@@ -1247,10 +1351,10 @@ Although they have the largest numerical population of the major races with
 something like 24 trillion Matari spread across New Eden (possibly in
 sardine-tin-can type conditions if *Eve: Source*'s numbers are to be believed,
 but that's another discussion ENTIRELY), the Matari are very spread out. A full
-20% of Matari have emigrated to the Federation, while almost a third of the 7
-tribes are still enslaved by the Amarr. Even those that remain in the Republic
-are often not tied down, and vast Thukker caravans are known to roam the Great
-Wildlands.
+20% of Matari have emigrated to the Federation, while almost a third of the
+seven tribes are still enslaved by the Amarr. Even those that remain in the
+Republic are often not tied down, and vast Thukker caravans are known to roam
+the Great Wildlands.
 
 Inter-tribe tensions can also at times reach a head, especially in the modern
 day. As noted above, the Republic recently received a huge influx of Starkmanir
@@ -1274,16 +1378,19 @@ themselves as of yet. *Eve: Source* delves into the various Tribes for anyone
 interested in learning more. This guide is long enough as it is.
 
 Religion and spirituality play a large role in Minmatar life as well, though
-perhaps not as large of one as you might find in the Empire. As best as I can
-discern, Minmatar spirituality revolves around the idea that each Tribe has its
-own 'First Elder', or spirit, that embodies the various traits that each Tribe
-is known for. Each tribe appoints its own tribal Elder that is supposed to be
-the living embodiment of that Tribe's spirit, and maintain the knowledge
-accumulated by that Tribe over the millennia. It's important to note here that
-these elders are probably, but not definitively, the same Elders that led the
-Amarr invasion back in YC 110. How we got from "spiritual leader" to "leading a
-massive and awesome looking fleet that took on CONCORD and the Amarr and only
-lost because of a massive superweapon" is anyone's guess at this point.
+perhaps not as large of one as you might find in the Empire. Minmatar
+spirituality primarily revolves around the idea that each Tribe has its own
+eponymous '[First Elder](https://wiki.eveonline.com/en/wiki/The_Elders)', or
+spirit, that embodies the various traits that each Tribe is known for.  Each
+tribe appoints a person to act as the living embodiment of the Elder, with the
+living elder being responsible for maintaining the accumulated knowledge of the
+tribe and helping to guide the Matari in times of trouble. There is also a
+metaphysical aspect of the spirituality, as there are numerous references to the
+various Elders being able to assume a "Tulraug" form that allows the Elders, who
+learned the technique from the "dark spirits" that had summoned the Elders
+together in the first place, that allowed the Elders to traverse both the
+physical and spiritual realms. Upon the death of an Elder, his or her spirit
+then merges with the archetypal spirit of that tribe.
 
 Matari governance has undergone significant changes in the recent past. Although
 the Matari used to adhere to a Gallente-endorsed parliamentary form of
@@ -1506,7 +1613,7 @@ in real time. Interstellar policy is a harsh mistress, and the days or weeks
 that were needed for any official Federal response was often fatal to Federation
 initiatives. It would remain this for the next 25 years, until the FTL
 communication was discovered by scientist Li Azbel (I discuss the basics of the
-tech in section 5).
+tech in the section on miscellanea).
 
 With FTL communications, the Gallente quickly acted like the cultural overlords
 that they are and established a media empire that spanned the cluster. They
@@ -1527,19 +1634,19 @@ themselves](http://wiki.eveonline.com/en/wiki/Luminate_Era_of_the_Gallente_Feder
 to the federal government, but everyone kept it hush hush. With predictable
 results, conspiracy theories soon flourished.
 
-Oh, and it turns out the Caldari were still pissed off. They had continued to
-establish their secret colonies because they [resented Gallente
+In not-surprising news, the Caldari were still pissed off. They had started to
+establish secret colonies because they [resented Gallente
 domination](http://wiki.eveonline.com/en/wiki/The_Early_Days_%28Chronicle%29).
 Whoops. And those [colonies were
 discovered](http://wiki.eveonline.com/en/wiki/Luminate_Era_of_the_Gallente_Federation#Sobaseki.27s_Sedition).
 Double whoops. While this action was technically legal, tensions rose even
 further on the technicality that none of the newly discovered colonies had
-representative governments. The Caldari used this to conveniently announce that
-neither did they: the megacorporations now spoke for the Caldari people. Triple
-whoops. Things were getting awkward. And the best way to handle awkwardness is
-clearly to have an ultra-right wing party come to power, and within days, the
-Senate was demanding that the Caldari submit the colonies to federal authority
-and establish democratic governments.
+representative governments as required by law. The Caldari used this to
+conveniently announce that neither did they: the megacorporations now spoke for
+the Caldari people. Triple whoops. Things were getting awkward. And the best way
+to handle awkwardness is clearly to have an ultra-right wing party come to
+power, and within days, the Senate was demanding that the Caldari submit the
+colonies to federal authority and establish democratic governments.
 
 In response to the demand, the Caldari walked out of the Senate and the [Caldari
 seceded](http://wiki.eveonline.com/en/wiki/Luminate_Era_of_the_Gallente_Federation#Caldari_Secession)
@@ -1567,7 +1674,7 @@ on other worlds; martial law is a fickle mistress). Things changed as once
 again, the Caldari struck in a surprise attack. Knowing that the Caldari would
 need time to fully evacuate the planet and that the Gallente military had been
 severely shaken up by the right-wing government that came to power, one Caldari
-Admiral set out to distract the Gallente enough to allow for an evacuation.
+admiral set out to distract the Gallente enough to allow for an evacuation.
 Starting a massive game of cat and mouse, [Admiral
 Tovil-Toba](http://wiki.eveonline.com/en/wiki/Yakiya_Tovil-Toba) bought the time
 necessary for the Caldari megacorps to evacuate the civilian population.
@@ -1709,7 +1816,7 @@ killing 420,000 as well as Ishukone's CEO (The novel *Empyrean Age* clarifies
 that a person known as [the
 Broker](http://wiki.eveonline.com/en/wiki/The_Broker) had actually replaced the
 admiral to sabotage his reputation before killing him, but of course this is not
-known in an IC context). This acts as the catalyst needed to restart the
+known in an IC context). This acted as the catalyst needed to restart the
 Caldari-Gallente war.
 
 Perhaps the most notable development in recent times for the Gallente are the
@@ -1810,8 +1917,8 @@ They are known for their, well, sex, drugs, and rock and roll, and most Gallente
 are proud of that fact. They also tend to be the most idealistic of the four
 races, frowning mightily from their ivory towers on the Amarr for their
 slave-holding ways and the Caldari for their unenlightened secession and
-subsequent war. They even can (though by no means do all people do this) look a
-little patronizingly on the Minmatar. Haughty might even be an appropriate term
+subsequent war. They even can (though by no means do all people do this) look
+patronizingly on the Minmatar. Haughty might even be an appropriate term
 for the "stereotypical Gallente", and it's an oft-repeated criticism of the
 Gallente that they believe their culture is the best and wish to gobble up all
 the others. Gallente by nature tend to be nosy and opinionated, and while their
@@ -1926,7 +2033,7 @@ formed Caldari Providence Directorate, essentially taking direct command over
 much of the Caldari State. This was an unprecedented consolidation of power when
 the megacorporations were known to have almost unilateral authority in many
 areas. Heth has changed this dynamic, getting de facto dictatorial powers over
-much of the State. He has used these powers to, among other things, gear up for
+much of the State. He used these powers to, among other things, gear up for
 another war with the Gallente and, more benevolently, re-establish the
 meritocracy that some felt had gotten lost in recent years.
 
@@ -2041,11 +2148,12 @@ reforms with minimal modification, given his popularity with the Caldari masses.
 The one true outlier in the new system was Ishukone. Prior to former CEO [Otro
 Gariushi's](http://wiki.eveonline.com/en/wiki/Otro_Gariushi) death, Ishukone was
 the leading corporation pushing for peace with the other Empires. They even
-managed to develop an antidote for Vitoc (explained in Part 4, but essentially
-the drug the Amarr use to help control slaves) which they were willing to give
-to the Minmatar. Even after Gariushi's death, his replacement as CEO refused to
-be cowed by Heth (as detailed in *Templar One*). With Heth out of the picture,
-however, the previous status quo is quickly reasserting itself.
+managed to develop an antidote for Vitoc (explained in the section on
+miscellanea, but essentially the drug the Amarr use to help control slaves)
+which they were willing to give to the Minmatar. Even after Gariushi's death,
+his replacement as CEO refused to be cowed by Heth (as detailed in *Templar
+One*). With Heth out of the picture, however, the previous status quo is quickly
+reasserting itself.
 
 Bloodlines tend to play an odd role within the State. Although meritocratic in
 nature much of the time, an odd strain of racial purity runs through some
@@ -2119,7 +2227,16 @@ it earns from capsuleer transactions (those wonderful sales taxes we must all
 pay) and other revenue. Indeed, CONCORD no longer needs to rely at all on the
 empires for financial support, and it has used this newfound independence to
 [advance its own agenda](http://wiki.eveonline.com/en/wiki/CONCORD_Assembly)
-independent of the empires.
+independent of the empires. Indeed, in recent years they have taken an
+almost-hostile view to capsuleers, and have a well-known love of secrecy. In one
+notable example, after the corpse of Dr. Tukoss, a leading researcher in the
+Sleepers, was discovered, CONCORD placed a [50 PLEX bounty on the capsuleer
+holding the
+corpse](http://community.eveonline.com/news/news-channels/world-news/capsuleers-refuse-tukoss-handover-situation-intensifies/),
+as well as a threatened reduction in security status, before it was turned over.
+CONCORD's ultimate ends are no longer entirely clear, which, you know, probably
+bodes well.
+
 
 [CONCORD](http://wiki.eveonline.com/en/wiki/CONCORD_%28NPC_corporation%29) is
 headed by the [Inner Circle](http://wiki.eveonline.com/en/wiki/Inner_Circle),
@@ -2161,16 +2278,17 @@ deserve at least some mention.
 
 Ammatar Mandate
 ---------------
-I've actually mentioned the [Ammatar](http://wiki.eveonline.com/en/wiki/Ammatar)
-before in the sections on the Amarr and Minmatar. Originally known as the
+I've mentioned the [Ammatar](http://wiki.eveonline.com/en/wiki/Ammatar) before
+in the sections on the Amarr and Minmatar. Originally known as the
 [Nefantar](http://wiki.eveonline.com/en/wiki/Nefantar), they were the only
 Minmatar tribe to accept the Amarr invasion with something like open arms.
 Indeed, this was something of a political decision made by the heads of the
-tribe to ensure the Nefantar's survival. Eventually, the rest of the tribe came
-to embrace the Amarr way of life, including their religion. The Amarr, eager to
-promote such views, lavished money and
-[gifts](http://evetravel.wordpress.com/2012/01/29/the-reactor-factory/) on the
-tribe in their home constellation of Ani, while savaging the tribes who were
+tribe (with the agreement of the Elders) to ensure the Nefantar's survival (and,
+it was hoped, to send intelligence on the Amarr to the other tribes).
+Eventually, the rest of the tribe came to embrace the Amarr way of life,
+including their religion. The Amarr, eager to promote such views, lavished money
+and [gifts](http://evetravel.wordpress.com/2012/01/29/the-reactor-factory/) on
+the tribe in their home constellation of Ani, while savaging the tribes who were
 less, shall we say, multicultural in that respect. The contemporary Amarr
 emperor even granted the Nefantar limited autonomy over Ani. This led to a
 somewhat inevitable schism between it and the rest of the tribes.
@@ -2184,13 +2302,13 @@ known Starkmanir slaves were transferred to Nefantar authority through either
 forged documents or coercion, hiding the remnants of the tribe in plain sight.
 It was by no means a perfect solution, but it was the best possible under the
 circumstances. But, of course, the Nefantar leadership couldn't exactly brag
-about their accomplishment. Although they apparently had the blessings of the
-Minmatar Elders, one of the greatest rescue missions in known history had to
-remain a secret for hundreds of years. The Ammatar leadership now claim that
-rescuing the Nefantar was their primary reason for siding with the Amarr during
-the Rebellion, but given the strength of pro-Amarr feelings even prior to the
-Starkman apocalypse, that explanation has a bit of a "revisionist history" feel
-to it.
+about their accomplishment. Although they had the blessings of the Minmatar
+Elders, one of the greatest rescue missions in known history had to remain a
+secret for hundreds of years. The Ammatar leadership now claim that rescuing the
+Nefantar and giving intelligence to the other tribes were their primary reason
+for siding with the Amarr during the Rebellion, but given the strength of
+pro-Amarr feelings even prior to the Starkman apocalypse, that explanation has a
+bit of a "revisionist history" feel to it.
 
 During those hundreds of years, of course, the rest of the tribes rebelled and
 pushed out the Amarr from their space, along with their apparent lackeys, the
@@ -2212,9 +2330,10 @@ well as any Nefantar who wanted to return to the Republic. Even the head of the
 Mandate encouraged the Ammatar to return. Today, the Mandate still stands in a
 bit of a state of shock as it tries to regain its footing. After the previous
 Mandate governor resigned to return to the Republic, Empress Jamyl placed the
-Mandate under the stewardship of Heir Yonis Ardishapur. Although many Nefantar
-decided to return, the Mandate itself survives and many have chosen to remain
-under Empire protection.
+Mandate under the stewardship of Heir Yonis Ardishapur, mostly as a political
+move in hopes of distracting him from problems with the Empress’s leadership.
+Although many Nefantar decided to return, the Mandate itself survives and many
+have chosen to remain under Empire protection.
 
 Angel Cartel
 ------------
@@ -2232,10 +2351,11 @@ Angels](http://wiki.eveonline.com/en/wiki/Guardian_Angels_%28NPC_corporation%29)
 [Serpentis](http://wiki.eveonline.com/en/wiki/Serpentis) assets), and the
 [Salvation
 Angels](http://wiki.eveonline.com/en/wiki/Salvation_Angels_%28NPC_corporation%29)
-(maintenance and repair division). The leading theory is that the Cartel
-originally formed from a loose group of pirate groups, but frankly that's a
-boring theory and I would prefer to think that pirate space kittens have
-something to do with it.
+(maintenance and repair division) and that the hierarchy is pretty strictly
+adhered to. The leading theory  on the Cartel’s origins is that they originally
+formed from a loose conglomerate of pirate groups in or slightly before YC 4,
+but frankly that's a boring theory and I would prefer to think that pirate space
+kittens have something to do with it.
 
 The Cartel has extensive holdings throughout the Empires, but mainly focus on
 the Minmatar regions, where they gain most of their recruits. Many Matari that
@@ -2307,9 +2427,9 @@ title of "Bleeders".
 Drifters
 --------
 For the first time in quite a while, New Eden has a new faction! The Drifters
-(not to be confused with the Vherokior ancestry
-[Drifter](https://wiki.eveonline.com/en/wiki/Vherokior#Drifters)) have exploded
-onto the scene in the latest story arc, appearing in New Eden at the same time
+(not to be confused with the Vherokior ancestry of the [same
+name](https://wiki.eveonline.com/en/wiki/Vherokior#Drifters)) have exploded onto
+the scene in the latest story arc, appearing in New Eden at the same time
 various [unidentified
 wormholes](https://evetravel.wordpress.com/2015/03/08/unidentified-wormholes/)
 (different from the normal wormholes capsuleers use daily) popped up around the
@@ -2339,21 +2459,31 @@ wasn't kidding when I said they went all Borg on us. They also seem to have a
 thing for cloning. Unlike most NPC vessels, the game shows Drifter battleships
 having one of two Drifter pilots: either Apollo (the Greek god of archery) or
 Artemis (the Greek goddess of hunting) Tyrannos (which means, uhh, tyrant, and
-what I'm trying to say is that these names DON'T REALLY BODE WELL FOR US, OK).
-Neither has deigned to converse with us lowly capsuleers yet, at least not
-[outside of twitter](https://twitter.com/apollotyrannos). It's been shown in a
-[recent game trailer](https://www.youtube.com/watch?v=s3060a8NkOk) that the
-Drifters appear to be forged out of the bodies of dead clones of capsuleers,
-brought back to life through advanced technology. I guess that makes them even
-more zombified Borg than the regular Borg zombies. In recent days, they have
-started scooping up corpses of those they pod, making them even MORE spooky.
+what I'm trying to say is that these names DON'T REALLY BODE WELL FOR US, OK). A
+third pilot, Hikanta Tyrannos, has been found hanging out near [Drifter
+Hives](https://evetravel.wordpress.com/2015/06/19/drifter-complexes-barbican-conflux-redoubt-sentinel-vidette/).
+None of these pilots has deigned to converse with us lowly capsuleers yet, at
+least not [outside of twitter](https://twitter.com/apollotyrannos). It's been
+shown in a [recent game trailer](https://www.youtube.com/watch?v=s3060a8NkOk)
+that the Drifters appear to be forged out of the bodies of dead clones of
+capsuleers, brought back to life through advanced technology. I guess that makes
+them even more zombified Borg than the regular Borg zombies. They are also known
+to scoop up corpses of those they pod, making them even MORE spooky.
 
+If anything, they've become even MORE brazen since their introduction. At first,
+it started off cute when they showed up to [stop a press
+conference](https://www.youtube.com/watch?v=8cx8Ac44RL4) on the results of an
+autopsy of a Drifter corpse. Then they showed up to [show their
+displeasure](https://www.youtube.com/watch?v=AXBFbCtjkAg) with the Amarr navy.
+Finally, they [blew up](https://www.youtube.com/watch?v=46aRYr0IZi0) Jamyl's
+ship and pod before anyone could respond. They could probably use some anger
+management, I'm just saying.
 
 Equilibrium of Mankind
 ----------------------
 A minor player in a host of minor players, the [Equilibrium of
 Mankind](http://wiki.eveonline.com/en/wiki/Equilibrium_of_Mankind) nonetheless
-has a notable role playing contingent, as well as a surprisingly well-developed
+has a notable role-playing contingent, as well as a surprisingly well-developed
 backstory. The order, like the Blood Raider Covenant, is a split off sect of the
 Amarr religion. The sect was started by Ocilan Ardishapur, the brother to the
 [Ardishapur
@@ -2445,9 +2575,9 @@ Two later events did not help Federal relations with the Intaki. First, in [YC
 explosion](http://wiki.eveonline.com/en/wiki/Year_YC108#February) on one of the
 Intaki's main agricultural colonies on Reschard V. Despite being Federation
 territory, the Federation barely responded, leaving it to the Sisters of EVE and
-Mordu's Legion (both discussed below) to coordinate rescue efforts that took
-almost [seven months](http://wiki.eveonline.com/en/wiki/Year_YC108#September) to
-complete. Investigations showed that the explosion was probably caused by a
+Mordu's Legion to coordinate rescue efforts that took almost [seven
+months](http://wiki.eveonline.com/en/wiki/Year_YC108#September) to complete.
+Investigations showed that the explosion was probably caused by a
 [titan](http://wiki.eveonline.com/en/wiki/Titan) detonating a doomsday device in
 low orbit, although neither the Sisters nor Mordu were able to discover who
 caused it. Some suggest CONCORD has the answer, but they have refused to release
@@ -2512,13 +2642,14 @@ underway, eventually being won by [Emperor Heideran
 VII](http://wiki.eveonline.com/en/wiki/Heideran_VII). This meant that the other
 heirs, including one Garkeh Khanid, were expected to commit suicide. Garkeh was
 a young Heir, however, and had only recently ascended to Heir status. He
-apparently was rather loath to give up the status, so instead of following
-ritual, he decided to secede from the Empire rather than kill himself, crowning
-himself [Khanid II](http://wiki.eveonline.com/en/wiki/Khanid_II). He was briefly
-opposed by his brother, [Dakos](http://wiki.eveonline.com/en/wiki/Dakos_Khanid),
-who wanted to return to the Empire, but Dakos was assassinated before he could
-mount serious resistance. This left a bit of a bitter taste in Garkeh's mouth,
-however, and he apparently remains a [tad
+apparently was rather loath to give up the role (and his life), so instead of
+following ritual, he decided to secede from the Empire rather than kill himself,
+crowning himself [Khanid II](http://wiki.eveonline.com/en/wiki/Khanid_II). He
+was briefly opposed by his brother,
+[Dakos](http://wiki.eveonline.com/en/wiki/Dakos_Khanid), who wanted to return to
+the Empire, but Dakos was assassinated before he could mount serious resistance.
+This left a bit of a bitter taste in Garkeh's mouth, however, and he apparently
+remains a [tad
 paranoid](http://wiki.eveonline.com/en/wiki/Khanid_Kingdom#Secession) regarding
 his family and whether they are plotting to overthrow him. Khanid remains a
 separate sovereignty to this day (and the
@@ -2542,7 +2673,7 @@ counterparts.
 
 Mordu's Legion
 --------------
-As with most primarily Caldari organizations, the roots of [Mordu's
+As with many primarily Caldari organizations, the roots of [Mordu's
 Legion](http://wiki.eveonline.com/en/wiki/Mordu%27s_Legion) can be traced back
 to the Gallente-Caldari War. As I have discussed already, there was a sizeable
 fraction of Intaki who [sympathized with the
@@ -2686,7 +2817,7 @@ However, the full extent of his experiments came to light in [YC
 34](http://wiki.eveonline.com/en/wiki/Sansha%27s_Nation_%28Chronicle%29).
 Despite the monstrous experiments, they did have one positive result: it led to
 the creation of the first (and, to my knowledge, only) offensive that was
-coordinated among all four of the major empires, lead by the Gallente. They
+coordinated among all four of the major empires, led by the Gallente. They
 swept through Stain, wiping out all known colonies and presumably killing
 Kuvakei himself. The remaining small cadre of Nation officers was left to drift
 for several decades. They eventually managed to re-organize, and [reappeared in
@@ -2712,11 +2843,11 @@ as live events. Generally these were led by one Sansha member played by a CCP
 employee, and he would bring hundreds of ships into one system and players are
 expected to respond and defend the colonies. These live events (of which there
 are other kinds) can be very entertaining, and a great way to dip your toe into
-RPing if you're looking for a way to get started, though they tend to be rather
-rare these days). Things grew more ominous when it was discovered that the
-Nation had discovered how to create their own wormholes to invade any system
-they chose, and even MORE ominous when pictures suggested that the Nation had
-conquered at least [one Jove
+RPing if you're looking for a way to get started. Keep an eye on the game world
+news; there tends to be a heads up there if live events are coming. Things grew
+more ominous when it was discovered that the Nation had discovered how to create
+their own wormholes to invade any system they chose, and even MORE ominous when
+pictures suggested that the Nation had conquered at least [one Jove
 system](http://community.eveonline.com/news/news-channels/eve-online-news/capsuleer-probe-scouts-other-side-of-nation-wormhole-returns-images-of-jovian-space.-1/)
 to serve as a base of operations. The only response from the Jove was a terse
 message explaining that they had retaken the station in question. That message
@@ -2830,11 +2961,11 @@ polymath [Valsas en Dilat](http://wiki.eveonline.com/en/wiki/Valsas_en_Dilat).
 For unknown reasons, there does appear to be some indication of collusion with
 the Syndicate to use the Zephyrs, which are apparently invisible to Sleepers
 (meaning that they can fly around any Sleeper site in w-space without getting
-attacked by the drones... players of course are another matter) to collect data
-for the Sisters. Obviously, this isn't known to the general populace (indeed,
-only Silphy and Santimona appear to know anything about it), so it should be
-considered off-limits to characters, but it's an interesting subplot
-nonetheless.
+attacked by the drones... players of course are another matter, and they are
+visible to Drifters as well) to collect data for the Sisters. Obviously, this
+isn't known to the general populace (indeed, only Silphy and Santimona appear to
+know anything about it), so it should be considered off-limits to characters,
+but it's an interesting subplot nonetheless.
 
 The Sisters' skeeziness has upped to the level of ULTRASKEEZE in recent days
 with the discovery that they know much more about recent happenings in Thera and
@@ -2912,6 +3043,20 @@ in recent years regardless, even if its agenda is not known publicly. Indeed,
 publicly, the Society and its kitzes are still held in very high regard as the
 premier educational institutions in New Eden.
 
+Although they have not been seen in the news much in the past few years, the
+Society became prominent once agin in July of YC 117 when an Elder Mentor of the
+Society, one Matshi Raish, [was apparently
+killed](http://community.eveonline.com/news/news-channels/world-news/breaking-news-society-of-conscious-thought-vessel-downed-in-sarum-prime/)
+upon the order of then-Empress Jamyl. This occurred during Jamyl’s rash of
+public appearances leading up to her death. During one of those appearances,
+Raish, flying a Gnosis-class SoCT battlecruiser, had begun using an entosis link
+on the Empress’s Avatar-class titan. Needless to say, Jamyl wasn’t particularly
+thrilled with this turn of events. After ordering Raish to withdraw a few 55
+times, Jamyl ordered her escorts to open fire on Raish’s ship. Raish’s fate, and
+indeed, what he was searching for or hoping to accomplish, is unknown at this
+time, though it is probably safe to assume that he was going after the Other.
+
+
 
 Technology
 ==========
@@ -2943,9 +3088,11 @@ information.
 The capsule offers a pilot complete and unfettered access to a ship using only
 one's mind, while cocooning the body in a hydrostatic fluid containing oxygen
 and nutrients that dampens undue stresses (and means that we breathe and eat
-liquid which is just WEIRD). Connections are made directly to the pilot's
-nervous system that allows them to feel each time a ship gets hit, to move the
-ship as one would move a muscle, and to see out of a ship's [camera
+liquid which is just WEIRD, but [not unknown to
+science](https://en.wikipedia.org/wiki/Liquid_breathing)). Connections are made
+directly to the pilot's nervous system that allows them to feel each time a ship
+gets hit, to move the ship as one would move a muscle, and to see out of a
+ship's [camera
 drones](http://wiki.eveonline.com/en/wiki/Camera_Drones_%28Chronicle%29) as if
 it were their own eyes. The ship's computer even creates sounds to feed into a
 pilot's auditory cortex to help the pilot situate himself in space. This direct
@@ -3013,10 +3160,9 @@ When a person becomes a clone company's customer, a brain scan is taken to get
 the brain's shape and major nerve clusters positioned appropriately. This scan
 is used to create a gel model that eventually leads to neuronal growth that
 matches the customer's own brain structures. This new brain is seeded with
-receptors attached to an FTL communication receiver (we'll talk briefly about
-that in a bit). If that's a bit too technobabble-y for you, the process is
-essentially that a person's personal brain is created from the scan, it just
-doesn't have any power to it yet.
+receptors attached to an FTL communication receiver. If that's a bit too
+technobabble-y for you, the process is essentially that a person's personal
+brain is created from the scan, it just doesn't have any power to it yet.
 
 At the moment of a customer's death, a snapshot of the brain is taken using a
 [transneural burning
@@ -3027,11 +3173,7 @@ unfortunate side-effect of completely destroying the original brain (and if
 that's not sufficient, a quick-acting neurotoxin is injected just to be sure),
 but it is able to then transmit the brain's state via FTL communications to the
 new clone. In the new brain, the transmitted patterns can quickly be almost
-precisely duplicated using the aforementioned receivers. The "almost" is key:
-the quality of the scan and how well it's copied to the new clone at the moment
-of death can vary. As you learn more, you need a higher quality of clone to make
-sure the more complex information is transferred properly to the new clone,
-which is why you need to upgrade your clones now and then to hold more skills.
+precisely duplicated using the aforementioned receivers.
 The whole process of transferring consciousness can be completed within moments.
 
 Unfortunately, modern burning scanners are somewhat large contraptions that
@@ -3054,68 +3196,70 @@ the pod pilot had begun.
 
 DUST 514 Technology
 -------------------
-DUST 514 will be adding some new technology that, while it technically won't
-have much of an effect in our game, will certainly affect the game universe. The
-most important of the new tech involves the mercenary implants, which takes the
-aforementioned cloning technology to a new extreme. I mentioned above that
-normal cloning scanners require the head to be precisely positioned in order to
-properly scan and download a pilot's neural patterns. However, in *Templar One*
-(if you haven't figured it out yet, you may want to consider reading this book
-if you have an interest in deep EVE lore... but if you're looking for a (very)
-brief over, see [this video](http://www.youtube.com/watch?v=GI53ydJaus8)), a new
-conscience transfer technology is discovered. Found in Sleeper ruins, the new
-implant offers the same basic functionality of the old-style (I use the term
-loosely for something that humans won't invent for another 21,000 years)
-transneural burning scanner, but with a number of important differences. Perhaps
-the most important one is the range limitation. Pod pilots, when killed, have
-their neural data sent via quantum entangled atoms (I discuss the tech in
-greater detail below). Because quantum entanglement has no obvious range
-limitations, a pod pilot can be killed anywhere and still be resurrected, as
-long as they are within their pod. Given how the mercenary implants work,
-however, such a range is impossible. Thus, DUST mercenaries must be within a few
-thousand kilometers of their Clone Reanimation Units (where the merc respawns
-after death) in order to ensure that the data is transferred correctly. But the
-changes go beyond that. As noted above, when pod pilots die, their entire neural
-profile is transferred at the moment of death and recreated in a new brain.
+DUST 514 has added its fair bit of new tech. The most important of which
+involves the mercenary implants, which takes the aforementioned cloning
+technology to a new extreme. I mentioned above that normal cloning scanners
+require the head to be precisely positioned in order to properly scan and
+download a pilot's neural patterns. However, in *Templar One* (if you haven't
+figured it out yet, you may want to consider reading this book if you have an
+interest in deep EVE lore... but if you're looking for a (very) brief over, see
+[this video](http://www.youtube.com/watch?v=GI53ydJaus8)), a new conscience
+transfer technology is discovered. Found in Sleeper ruins, the new implant
+offers the same basic functionality of the old-style (I use the term loosely for
+something that humans won't invent for another 21,000 years) transneural burning
+scanner, but with a number of important differences. Perhaps the most important
+one is the range limitation. Pod pilots, when killed, have their neural data
+sent via quantum entangled atoms.
+Because quantum entanglement has no obvious range limitations, a pod pilot can
+be killed anywhere and still be resurrected, as long as they are within their
+pod. Given how the mercenary implants work, however, such a range is impossible.
+Thus, DUST mercenaries must be within a few thousand kilometers of their Clone
+Reanimation Units (where the merc respawns after death) in order to ensure that
+the data is transferred correctly. But the changes go beyond that. As noted
+above, when pod pilots die, their entire neural profile is transferred at the
+moment of death and recreated in a new brain.
+However, for DUST soldiers, the soldier’s personality is centrally stored in a
+computer somewhere, along with all of his knowledge and skills. When the soldier
+dies, the implants transmit back a small update file that only includes memories
+and skills obtained since the last time the soldier’s neural data was
+downloaded. The new, updated personality construct is then downloaded to a new
+body and the solider is sent off to battle once again.
 
-There was, however, something wrong with the implants. Well, not so much wrong
-as much as they [were still
-occupied](http://wiki.eveonline.com/en/wiki/514_%28Chronicle%29). The Amarr
-first stumbled across these implants while investigating Sleeper ruins. They
-found intact, but seemingly dead, bodies and took them in to study. They
-eventually discovered the implants discussed above, and what they were able to
-do. However, the Amarr were unable to reproduce the implants themselves. Faced
-with this unprecedented military technology, they did what any God-fearing
-society would do: they resorted to grave robbing. They soon culled hundreds, if
-not thousands, of these implants and used them for their own purposes. The other
-empires (with a little help from CONCORD and good ol' Directive Alpha Gamma 12)
-soon caught wind of these programs, and set to work on their own research
-initiatives, following the same grave-robbing techniques the Amarr first
-pioneered.
+The Amarr first stumbled across these implants while investigating Sleeper
+ruins. They found intact, but seemingly dead, bodies and took them in to study.
+They eventually discovered the implant’s capabilities and were, naturally,
+intrigued by them. However, the Amarr were unable to reproduce the implants
+themselves. Faced with this unprecedented military technology, they did what any
+God-fearing society would do: they resorted to grave robbing. They soon culled
+hundreds, if not thousands, of these implants and used them for their own
+purposes. The other empires (with a little help from CONCORD and good ol’
+Directive Alpha Gamma 12) soon caught wind of these programs, and set to work on
+their own research initiatives, following the same grave- robbing techniques the
+Amarr first pioneered.
 
 The problem, of course, was that the Sleepers they were culling the implants
-from weren't actually dead. They were simply living up to their names: they were
-sleeping. The implants, apparently, not only serve to transfer a conscience to a
-new body; they also help connect that conscience to the Sleeper mainframe, as it
-were. When the implants were removed from the Sleeper bodies, at least parts of
-the Sleeper conscience remained in the implants. And it turns out they didn't
-much appreciate being ripped out of their own bodies and used for the designs of
-us lesser civilizations. They would briefly take over the new mercenary
-soldiers, making them speak in tongues and have strange visions.
+from [weren’t actually
+dead](http://wiki.eveonline.com/en/wiki/514_%28Chronicle%29). They were simply
+living up to their names: they were sleeping. The implants, apparently, not only
+serve to transfer a conscience to a new body; they also help connect that
+conscience to the Sleeper mainframe, as it were. When the implants were removed
+from the Sleeper bodies, at least parts of the Sleeper conscience remained in
+the implants. And it turns out they didn’t much appreciate being ripped out of
+their own bodies and used for the designs of us lesser civilizations. They would
+briefly take over the new mercenary soldiers, making them speak in tongues and
+have strange visions.
 
-The Amarr eventually recognized what was going on (indeed, *Templar One* implies
-that the Empress is dealing with her own Sleeper conscience, take from that what
-you will) and, with massive effort, managed to create their own functionally
-equivalent implant technology. Seeing that harvesting more of these implants
-could incur further wrath from the Sleepers, Empress Jamyl [authorized each of
-the empires to have access to her
+The Amarr eventually recognized what was going on and, with massive effort,
+managed to create their own functionally equivalent implant technology. Seeing
+that harvesting more of these implants could incur further wrath from the
+Sleepers, Empress Jamyl [authorized each of the empires to have access to her
 alternative](http://wiki.eveonline.com/en/wiki/514_%28Chronicle%29),
-Sleeper-less implants. And thus, we head into the launch of DUST 514 with each
-empire having their own sets of immortal infantry, and apparently free of the
-terrifying visions that hampered previous incarnations of soldiers. Despite
-obvious advantages, it doesn't look like capsuleers will be gaining access to
-this technology anytime soon. Oh, and I should mention that I believe the same
-strict compatibility requirements for capsuleers apply to the new implants.
+Sleeper-less implants. And thus, DUST 514 launched with each empire having their
+own sets of immortal infantry, apparently free of the terrifying visions
+that hampered previous incarnations of soldiers. Despite obvious advantages, it
+doesn't look like capsuleers will be gaining access to this technology anytime
+soon. Oh, and I should mention that I believe the same strict compatibility
+requirements for capsuleers apply to the new implants.
 
 Beyond that, the technology in DUST revolves around [guns, guns, and more
 guns](http://www.dust514.org/item-database) (along with vehicles that carry
@@ -3241,22 +3385,22 @@ Formally known as the Sotiyo-Urbaata drive for the two Caldari scientists that
 developed it, warp drives are the things that allow us to zoom around the solar
 system at multiple astronomical units per second (as a reference guide, it takes
 light approximately 8 minutes to travel 1 astronomical unit, so traveling at the
-standard 3 AU per second is quite speedy indeed). First developed in the year
-22821, [the
+standard 3 AU per second is quite speedy indeed, and roughly on par with Star
+Trek’s warp 9). First developed in the year 22821, [the
 drive](http://wiki.eveonline.com/en/wiki/Interstellar_travelling#Space_Vessels_Get_A_Boost:_The_First_Jump_Drives)
 was built to solve the problem of how to quickly travel between Caldari Prime
 and Gallente Prime. Even though developed over 600 years ago, the Amarr and
 Minmatar took a while to catch on (the Minmatar had independently developed
 acceleration gates for their intra-system travel needs, the Amarr apparently
-just enjoy rocking back and forth and slowness).
+just enjoy a slow and plodding place).
 
 The warp drive works through the magic of "[depleted
 vacuum](http://wiki.eveonline.com/en/wiki/Interstellar_travelling#Faster-Than-Light-Travel:_How.3F)".
-Even empty space generally has SOMETHING in it, be it atoms here or there or
-even just random particles that pop into existence only to be annihilated mere
-moments later. So even the vacuum of space is never truly "empty". The warp
-drive works to create full, "depleted" vacuum, so there is literally nothing in
-it. No specks of dust, no [virtual
+Even empty space generally has SOMETHING in it, be it atoms here or there,
+energy, or even just random particles that pop into existence only to be
+annihilated mere moments later. So even the vacuum of space is never truly
+"empty". The warp drive works to create full, "depleted" vacuum, so there is
+literally nothing in it. No specks of dust, no [virtual
 particles](http://en.wikipedia.org/wiki/Virtual_particle), no energy or matter
 of any kind. Such an empty place, according to the game lore, has special
 properties. Rather than being affected by friction, it actually has
@@ -3271,9 +3415,8 @@ drive knows when to cut out. The need to lock onto a gravity source to activate
 the drive is the nominal reason why you can't just pick a random direction and
 warp off, but doesn't quite explain how we can just warp to bookmarks in the
 middle of nowhere (but WHATEVER). Furthermore, you can blame your warp core
-(essentially, an [aneutronic fusion
-reactor](http://wiki.eveonline.com/en/wiki/Aneutronic_fusion) coupled with the
-depleted vacuum generator) for creating "[four dimensional
+(essentially, a reactor (each race has their own kind) coupled with the depleted
+vacuum generator) for creating "[four dimensional
 drag](http://wiki.eveonline.com/en/wiki/The_Storylines_of_New_Eden_-_11th_February)"
 that pulls your ship to a halt (this is ostensibly why we play submarines in
 space (from a physics model perspective), as opposed to the Newtonian motion
@@ -3338,7 +3481,7 @@ November of YC 116 (that's November of 2014 for you uneducated plebes... or the
 ones who haven't read the next section yet), a spatial anomaly became visible
 after being [first
 noticed](https://twitter.com/NewEdenCaroline/status/537676000906457089) by
-capsuleer and noted space photographer (and, if you irritate her, butt-slapper)
+capsuleer and noted space photographer (and notorious butt-slapper)
 Caroline Grace. The anomaly quickly became visible throughout the Cluster which,
 if you know anything about how [light
 works](https://en.wikipedia.org/wiki/Light), shouldn't be possible
@@ -3360,13 +3503,14 @@ eventually identified as [Jove
 observatories](https://evetravel.wordpress.com/2015/03/22/unidentified-structures-uncloaked/),
 began partially-decloaking throughout the Cluster. With the appearance of these
 structures came the first appearance of the Circadian Seeker Sleeper drones
-which I've previously discussed, who have grown more and more hostile as time
-has progressed. It was also around now that 101 new systems became accessible to
-capsuleers through the wormhole network, and their new-found accessibility seems
-attributable to the Caroline's Star event. Most of these systems are, for the
-most part, barren. They consist of planetary systems in which each planet has
-been shattered by some cataclysmic event (think the Seyllin incident but only
-moreso). At the center, above a turbulent star, sits the enigmatic epicenters.
+which I've previously discussed, and eventually the Drifters, who have grown
+more and more hostile as time has progressed. It was also around now that 101
+new systems became accessible to capsuleers through the wormhole network, and
+their new-found accessibility seems attributable to the Caroline's Star event.
+Most of these systems are, for the most part, barren. They consist of planetary
+systems in which each planet has been shattered by some cataclysmic event (think
+the Seyllin incident but only moreso). At the center, above a turbulent star,
+sits the enigmatic epicenters.
 
 One system, though, deserves special mention here: Thera. Thera seems to be a
 hub system. It's a massive system, over 300 AU across, and has an above-average
@@ -3433,10 +3577,10 @@ software](http://wiki.eveonline.com/en/wiki/Language_Translators_%28Chronicle%29
 in our ships (though why local remains untranslated remains an open question).
 Regardless, crafting appropriate sounding names is an important aspect to most
 RPers, so I've included a brief review of most in-game languages and names. I
-should mention that most of this research was done by my host Seismic Stan in
-the course of preparing his excellent in-character website at [Tech4
-News](http://tech4news.org/), which is dedicated to covering news from a
-non-capsuleer perspective, though there are [other excellent player-researched
+should mention that most of this research was done by Seismic Stan in the course
+of preparing his excellent in-character (though now, sadly, defunct) website at
+Tech4 News, which is dedicated to covering news from a non-capsuleer
+perspective, though there are [other excellent player-researched
 sources](https://forums.eveonline.com/default.aspx?g=posts&m=184211#post184211)
 out there.
 
@@ -3506,11 +3650,12 @@ Datacore](http://interstellarprivateer.wordpress.com/shattered-planets-datacore/
 Of course, anything merely man-made had little chance of surviving events that
 could destroy planets. While a number of systems were thankfully uninhabited, we
 do know that an [ORE survey
-team](http://community.eveonline.com/news/news-channels/world-news/report-communications-lost-with-ore-survey-team-in-outer-ring/),
-as well as a [Thukker
+team](http://community.eveonline.com/news/news-channels/world-news/report-communications-lost-with-ore-survey-team-in-outer-ring/)
+was destroyed, while a [Thukker
 caravan](http://community.eveonline.com/news/news-channels/world-news/report-thukker-caravan-reported-missing-in-great-wildlands/)
-in the Great Wildlands. Recently, however, the remains of that caravan were
-found in Thera. Exactly how it arrived there intact is still unknown.
+should have been but instead was later [found in
+Thera](https://evetravel.wordpress.com/2015/05/09/expedition-office/). Exactly
+how it arrived there intact is still unknown.
 
 These losses pale in comparison, though, to the loss of life in Seyllin. Seyllin
 was a small but successful Federation mining colony housing roughly 500 million
@@ -3529,40 +3674,39 @@ factions (including, notably, the Serpentis), managed to begin lifting some
 citizens, but not nearly enough. Only 843,000 out of a population of 500 million
 were ultimately saved from Seyllin I.
 
-After such an event, of course, governments and scientists alike were eager to
-determine just what caused these "events". Eventually, the signature of a rare
-substance known as [Isogen-5](http://wiki.eveonline.com/en/wiki/Isogen-5) was
-found at the site of each explosion. Isogen-5, a rare isotope of the somewhat
-more common [Isogen](http://wiki.eveonline.com/en/wiki/Isogen), is an extremely
-unstable substance (if that wasn't obvious from the, you know, massive
-explosions it caused). We're not entirely sure who or what placed the Isogen-5
-near the stars, but
-[there's](http://wiki.eveonline.com/en/wiki/The_Spiral_%28Chronicle%29)
+Governments and scientists alike were, naturally, eager to determine just what
+caused these "events". Eventually, the signature of a rare substance known as
+[Isogen-5](http://wiki.eveonline.com/en/wiki/Isogen-5) was found at the site of
+each explosion. Isogen-5, a rare isotope of the somewhat more common
+[Isogen](http://wiki.eveonline.com/en/wiki/Isogen), is an extremely unstable
+substance (if that wasn't obvious from the, you know, massive explosions it
+caused). We're not entirely sure who or what placed the Isogen-5 near the stars,
+but [there's](http://wiki.eveonline.com/en/wiki/The_Spiral_%28Chronicle%29)
 [at](http://wiki.eveonline.com/en/wiki/Half_a_Life_%28Chronicle%29)
 [least](http://wiki.eveonline.com/en/wiki/1_%28Chronicle%29)
 [one](http://wiki.eveonline.com/en/wiki/The_Great_Harvest_%28Chronicle%29)
 [proven](http://wiki.eveonline.com/en/wiki/We_Humans_%28Chronicle%29)
 [case](http://wiki.eveonline.com/en/wiki/World_On_Fire_%28Chronicle%29) (though
 not one that's known publicly, to my knowledge) where rogue drones were hoarding
-the substance for unknown reasons. In that case, however, rogue drones were
-hoarding the Isogen-5 apparently under the command of Empress Jamyl (who had yet
-to make [her
+the substance apparently under the command of Empress Jamyl (who had yet to make
+[her
 return](http://wiki.eveonline.com/en/wiki/Jamyl_I#Return_and_Battle_of_Mekhios)
 to Cluster politics following her apparent death), to power the Terran
 superweapon that she used to devastating effect in the [Battle of
 Mekhios](http://evetravel.wordpress.com/2009/12/23/40/) against the Elder Fleet.
 Prior to her return, she tested her superweapon once on a [Blood
 Raider](http://evetravel.wordpress.com/2011/02/12/t-ipzb-graveyard/) fleet, with
-a similar result. There is at least [some
+a similar result. Why the drones were following her command, when other rogue
+drones have shown little proclivity for working with organic beings, is a
+mystery. There is at least [some
 evidence](http://wiki.eveonline.com/en/wiki/The_Storylines_of_New_Eden_-_11th_February)
 that the March 10 detonations were, in fact, an accident. Under this theory, one
 of the Isogen-5 caches made by the drones under Jamyl's command accidentally
 detonated, which set off a chain reaction amongst the other Isogen-5 caches.
 However, that theory doesn't quite explain why some shattered planets are found
 in wormhole space (where New Eden rogue drones couldn't possibly have traveled
-to before the wormholes opened), so the question of who created the caches in
-the first place is still very much up for debate (as is the question of rogue
-drone motives for creating their caches).
+to before the wormholes opened), so the question of who created the caches there
+in the first place is still very much up for debate.
 
 In any event, the Isogen-5 detonations did more than just kill a few hundred
 million people. The explosions were so severe that they ripped holes in the
