@@ -1,6 +1,6 @@
 ---
-title: Mark726's EVE Lore Survival Guide v2.2
-subtitle: (Current as of Galatea release, September 21, 2015)
+title: Mark726's EVE Lore Survival Guide v2.5
+subtitle: (Current as of March 6, 2016)
 author: Mark726 (E-book conversion by Florian Lousberg)
 language: en-US
 ...
